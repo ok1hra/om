@@ -4,7 +4,7 @@
 <?
 //------------------------------------------------------------------
 // my ($mylat, $mylon) = (50.10, -14.40);  <--- set in dxcc.pl
-$IP        = '192.168.1.36' ;  // CW/RTTY IP OI3
+$IP        = '192.168.1.87' ;  // CW/RTTY IP OI3
 $cwcliport = '89';               // UDP rxfile('../cfg/s-cw-cwcli');
 $fskport   = '89';               // UDP rxfile('../cfg/s-cw-cwcli');
 $rigip     = '192.168.1.22' ;       // hamlib TRX IP (rigctld)
@@ -780,7 +780,11 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'LSB' || $mode == 'USB' || $mode
 					if (preg_match('*(Russia|Kaliningrad)*', GetDxcc($callr))) {
 						$show = 'Occupant detected! ' ;
 					} else {
-						udpsocket($IP, port(), $call );
+						if ($mode == 'RTTY'){
+							udpsocket($IP, port(), ' '.$call.' '.$call.' ' );	// DE call call RTTY
+						} else {
+							udpsocket($IP, port(), $call );
+						}
 					//	$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
 						$mhz = round(freq($rigip)/1000000, 3);
 						$show = $call.' <span class="'.$style.'">('.$mhz.' Mhz)</span>' ;
