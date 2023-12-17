@@ -2,18 +2,25 @@
 <html>
 <head>
 <?
+// Support two IP interfaces
+// 	- https://github.com/ok1hra/IC-705_Interface
+//	- https://github.com/ok1hra/k3ng_cw_keyer
+//
 // CONFIGURE ------------------------------------------------------------------
-// my ($mylat, $mylon) = (50.10, -14.40);  <--- set in dxcc.pl
-$IP        = '192.168.1.87' ;  // CW/RTTY IP OI3
-$cwcliport = '89';             // UDP rxfile('../cfg/s-cw-cwcli');
-$fskport   = '89';             // UDP rxfile('../cfg/s-cw-cwcli');
-$CAT       = '1';					 // 0 = hamlib, 1 = http (OpenInterface3)
-$rigip     = '127.0.0.1' ;     // TRX IP - hamlib(rigctld) / OpenInterface3
-$locator   = 'JO60WA';
-//------------------------------------------------------------------
+// my ($mylat, $mylon) = (50.10, -14.40);  <--- PLEASE SET IN dxcc.pl
+$locator   = 'JO60WA';		// QTH for 2m and up sending MSG
+$IP        = '192.168.1.72';	// CAT/UDP TRX interface
+
+// default
+$cwcliport = '89';		// UDP port for CW message
+$fskport   = '89';		// UDP port for RTTY message
+$catport   = '81';		// http port for get ferquency/mode
+$CAT       = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
+//-----------------------------------------------------------------------------
 
 
-$REV = '20231006';
+$REV = '20231217';
+$rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
 $logpath = 'log/'.$log ;
@@ -30,7 +37,8 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
-   2023-09 - add RTTYR mode, add CAT support for OpenInterface3
+	2023-12 - add FSK mode (support IC705), fix configure
+	2023-09 - add RTTYR mode, add CAT support for OpenInterface3
 	2022-02 - occupant detector
 	2021-11 - maidenhead QTH locators support by https://fkurz.net/ham/stuff.html?maidenhead
 	2020-11 - first change for UHF
@@ -47,29 +55,28 @@ global $preset2;
 	2015-08 - new frequency cache - if hmlib short fail
 
 
-
-	INSTALL
-		sudo apt install apache2 php libapache2-mod-php php-mysql
+	INSTALL sudo apt install apache2 git
+		sudo apt install php libapache2-mod-php php-mysql
 		sudo mkdir /var/www/html/om/
 		sudo chmod 774 /var/www/html/om
 		sudo chown dan:www-data /var/www/html/om
-		rsync -rvax -e "ssh -p 8022" root@server.ol7m.com:/var/www/rc/hra/ /var/www/html/om/
-		sudo sed -i 's/short_open_tag = Off/short_open_tag = On/g' /etc/php/7.3/apache2/php.ini
+		cd /var/www/html/om
+		git clone https://github.com/ok1hra/Om.git
+		sudo sed -i 's/short_open_tag = Off/short_open_tag = On/g' /etc/php/7.3/apache2/php.ini 
 		sudo systemctl reload apache2
-		sudo apt install libhamlib-utils
 
-	RUN	// ts480
+	RUN	configure IP IC-705/OpenInterface CAT interface in .om/php
+
+	--------
+	OBSOLETE (hamlib)
+		sudo apt install libhamlib-utils
+		// ts480
 		/usr/bin/rigctld -m 228 -r /dev/ttyUSB.cat -s 9600 &
 		// ic746
 		/usr/bin/rigctld -m 323 -r /dev/ttyUSB.cat -s 9600 &
-
-	OPEN	http://127.0.0.1/om/om.php?s=run&log=2015-03-21-TEST1&call=OK1HRA&exch=NR
-
-
-	----
-	#rigctl -m 2 -r 192.168.11.80
-	#/usr/bin/rigctld -m 228 -r /dev/ttyUSB.cat -s 9600
-
+		
+		#rigctl -m 2 -r 192.168.11.80
+		#/usr/bin/rigctld -m 228 -r /dev/ttyUSB.cat -s 9600
 
 ---------------------------------------------->
 
@@ -525,11 +532,11 @@ function qso($file) {
 //require 'function.php';
 // txIP socket
 function mode($ip) {
-	global $style, $CAT, $IP;
+	global $style, $CAT, $IP, $catport;
 	if ($CAT == '0') { // hamlib
 		// $mode = 'CW'; //exec("rigctl -m 2 -r $ip m | head -n1");
 		$mode = exec("/usr/bin/rigctl -m 2 -r $ip m | head -n1");
-		if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'RTTY' || $mode == 'RTTYR') { // mode OK
+		if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') { // mode OK
 			$style = 'gray';
 			txfile('/tmp/mode', $mode);  // save last mode
 		}else{ // rig OFF
@@ -539,7 +546,9 @@ function mode($ip) {
 		//echo var_dump($mode)."<br>"; 
 		return $mode;
 	}elseif ($CAT == '1') { // http
-		$url = 'http://'.$IP.':81';
+		$url = 'http://'.$IP.':'.$catport ;
+		//$url = 'http://'.$IP.':81' ;
+		//$url = 'http://' . $IP . ':' . $catport ;
 		$data = file_get_contents($url);
 		if ($data !== false) {
 			$field = explode("|", $data);
@@ -554,7 +563,7 @@ function mode($ip) {
 	}
 }
 function freq($ip) {
-	global $CAT, $IP ;
+	global $CAT, $IP, $catport;
 	if ($CAT == '0') { // hamlib
 		// $hz = exec("rigctl -m 2 -r $ip f");
 		$mhz = exec("/usr/bin/rigctl -m 2 -r $ip f");
@@ -568,7 +577,7 @@ function freq($ip) {
 		//echo var_dump($mhz)."<br>"; 
 		return $mhz;
 	}elseif ($CAT == '1') { // http
-		$url = 'http://'.$IP.':81';		// 14005000|RTTY|
+		$url = 'http://'.$IP.':'.$catport ;		// 14005000|RTTY|
 		$data = file_get_contents($url);
 		if ($data !== false) {
 			$field = explode("|", $data);
@@ -588,7 +597,7 @@ function GetDxcc($callsign) {
 }
 
 function rst($mode) {
-	if ($mode == 'CW' || $mode == 'CWR' || $mode == 'RTTY' || $mode == 'RTTYR'){
+	if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR'){
 		$rst='599';
 	}elseif ($mode == 'SSB' || $mode == 'USB' || $mode == 'LSB' ){
 		$rst='59';
@@ -596,7 +605,9 @@ function rst($mode) {
 	return $rst;
 }
 function setrit($ip, $hz) {
-	$hz = exec("/usr/bin/rigctl -m 2 -r $ip J $hz");
+	if ($CAT == '0') { // hamlib
+		$hz = exec("/usr/bin/rigctl -m 2 -r $ip J $hz");
+	}
 }
 function qsonr($log) {
 	if (file_exists($log)) {
@@ -615,7 +626,7 @@ function qsonr($log) {
 }
 function port() {
 	global $cwcliport, $fskport, $mode;
-	if ($mode == 'RTTY' || $mode == 'RTTYR'){
+	if ($mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 		return $fskport;
 	} else {
 		return $cwcliport;
@@ -697,7 +708,7 @@ if (empty($conteststyle)){
 }
 
 $mode= mode($rigip);
-if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'RTTY' || $mode == 'RTTYR') {
+if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') {
 	$qsonrs = qsonr("$logpath.txt");
 	date_default_timezone_set('UTC');
 	$date = date('Y-m-d H:i ', time());
@@ -709,7 +720,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	$qsonrr = trim(strtoupper($_POST['qsonrr']));
 
 	/////////////////// RTTY MEMORY ////////////////////////////
-	if ($mode == 'RTTY' || $mode == 'RTTYR'){
+	if ($mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 		$CQ = ' '.$call.' '.$call.' '.$call.' TEST ';
 		if (strtoupper($exch) == 'NR'){
 			$TXEXCH = ' '.$callr.' '.$callr.' 599-'.$qsonrs.' 599-'.$qsonrs.' ';    // $cwtwxt = call in input form, $qsonrs = QSO nr
@@ -784,7 +795,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		$af2 = '';
 	}elseif (isset($_POST['callr']) && !isset($_POST['wpm15']) && !isset($_POST['wpm20']) && !isset($_POST['wpm25']) && !isset($_POST['wpm28']) && !isset($_POST['wpm30']) && !isset($_POST['wpm32']) && !isset($_POST['wpm35']) && !isset($_POST['tune'])) {             // if press enter in field call
 		if (empty($callr) && empty($qsonrr)){  // if call and nr field clear, run CQ
-			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'RTTY' || $mode == 'RTTYR'){            // CW only
+			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){            // CW only
 				if ($conteststyle == 'run'){
 					udpsocket($IP, port(), $CQ );
 					$mhz = round(freq($rigip)/1000000, 3);
@@ -800,7 +811,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			$af1 = 'autofocus="autofocus"';
 			$af2 = '';
 		}elseif (isset($callr) && empty($qsonrr)){ // if call writed and nr clear, run EXCH
-			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'RTTY' || $mode == 'RTTYR'){
+			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 				if ($conteststyle == 'run'){
 					if (preg_match('*(Russia|Kaliningrad)*', GetDxcc($callr))) {
 						udpsocket($IP, port(), $CQ );
@@ -817,7 +828,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 					if (preg_match('*(Russia|Kaliningrad)*', GetDxcc($callr))) {
 						$show = 'Occupant detected! ' ;
 					} else {
-						if ($mode == 'RTTY' || $mode == 'RTTYR'){
+						if ($mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 							udpsocket($IP, port(), ' '.$call.' '.$call.' ' );	// DE call call RTTY
 						} else {
 							udpsocket($IP, port(), $call );
@@ -833,7 +844,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			$af1 = '';
 			$af2 = 'autofocus="autofocus"';
 		}elseif (isset($callr) && isset($qsonrr)){  // if call and nr writed, run TU
-			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'RTTY' || $mode == 'RTTYR'){
+			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 				if ($conteststyle == 'run'){
 					$callrtest = rxfile('/tmp/callr');
 					if ($callrtest == $callr){                            // if call not changed
@@ -872,7 +883,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			}
 			file_put_contents("$logpath.adif", '<FREQ:'.strlen($mhz).'>'.$mhz.' <QSO_DATE:'.strlen($dateadif).'>'.$dateadif.' <TIME_ON:'.strlen($timeadif).'>'.$timeadif.' <CALL:'.strlen($callr).'>'.$callr.' <MODE:'.strlen($mode).'>'.$mode.' <RST_SEND:'.strlen(rst($mode)).'>'.rst($mode).' <STX:'.strlen($qsonrs).'>'.$qsonrs.' <RST_RCVD:'.strlen(rst($mode)).'>'.rst($mode).' <SRX:'.strlen($qsonrr).'>'.$qsonrr.' <EOR>'."\n", FILE_APPEND);  // add qso to adif log
 
-		//	setrit($rigip, '0');
+			setrit($rigip, '0');
 			$preset = '';
 			$af1 = 'autofocus="autofocus"';
 			$af2 = '';
@@ -933,7 +944,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			<p class="text2">Call:
 			<input type="text" <? echo $af1?> value="<? echo $preset?>" name="callr" id="Call" onblur="if (this.value == '') {this.value = '<? echo $preset?>';}" size="8" maxlength="30" autocomplete="off"/><?
 
-		if (($mode == 'CW' || $mode == 'CWR' || $mode == 'RTTY' || $mode == 'RTTYR')&& $conteststyle == 'run'){
+		if (($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR')&& $conteststyle == 'run'){
 			echo '<input type="submit" name="send" value="*?" class="qso">';
 		}else if ($conteststyle == 'sp'){
 				echo '<input type="submit" name="send" value="Check" class="qso">';
@@ -950,7 +961,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			// if (freq($rigip) > 140000000){
 			// 	echo " Loc<input type=\"text\"$af2 value=\"$preset2\" name=\"qsonrr\" size=\"6\" maxlength=\"30\" autocomplete=\"off\">";
 			// }
-		if ($mode == 'CW' || $mode == 'CWR' || $mode == 'RTTY' || $mode == 'RTTYR'){
+		if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 		if ($conteststyle == 'run'){
 			echo '<input type="submit" name="send" value="nr?" class="qso">';
 		}
@@ -998,8 +1009,8 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	Download: <a href="<?echo "$logpath.txt" ?>">.txt&#8599;</a> <a href="<?echo "$logpath.adif" ?>">.adif&#8599;</a> | <a href="http://remoteqth.com/wiki/index.php?page=Simple+WEB+contest+LOG">ॐ-wiki</a> | <a href="om-install.txt">Install</a>
 <?
 }else{
-	echo 'Switch TRX to <b>CW/SSB/RTTY</b> or check TRX CAT.';
-	echo ' | CAT '.$CAT.' | MODE '.mode($rigip).' | MHz '.freq($rigip).'|'; 
+	echo 'Switch TRX to <b>CW/SSB/RTTY</b> or check TRX CAT.<br>';
+	echo ' | CAT '.$CAT.' | MODE '.mode($rigip).' | MHz '.freq($rigip).' | <a href="'.'http://'.$IP.':'.$catport.'" target="_blank">URL</a> |'; 
 }?>
 </div>
 </body>
