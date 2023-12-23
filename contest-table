@@ -1,0 +1,631 @@
+<tr>
+	<td>2023-12-09-ARRL-10M</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2023-12-09-ARRL-10M.txt">.txt</a></td>
+	<td><a href="log/2023-12-09-ARRL-10M.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-12-09-ARRL-10M.txt")) { echo qso("log/2023-12-09-ARRL-10M.txt"); $sumqso=$sumqso+qso("log/2023-12-09-ARRL-10M.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-12-09-ARRL-10M&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2023-11-11-OK-OM-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">BRA</td>
+	<td><a href="log/2023-11-11-OK-OM-DX.txt">.txt</a></td>
+	<td><a href="log/2023-11-11-OK-OM-DX.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-11-11-OK-OM-DX.txt")) { echo qso("log/2023-11-11-OK-OM-DX.txt"); $sumqso=$sumqso+qso("log/2023-11-11-OK-OM-DX.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-11-11-OK-OM-DX&call=OK1HRA&exch=BRA" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2023-11-04-A1</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2023-11-04-A1.txt">.txt</a></td>
+	<td><a href="log/2023-11-04-A1.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-11-04-A1.txt")) { echo qso("log/2023-11-04-A1.txt"); $sumqso=$sumqso+qso("log/2023-11-04-A1.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-11-04-A1&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2023-10-14-OCEANIA-DX-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2023-10-14-OCEANIA-DX-CW.txt">.txt</a></td>
+	<td><a href="log/2023-10-14-OCEANIA-DX-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-10-14-OCEANIA-DX-CW.txt")) { echo qso("log/2023-10-14-OCEANIA-DX-CW.txt"); $sumqso=$sumqso+qso("log/2023-10-14-OCEANIA-DX-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-10-14-OCEANIA-DX-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2023-09-23-CQWW-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2023-09-23-CQWW-RTTY.txt">.txt</a></td>
+	<td><a href="log/2023-09-23-CQWW-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-09-23-CQWW-RTTY.txt")) { echo qso("log/2023-09-23-CQWW-RTTY.txt"); $sumqso=$sumqso+qso("log/2023-09-23-CQWW-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-09-23-CQWW-RTTY&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2023-09-02-IARU-R1-144MHZ</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2023-09-02-IARU-R1-144MHZ.txt">.txt</a></td>
+	<td><a href="log/2023-09-02-IARU-R1-144MHZ.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-09-02-IARU-R1-144MHZ.txt")) { echo qso("log/2023-09-02-IARU-R1-144MHZ.txt"); $sumqso=$sumqso+qso("log/2023-09-02-IARU-R1-144MHZ.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-09-02-IARU-R1-144MHZ&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2023-03-04-ARRL-SSB</td>
+	<td>OK1HRA</td>
+	<td class="center">KW</td>
+	<td><a href="log/2023-03-04-ARRL-SSB.txt">.txt</a></td>
+	<td><a href="log/2023-03-04-ARRL-SSB.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-03-04-ARRL-SSB.txt")) { echo qso("log/2023-03-04-ARRL-SSB.txt"); $sumqso=$sumqso+qso("log/2023-03-04-ARRL-SSB.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-03-04-ARRL-SSB&call=OK1HRA&exch=KW" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2023-02-18-ARRL-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">KW</td>
+	<td><a href="log/2023-02-18-ARRL-CW.txt">.txt</a></td>
+	<td><a href="log/2023-02-18-ARRL-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2023-02-18-ARRL-CW.txt")) { echo qso("log/2023-02-18-ARRL-CW.txt"); $sumqso=$sumqso+qso("log/2023-02-18-ARRL-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2023-02-18-ARRL-CW&call=OK1HRA&exch=KW" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-11-26-CQ-WW-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2022-11-26-CQ-WW-CW.txt">.txt</a></td>
+	<td><a href="log/2022-11-26-CQ-WW-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-11-26-CQ-WW-CW.txt")) { echo qso("log/2022-11-26-CQ-WW-CW.txt"); $sumqso=$sumqso+qso("log/2022-11-26-CQ-WW-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-11-26-CQ-WW-CW&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-11-12-OK-OM-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">BRA</td>
+	<td><a href="log/2022-11-12-OK-OM-DX.txt">.txt</a></td>
+	<td><a href="log/2022-11-12-OK-OM-DX.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-11-12-OK-OM-DX.txt")) { echo qso("log/2022-11-12-OK-OM-DX.txt"); $sumqso=$sumqso+qso("log/2022-11-12-OK-OM-DX.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-11-12-OK-OM-DX&call=OK1HRA&exch=BRA" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-11-05-A1</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2022-11-05-A1.txt">.txt</a></td>
+	<td><a href="log/2022-11-05-A1.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-11-05-A1.txt")) { echo qso("log/2022-11-05-A1.txt"); $sumqso=$sumqso+qso("log/2022-11-05-A1.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-11-05-A1&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-10-29-CQ-WW-SSB</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2022-10-29-CQ-WW-SSB.txt">.txt</a></td>
+	<td><a href="log/2022-10-29-CQ-WW-SSB.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-10-29-CQ-WW-SSB.txt")) { echo qso("log/2022-10-29-CQ-WW-SSB.txt"); $sumqso=$sumqso+qso("log/2022-10-29-CQ-WW-SSB.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-10-29-CQ-WW-SSB&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-09-24-CQWW-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2022-09-24-CQWW-RTTY.txt">.txt</a></td>
+	<td><a href="log/2022-09-24-CQWW-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-09-24-CQWW-RTTY.txt")) { echo qso("log/2022-09-24-CQWW-RTTY.txt"); $sumqso=$sumqso+qso("log/2022-09-24-CQWW-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-09-24-CQWW-RTTY&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-07-02-PD</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2022-07-02-PD.txt">.txt</a></td>
+	<td><a href="log/2022-07-02-PD.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-07-02-PD.txt")) { echo qso("log/2022-07-02-PD.txt"); $sumqso=$sumqso+qso("log/2022-07-02-PD.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-07-02-PD&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-05-29-WPX-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2022-05-29-WPX-CW.txt">.txt</a></td>
+	<td><a href="log/2022-05-29-WPX-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-05-29-WPX-CW.txt")) { echo qso("log/2022-05-29-WPX-CW.txt"); $sumqso=$sumqso+qso("log/2022-05-29-WPX-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-05-29-WPX-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-03-05-I_SUBR</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2022-03-05-I_SUBR.txt">.txt</a></td>
+	<td><a href="log/2022-03-05-I_SUBR.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-03-05-I_SUBR.txt")) { echo qso("log/2022-03-05-I_SUBR.txt"); $sumqso=$sumqso+qso("log/2022-03-05-I_SUBR.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-03-05-I_SUBR&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-02-19-ARRL-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">KW</td>
+	<td><a href="log/2022-02-19-ARRL-CW.txt">.txt</a></td>
+	<td><a href="log/2022-02-19-ARRL-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-02-19-ARRL-CW.txt")) { echo qso("log/2022-02-19-ARRL-CW.txt"); $sumqso=$sumqso+qso("log/2022-02-19-ARRL-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-02-19-ARRL-CW&call=OK1HRA&exch=KW" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-01-28-CQ-160-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2022-01-28-CQ-160-CW.txt">.txt</a></td>
+	<td><a href="log/2022-01-28-CQ-160-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-01-28-CQ-160-CW.txt")) { echo qso("log/2022-01-28-CQ-160-CW.txt"); $sumqso=$sumqso+qso("log/2022-01-28-CQ-160-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-01-28-CQ-160-CW&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2022-01-22-BARTG-SPRINT</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2022-01-22-BARTG-SPRINT.txt">.txt</a></td>
+	<td><a href="log/2022-01-22-BARTG-SPRINT.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2022-01-22-BARTG-SPRINT.txt")) { echo qso("log/2022-01-22-BARTG-SPRINT.txt"); $sumqso=$sumqso+qso("log/2022-01-22-BARTG-SPRINT.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2022-01-22-BARTG-SPRINT&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-11-27-CQ-WW-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2021-11-27-CQ-WW-CW.txt">.txt</a></td>
+	<td><a href="log/2021-11-27-CQ-WW-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-11-27-CQ-WW-CW.txt")) { echo qso("log/2021-11-27-CQ-WW-CW.txt"); $sumqso=$sumqso+qso("log/2021-11-27-CQ-WW-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-11-27-CQ-WW-CW&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-11-13-OK-OM-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">BRA</td>
+	<td><a href="log/2021-11-13-OK-OM-DX.txt">.txt</a></td>
+	<td><a href="log/2021-11-13-OK-OM-DX.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-11-13-OK-OM-DX.txt")) { echo qso("log/2021-11-13-OK-OM-DX.txt"); $sumqso=$sumqso+qso("log/2021-11-13-OK-OM-DX.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-11-13-OK-OM-DX&call=OK1HRA&exch=BRA" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-11-06-A1</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2021-11-06-A1.txt">.txt</a></td>
+	<td><a href="log/2021-11-06-A1.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-11-06-A1.txt")) { echo qso("log/2021-11-06-A1.txt"); $sumqso=$sumqso+qso("log/2021-11-06-A1.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-11-06-A1&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-09-25-CQWW-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2021-09-25-CQWW-RTTY.txt">.txt</a></td>
+	<td><a href="log/2021-09-25-CQWW-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-09-25-CQWW-RTTY.txt")) { echo qso("log/2021-09-25-CQWW-RTTY.txt"); $sumqso=$sumqso+qso("log/2021-09-25-CQWW-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-09-25-CQWW-RTTY&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-09-04-VHF</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2021-09-04-VHF.txt">.txt</a></td>
+	<td><a href="log/2021-09-04-VHF.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-09-04-VHF.txt")) { echo qso("log/2021-09-04-VHF.txt"); $sumqso=$sumqso+qso("log/2021-09-04-VHF.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-09-04-VHF&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-08-14-WAE-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2021-08-14-WAE-CW.txt">.txt</a></td>
+	<td><a href="log/2021-08-14-WAE-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-08-14-WAE-CW.txt")) { echo qso("log/2021-08-14-WAE-CW.txt"); $sumqso=$sumqso+qso("log/2021-08-14-WAE-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-08-14-WAE-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-07-10-IARU-HF</td>
+	<td>OK1HRA</td>
+	<td class="center">28</td>
+	<td><a href="log/2021-07-10-IARU-HF.txt">.txt</a></td>
+	<td><a href="log/2021-07-10-IARU-HF.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-07-10-IARU-HF.txt")) { echo qso("log/2021-07-10-IARU-HF.txt"); $sumqso=$sumqso+qso("log/2021-07-10-IARU-HF.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-07-10-IARU-HF&call=OK1HRA&exch=28" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-07-04-PD</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2021-07-04-PD.txt">.txt</a></td>
+	<td><a href="log/2021-07-04-PD.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-07-04-PD.txt")) { echo qso("log/2021-07-04-PD.txt"); $sumqso=$sumqso+qso("log/2021-07-04-PD.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-07-04-PD&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2021-05-30-WPX-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2021-05-30-WPX-CW.txt">.txt</a></td>
+	<td><a href="log/2021-05-30-WPX-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2021-05-30-WPX-CW.txt")) { echo qso("log/2021-05-30-WPX-CW.txt"); $sumqso=$sumqso+qso("log/2021-05-30-WPX-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2021-05-30-WPX-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-12-19-OKDX-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2020-12-19-OKDX-RTTY.txt">.txt</a></td>
+	<td><a href="log/2020-12-19-OKDX-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-12-19-OKDX-RTTY.txt")) { echo qso("log/2020-12-19-OKDX-RTTY.txt"); $sumqso=$sumqso+qso("log/2020-12-19-OKDX-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-12-19-OKDX-RTTY&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-12-10-CWT</td>
+	<td>OK1HRA</td>
+	<td class="center">DAN OK</td>
+	<td><a href="log/2020-12-10-CWT.txt">.txt</a></td>
+	<td><a href="log/2020-12-10-CWT.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-12-10-CWT.txt")) { echo qso("log/2020-12-10-CWT.txt"); $sumqso=$sumqso+qso("log/2020-12-10-CWT.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-12-10-CWT&call=OK1HRA&exch=DAN OK" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-11-28-CQ-WW-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2020-11-28-CQ-WW-CW.txt">.txt</a></td>
+	<td><a href="log/2020-11-28-CQ-WW-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-11-28-CQ-WW-CW.txt")) { echo qso("log/2020-11-28-CQ-WW-CW.txt"); $sumqso=$sumqso+qso("log/2020-11-28-CQ-WW-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-11-28-CQ-WW-CW&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-11-14-OK-OM-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">BRA</td>
+	<td><a href="log/2020-11-14-OK-OM-DX.txt">.txt</a></td>
+	<td><a href="log/2020-11-14-OK-OM-DX.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-11-14-OK-OM-DX.txt")) { echo qso("log/2020-11-14-OK-OM-DX.txt"); $sumqso=$sumqso+qso("log/2020-11-14-OK-OM-DX.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-11-14-OK-OM-DX&call=OK1HRA&exch=BRA" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-11-07-A1</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2020-11-07-A1.txt">.txt</a></td>
+	<td><a href="log/2020-11-07-A1.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-11-07-A1.txt")) { echo qso("log/2020-11-07-A1.txt"); $sumqso=$sumqso+qso("log/2020-11-07-A1.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-11-07-A1&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-10-24-CQ-WW-SSB</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2020-10-24-CQ-WW-SSB.txt">.txt</a></td>
+	<td><a href="log/2020-10-24-CQ-WW-SSB.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-10-24-CQ-WW-SSB.txt")) { echo qso("log/2020-10-24-CQ-WW-SSB.txt"); $sumqso=$sumqso+qso("log/2020-10-24-CQ-WW-SSB.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-10-24-CQ-WW-SSB&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-10-20-GENERAL</td>
+	<td>OK1HRA</td>
+	<td class="center">TU</td>
+	<td><a href="log/2020-10-20-GENERAL.txt">.txt</a></td>
+	<td><a href="log/2020-10-20-GENERAL.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-10-20-GENERAL.txt")) { echo qso("log/2020-10-20-GENERAL.txt"); $sumqso=$sumqso+qso("log/2020-10-20-GENERAL.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-10-20-GENERAL&call=OK1HRA&exch=TU" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-10-17-WAG</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2020-10-17-WAG.txt">.txt</a></td>
+	<td><a href="log/2020-10-17-WAG.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-10-17-WAG.txt")) { echo qso("log/2020-10-17-WAG.txt"); $sumqso=$sumqso+qso("log/2020-10-17-WAG.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-10-17-WAG&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-09-26-CQWW-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2020-09-26-CQWW-RTTY.txt">.txt</a></td>
+	<td><a href="log/2020-09-26-CQWW-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-09-26-CQWW-RTTY.txt")) { echo qso("log/2020-09-26-CQWW-RTTY.txt"); $sumqso=$sumqso+qso("log/2020-09-26-CQWW-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-09-26-CQWW-RTTY&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-09-19-SAC-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2020-09-19-SAC-CW.txt">.txt</a></td>
+	<td><a href="log/2020-09-19-SAC-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-09-19-SAC-CW.txt")) { echo qso("log/2020-09-19-SAC-CW.txt"); $sumqso=$sumqso+qso("log/2020-09-19-SAC-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-09-19-SAC-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-05-31-WPX-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2020-05-31-WPX-CW.txt">.txt</a></td>
+	<td><a href="log/2020-05-31-WPX-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-05-31-WPX-CW.txt")) { echo qso("log/2020-05-31-WPX-CW.txt"); $sumqso=$sumqso+qso("log/2020-05-31-WPX-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-05-31-WPX-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2020-02-15-ARRL-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">1TT</td>
+	<td><a href="log/2020-02-15-ARRL-CW.txt">.txt</a></td>
+	<td><a href="log/2020-02-15-ARRL-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2020-02-15-ARRL-CW.txt")) { echo qso("log/2020-02-15-ARRL-CW.txt"); $sumqso=$sumqso+qso("log/2020-02-15-ARRL-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2020-02-15-ARRL-CW&call=OK1HRA&exch=1TT" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2019-11-09-OK-OM-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">FRK</td>
+	<td><a href="log/2019-11-09-OK-OM-DX.txt">.txt</a></td>
+	<td><a href="log/2019-11-09-OK-OM-DX.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2019-11-09-OK-OM-DX.txt")) { echo qso("log/2019-11-09-OK-OM-DX.txt"); $sumqso=$sumqso+qso("log/2019-11-09-OK-OM-DX.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2019-11-09-OK-OM-DX&call=OK1HRA&exch=FRK" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2019-08-10-WAE-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2019-08-10-WAE-CW.txt">.txt</a></td>
+	<td><a href="log/2019-08-10-WAE-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2019-08-10-WAE-CW.txt")) { echo qso("log/2019-08-10-WAE-CW.txt"); $sumqso=$sumqso+qso("log/2019-08-10-WAE-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2019-08-10-WAE-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2018-02-17-AA-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">KW</td>
+	<td><a href="log/2018-02-17-AA-CW.txt">.txt</a></td>
+	<td><a href="log/2018-02-17-AA-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2018-02-17-AA-CW.txt")) { echo qso("log/2018-02-17-AA-CW.txt"); $sumqso=$sumqso+qso("log/2018-02-17-AA-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2018-02-17-AA-CW&call=OK1HRA&exch=KW" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2017-11-25-CQ-WW-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2017-11-25-CQ-WW-CW.txt">.txt</a></td>
+	<td><a href="log/2017-11-25-CQ-WW-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2017-11-25-CQ-WW-CW.txt")) { echo qso("log/2017-11-25-CQ-WW-CW.txt"); $sumqso=$sumqso+qso("log/2017-11-25-CQ-WW-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2017-11-25-CQ-WW-CW&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2017-09-23-CQ-WW-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2017-09-23-CQ-WW-RTTY.txt">.txt</a></td>
+	<td><a href="log/2017-09-23-CQ-WW-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2017-09-23-CQ-WW-RTTY.txt")) { echo qso("log/2017-09-23-CQ-WW-RTTY.txt"); $sumqso=$sumqso+qso("log/2017-09-23-CQ-WW-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2017-09-23-CQ-WW-RTTY&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2017-05-26-WPX-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2017-05-26-WPX-CW.txt">.txt</a></td>
+	<td><a href="log/2017-05-26-WPX-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2017-05-26-WPX-CW.txt")) { echo qso("log/2017-05-26-WPX-CW.txt"); $sumqso=$sumqso+qso("log/2017-05-26-WPX-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2017-05-26-WPX-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2017-02-18-ARRL-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">KW</td>
+	<td><a href="log/2017-02-18-ARRL-CW.txt">.txt</a></td>
+	<td><a href="log/2017-02-18-ARRL-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2017-02-18-ARRL-CW.txt")) { echo qso("log/2017-02-18-ARRL-CW.txt"); $sumqso=$sumqso+qso("log/2017-02-18-ARRL-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2017-02-18-ARRL-CW&call=OK1HRA&exch=KW" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2017-02-11-WPX-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2017-02-11-WPX-RTTY.txt">.txt</a></td>
+	<td><a href="log/2017-02-11-WPX-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2017-02-11-WPX-RTTY.txt")) { echo qso("log/2017-02-11-WPX-RTTY.txt"); $sumqso=$sumqso+qso("log/2017-02-11-WPX-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2017-02-11-WPX-RTTY&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-11-26-CQ-WW-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2016-11-26-CQ-WW-CW.txt">.txt</a></td>
+	<td><a href="log/2016-11-26-CQ-WW-CW.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2016-11-26-CQ-WW-CW.txt")) { echo qso("log/2016-11-26-CQ-WW-CW.txt"); $sumqso=$sumqso+qso("log/2016-11-26-CQ-WW-CW.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-11-26-CQ-WW-CW&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-11-19-LZ-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">28</td>
+	<td><a href="log/2016-11-19-LZ-DX.txt">.txt</a></td>
+	<td><a href="log/2016-11-19-LZ-DX.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2016-11-19-LZ-DX.txt")) { echo qso("log/2016-11-19-LZ-DX.txt"); $sumqso=$sumqso+qso("log/2016-11-19-LZ-DX.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-11-19-LZ-DX&call=OK1HRA&exch=28" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-10-29-CQ-WW-SSB</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2016-10-29-CQ-WW-SSB.txt">.txt</a></td>
+	<td><a href="log/2016-10-29-CQ-WW-SSB.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2016-10-29-CQ-WW-SSB.txt")) { echo qso("log/2016-10-29-CQ-WW-SSB.txt"); $sumqso=$sumqso+qso("log/2016-10-29-CQ-WW-SSB.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-10-29-CQ-WW-SSB&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-09-25-CQ-WW-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">15</td>
+	<td><a href="log/2016-09-25-CQ-WW-RTTY.txt">.txt</a></td>
+	<td><a href="log/2016-09-25-CQ-WW-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2016-09-25-CQ-WW-RTTY.txt")) { echo qso("log/2016-09-25-CQ-WW-RTTY.txt"); $sumqso=$sumqso+qso("log/2016-09-25-CQ-WW-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-09-25-CQ-WW-RTTY&call=OK1HRA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-08-19-SARTG-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2016-08-19-SARTG-RTTY.txt">.txt</a></td>
+	<td><a href="log/2016-08-19-SARTG-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2016-08-19-SARTG-RTTY.txt")) { echo qso("log/2016-08-19-SARTG-RTTY.txt"); $sumqso=$sumqso+qso("log/2016-08-19-SARTG-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-08-19-SARTG-RTTY&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-08-13-WAE-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2016-08-13-WAE-CW.txt">.txt</a></td>
+	<td><a href="log/2016-08-13-WAE-CW.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2016-08-13-WAE-CW.txt"); $sumqso=$sumqso+qso("log/2016-08-13-WAE-CW.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-08-13-WAE-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-06-18-AA-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">45</td>
+	<td><a href="log/2016-06-18-AA-CW.txt">.txt</a></td>
+	<td><a href="log/2016-06-18-AA-CW.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2016-06-18-AA-CW.txt"); $sumqso=$sumqso+qso("log/2016-06-18-AA-CW.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-06-18-AA-CW&call=OK1HRA&exch=45" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-05-28-WPX-CW</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2016-05-28-WPX-CW.txt">.txt</a></td>
+	<td><a href="log/2016-05-28-WPX-CW.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2016-05-28-WPX-CW.txt"); $sumqso=$sumqso+qso("log/2016-05-28-WPX-CW.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-05-28-WPX-CW&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-04-02-EA-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2016-04-02-EA-RTTY.txt">.txt</a></td>
+	<td><a href="log/2016-04-02-EA-RTTY.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2016-04-02-EA-RTTY.txt"); $sumqso=$sumqso+qso("log/2016-04-02-EA-RTTY.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-04-02-EA-RTTY&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-03-19-RUSIAN-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2016-03-19-RUSIAN-DX.txt">.txt</a></td>
+	<td><a href="log/2016-03-19-RUSIAN-DX.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2016-03-19-RUSIAN-DX.txt"); $sumqso=$sumqso+qso("log/2016-03-19-RUSIAN-DX.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-03-19-RUSIAN-DX&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-03-05-ARRL-SSB</td>
+	<td>OK1HRA</td>
+	<td class="center">KW</td>
+	<td><a href="log/2016-03-05-ARRL-SSB.txt">.txt</a></td>
+	<td><a href="log/2016-03-05-ARRL-SSB.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2016-03-05-ARRL-SSB.txt"); $sumqso=$sumqso+qso("log/2016-03-05-ARRL-SSB.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-03-05-ARRL-SSB&call=OK1HRA&exch=KW" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2016-01-23-BARTG-SPRINT</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2016-01-23-BARTG-SPRINT.txt">.txt</a></td>
+	<td><a href="log/2016-01-23-BARTG-SPRINT.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2016-01-23-BARTG-SPRINT.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2016-01-23-BARTG-SPRINT&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-12-12-ARRL-10M</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2015-12-12-ARRL-10M.txt">.txt</a></td>
+	<td><a href="log/2015-12-12-ARRL-10M.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-12-12-ARRL-10M.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-12-12-ARRL-10M&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-11-28-CQ-WW-CW</td>
+	<td>OK1OEA</td>
+	<td class="center">15</td>
+	<td><a href="log/2015-11-28-CQ-WW-CW.txt">.txt</a></td>
+	<td><a href="log/2015-11-28-CQ-WW-CW.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-11-28-CQ-WW-CW.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-11-28-CQ-WW-CW&call=OK1OEA&exch=15" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-11-14-OK-OM-DX</td>
+	<td>OK1OEA</td>
+	<td class="center">FRK</td>
+	<td><a href="log/2015-11-14-OK-OM-DX.txt">.txt</a></td>
+	<td><a href="log/2015-11-14-OK-OM-DX.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-11-14-OK-OM-DX.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-11-14-OK-OM-DX&call=OK1OEA&exch=FRK" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-10-18-WAG</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2015-10-18-WAG.txt">.txt</a></td>
+	<td><a href="log/2015-10-18-WAG.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-10-18-WAG.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-10-18-WAG&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-06-20-AA-CW</td>
+	<td>OK1OEA</td>
+	<td class="center">44</td>
+	<td><a href="log/2015-06-20-AA-CW.txt">.txt</a></td>
+	<td><a href="log/2015-06-20-AA-CW.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-06-20-AA-CW.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-06-20-AA-CW&call=OK1OEA&exch=44" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-06-06-RSGB-FD</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2015-06-06-RSGB-FD.txt">.txt</a></td>
+	<td><a href="log/2015-06-06-RSGB-FD.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-06-06-RSGB-FD.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-06-06-RSGB-FD&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-05-30-WPX</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2015-05-30-WPX.txt">.txt</a></td>
+	<td><a href="log/2015-05-30-WPX.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-05-30-WPX.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-05-30-WPX&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-05-16-EA-CW</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2015-05-16-EA-CW.txt">.txt</a></td>
+	<td><a href="log/2015-05-16-EA-CW.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-05-16-EA-CW.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-05-16-EA-CW&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2015-05-09-CQ-M</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2015-05-09-CQ-M.txt">.txt</a></td>
+	<td><a href="log/2015-05-09-CQ-M.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-05-09-CQ-M.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-05-09-CQ-M&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+
+<tr>
+	<td>2015-03-21-TEST1</td>
+	<td>OK1OEA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2015-03-21-TEST1.txt">.txt</a></td>
+	<td><a href="log/2015-03-21-TEST1.adif">.adif</a></td>
+	<td class="center"><? echo qso("log/2015-03-21-TEST1.txt"); ?></td>
+	<td class="center"><a href=".om.php?s=run&log=2015-03-21-TEST1&call=OK1OEA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>

@@ -1,0 +1,4 @@
+Created by Óm PHP form ver. 0.1 - RemoteQTH.com
+PCall=OK1HRA
+<adif_ver:4>1.00 <eoh>
+<FREQ:7>144.052 <QSO_DATE:8>20220305 <TIME_ON:4>2357 <CALL:4>OE5D <MODE:2>CW <RST_SEND:3>599 <STX:1>1 <RST_RCVD:3>599 <SRX:10>262 JN68PC <EOR>

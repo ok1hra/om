@@ -10,7 +10,7 @@
 // my ($mylat, $mylon) = (50.10, -14.40);  <--- PLEASE SET IN dxcc.pl
 $locator   = 'JO60WA';		// QTH for 2m and up sending MSG
 $IP        = '192.168.1.72';	// CAT/UDP TRX interface
-
+				// find IP with 'ping ic705.local'
 // default
 $cwcliport = '89';		// UDP port for CW message
 $fskport   = '89';		// UDP port for RTTY message
@@ -55,17 +55,28 @@ global $preset2;
 	2015-08 - new frequency cache - if hmlib short fail
 
 
-	INSTALL sudo apt install apache2 git
-		sudo apt install php libapache2-mod-php php-mysql
-		sudo mkdir /var/www/html/om/
-		sudo chmod 774 /var/www/html/om
-		sudo chown dan:www-data /var/www/html/om
-		cd /var/www/html/om
-		git clone https://github.com/ok1hra/Om.git
-		sudo sed -i 's/short_open_tag = Off/short_open_tag = On/g' /etc/php/7.3/apache2/php.ini 
-		sudo systemctl reload apache2
+	INSTALL # Install apache web server with PHP support on Linux
+			sudo apt install apache2 git
+			sudo apt install php libapache2-mod-php php-mysql
+			sudo sed -i "s/short_open_tag = Off/short_open_tag = On/g" /etc/php/$(php -r 'echo PHP_MAJOR_VERSION.".".PHP_MINOR_VERSION;')/apache2/php.ini
+			sudo systemctl reload apache2
+		# Setting access rights
+			sudo mkdir /var/www/html/om/
+			sudo chmod 774 /var/www/html/om
+			sudo chown $USER:www-data /var/www/html/om
+		# Download
+			cd /var/www/html
+			git clone https://github.com/ok1hra/om.git
+		# Delete ok1hra logs
+			sudo rm /var/www/html/om/contest-table
+			sudo rm -r /var/www/html/om/log/
+		# Create and set log directory
+			mkdir /var/www/html/om/log
+			sudo chown $USER:www-data /var/www/html/om/log
+			sudo chmod 775 /var/www/html/om/log
 
 	RUN	configure IP IC-705/OpenInterface CAT interface in .om/php
+		open url http://127.0.0.1/om/.tab.php
 
 	--------
 	OBSOLETE (hamlib)
@@ -1006,7 +1017,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		foreach($file as $f){
 		    echo $f;
 		}?></pre>
-	Download: <a href="<?echo "$logpath.txt" ?>">.txt&#8599;</a> <a href="<?echo "$logpath.adif" ?>">.adif&#8599;</a> | <a href="http://remoteqth.com/wiki/index.php?page=Simple+WEB+contest+LOG">ॐ-wiki</a> | <a href="om-install.txt">Install</a>
+	Download: <a href="<?echo "$logpath.txt" ?>">.txt&#8599;</a> <a href="<?echo "$logpath.adif" ?>">.adif&#8599;</a> | <a href="https://github.com/ok1hra/om" target="_blank">GitHub</a>
 <?
 }else{
 	echo 'Switch TRX to <b>CW/SSB/RTTY</b> or check TRX CAT.<br>';
