@@ -19,7 +19,7 @@ $CAT       = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
 
-$REV = '20231217';
+$REV = '20231223';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -67,18 +67,18 @@ global $preset2;
 		# Download
 			cd /var/www/html
 			git clone https://github.com/ok1hra/om.git
-		# Delete ok1hra logs
+		# Delete ok1hra logs | Hey Dan, don't do it ;)
 			sudo rm /var/www/html/om/contest-table
 			sudo rm -r /var/www/html/om/log/
 		# Create and set log directory
 			mkdir /var/www/html/om/log
-			sudo chown $USER:www-data /var/www/html/om/log
-			sudo chmod 775 /var/www/html/om/log
+			sudo chown -R $USER:www-data /var/www/html/om/
+			chmod -R ugo=rw,ugo+X,o-w /var/www/html/om/
 
 	RUN	configure IP IC-705/OpenInterface CAT interface in .om/php
 		open url http://127.0.0.1/om/.tab.php
 
-	--------
+	-----------------
 	OBSOLETE (hamlib)
 		sudo apt install libhamlib-utils
 		// ts480

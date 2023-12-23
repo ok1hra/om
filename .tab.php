@@ -1140,7 +1140,7 @@ if(!empty($_POST['name']) && !empty($_POST['call']) && !empty($_POST['exch'] )){
 
 <p class="warn"><?php echo $warn ?></p>
 
-<p class="text2"><a href="om-install.txt" target="_blank" class="external">om_install</a></p>
+<p class="text2"><a href="https://github.com/ok1hra/om" target="_blank">GitHub</a></p>
 
 </body>
 </html>
