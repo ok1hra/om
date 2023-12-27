@@ -12,14 +12,14 @@ $locator   = 'JO60WA';		// QTH for 2m and up sending MSG
 $IP        = '192.168.1.72';	// CAT/UDP TRX interface
 				// find IP with 'ping ic705.local'
 // default
-$cwcliport = '89';		// UDP port for CW message
-$fskport   = '89';		// UDP port for RTTY message
-$catport   = '81';		// http port for get ferquency/mode
-$CAT       = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
+$cwcliport  = '89';		// UDP port for CW message
+$fskport    = '89';		// UDP port for RTTY message
+$catport    = '81';		// http port for get ferquency/mode
+$catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
+$CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-
-$REV = '20231223';
+$REV = '20231226';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -37,20 +37,20 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
-	2023-12 - add FSK mode (support IC705), fix configure
+	2023-12 - Clear RIT, add FSK mode (support IC705), fix configure
 	2023-09 - add RTTYR mode, add CAT support for OpenInterface3
 	2022-02 - occupant detector
 	2021-11 - maidenhead QTH locators support by https://fkurz.net/ham/stuff.html?maidenhead
 	2020-11 - first change for UHF
 	2017-11 - show no QSO if check blank in SP mode
-		- add reverse CW (CWR)
+			- add reverse CW (CWR)
 	2016-03 - fix show previous qso in SSB mode
 	2016-01 - add FSK mode
 	2015-11 - after press 'nr?' exchange do not clear
-		- change wpm and tune don't clear input value
-		- move '*?' button after call input field for use with Tab key
-		- '*?' also check partial calls (grep)
-		- redesigned
+			- change wpm and tune don't clear input value
+			- move '*?' button after call input field for use with Tab key
+			- '*?' also check partial calls (grep)
+			- redesigned
 	2015-10 - disable autofill input forms
 	2015-08 - new frequency cache - if hmlib short fail
 
@@ -616,8 +616,13 @@ function rst($mode) {
 	return $rst;
 }
 function setrit($ip, $hz) {
+	global $CAT, $catcmdport, $IP;
 	if ($CAT == '0') { // hamlib
 		$hz = exec("/usr/bin/rigctl -m 2 -r $ip J $hz");
+	}
+	if ($CAT == '1') { // UDP cat
+		$hexString = "\x21\x00\x00\x00\x00";	// clear RIT
+		udpsocket($IP, $catcmdport, $hexString );
 	}
 }
 function qsonr($log) {
