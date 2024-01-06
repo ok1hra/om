@@ -737,15 +737,15 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 
 	/////////////////// RTTY MEMORY ////////////////////////////
 	if ($mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
-		$CQ = ' '.$call.' '.$call.' '.$call.' TEST ';
+		$CQ = "\r\n ".$call.' '.$call.' '.$call.' TEST ';
 		if (strtoupper($exch) == 'NR'){
-			$TXEXCH = ' '.$callr.' '.$callr.' 599-'.$qsonrs.' 599-'.$qsonrs.' ';    // $cwtwxt = call in input form, $qsonrs = QSO nr
-			$TXEXCHSP = ' '.$callr.' '.$callr.' 599-'.$qsonrs.' 599-'.$qsonrs.' ';
-			$TXEXCHSP2 = ' '.$callr.' '.$callr.' 599-'.($qsonrs-1).' 599-'.($qsonrs-1).' ';     // Exchange previous QSO
+			$TXEXCH = "\r\n ".$callr.' '.$callr.' 599-'.$qsonrs.' 599-'.$qsonrs.' ';    // $cwtwxt = call in input form, $qsonrs = QSO nr
+			$TXEXCHSP = "\r\n ".$callr.' '.$callr.' 599-'.$qsonrs.' 599-'.$qsonrs.' ';
+			$TXEXCHSP2 = "\r\n ".$callr.' '.$callr.' 599-'.($qsonrs-1).' 599-'.($qsonrs-1).' ';     // Exchange previous QSO
 		}else{
-			$TXEXCH = ' '.$callr.' '.$callr.' 599-'.$exch.'-'.$exch.' ';
-			$TXEXCHSP = ' '.$callr.' '.$callr.' 599-'.$exch.'-'.$exch.' ';
-			$TXEXCHSP2 = ' '.$callr.' '.$callr.' 599-'.$exch.'-'.$exch.' ';
+			$TXEXCH = "\r\n ".$callr.' '.$callr.' 599-'.$exch.'-'.$exch.' ';
+			$TXEXCHSP = "\r\n ".$callr.' '.$callr.' 599-'.$exch.'-'.$exch.' ';
+			$TXEXCHSP2 = "\r\n ".$callr.' '.$callr.' 599-'.$exch.'-'.$exch.' ';
 		}
 		$TU = ' '.$callr.' tu '.$call.' ';
 	/////////////////// CW MEMORY ////////////////////////////
