@@ -9,7 +9,7 @@
 // CONFIGURE ------------------------------------------------------------------
 // my ($mylat, $mylon) = (50.10, -14.40);  <--- PLEASE SET IN dxcc.pl
 $locator   = 'JO60WA';		// QTH for 2m and up sending MSG
-$IP        = '192.168.1.72';	// CAT/UDP TRX interface
+$IP        = '192.168.1.52';	// CAT/UDP TRX interface
 				// find IP with 'ping ic705.local'
 // default
 $cwcliport  = '89';		// UDP port for CW message
@@ -19,7 +19,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '20231226';
+$REV = '20240113';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -37,6 +37,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
+	2024-01 - Add FM mode ;)
 	2023-12 - Clear RIT, add FSK mode (support IC705), fix configure
 	2023-09 - add RTTYR mode, add CAT support for OpenInterface3
 	2022-02 - occupant detector
@@ -547,7 +548,7 @@ function mode($ip) {
 	if ($CAT == '0') { // hamlib
 		// $mode = 'CW'; //exec("rigctl -m 2 -r $ip m | head -n1");
 		$mode = exec("/usr/bin/rigctl -m 2 -r $ip m | head -n1");
-		if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') { // mode OK
+		if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB' || $mode == 'FM'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') { // mode OK
 			$style = 'gray';
 			txfile('/tmp/mode', $mode);  // save last mode
 		}else{ // rig OFF
@@ -610,7 +611,7 @@ function GetDxcc($callsign) {
 function rst($mode) {
 	if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR'){
 		$rst='599';
-	}elseif ($mode == 'SSB' || $mode == 'USB' || $mode == 'LSB' ){
+	}elseif ($mode == 'SSB' || $mode == 'USB' || $mode == 'LSB' || $mode == 'FM' ){
 		$rst='59';
 	}
 	return $rst;
@@ -724,7 +725,7 @@ if (empty($conteststyle)){
 }
 
 $mode= mode($rigip);
-if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') {
+if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FM' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') {
 	$qsonrs = qsonr("$logpath.txt");
 	date_default_timezone_set('UTC');
 	$date = date('Y-m-d H:i ', time());
@@ -1025,7 +1026,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	Download: <a href="<?echo "$logpath.txt" ?>">.txt&#8599;</a> <a href="<?echo "$logpath.adif" ?>">.adif&#8599;</a> | <a href="https://github.com/ok1hra/om" target="_blank">GitHub</a>
 <?
 }else{
-	echo 'Switch TRX to <b>CW/SSB/RTTY</b> or check TRX CAT.<br>';
+	echo 'Switch TRX to <b>CW/SSB/FM/RTTY</b> or check TRX CAT.<br>';
 	echo ' | CAT '.$CAT.' | MODE '.mode($rigip).' | MHz '.freq($rigip).' | <a href="'.'http://'.$IP.':'.$catport.'" target="_blank">URL</a> |'; 
 }?>
 </div>
