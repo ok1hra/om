@@ -41,7 +41,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
-	2024-01 - Add FM mode, add two TRX switch
+	2024-01 - Add FM mode, add two TRX switch, TRX name and log it
 	2023-12 - Clear RIT, add FSK mode (support IC705), fix configure
 	2023-09 - add RTTYR mode, add CAT support for OpenInterface3
 	2022-02 - occupant detector
@@ -893,6 +893,14 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			$prevexch='<input type="submit" name="send" value="previous exchange" class="qso"><input type="submit" name="send" value="Check" class="qso">';
 			}
 			$mhz = round(freq($rigip)/1000000, 3);
+			if ($trx == '1'){
+				$NOTE = $trx1name;
+			}
+			if ($trx == '2'){
+				$NOTE = $trx2name;
+			}
+			$DXCC = GetDxcc($callr);
+			$DXCCarray = explode("|", $DXCC);
 			if (freq($rigip) > 140000000){
 				$locatorr = explode(" ", $qsonrr, 6);
 				$lastElement = end($locatorr);
@@ -908,10 +916,33 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 				.str_pad("$bd[deg]°", 6, " ", STR_PAD_LEFT)
 				.'   '
 				.str_pad(rst($mode), 3, " ", STR_PAD_LEFT)
-				.' '.rst($mode)
+				.' '
+				.rst($mode)
+				.' |'
+				.$NOTE
+				.'|'
+				.trim($DXCCarray[1])
+				.'|'
+				.trim($DXCCarray[6], " QRB ")
 				."\n", FILE_APPEND);  // add VHF qso to txt log
 			}else{
-				file_put_contents("$logpath.txt", str_pad($qsonrs, 5, " ", STR_PAD_RIGHT).$date.str_pad($callr, 14, " ", STR_PAD_RIGHT).str_pad($mhz, 6, " ", STR_PAD_LEFT).str_pad($mode, 6, " ", STR_PAD_LEFT).str_pad($qsonrr, 5, " ", STR_PAD_LEFT).'   '.str_pad(rst($mode), 3, " ", STR_PAD_LEFT).' '.rst($mode)."\n", FILE_APPEND);  // add HF qso to txt log
+				file_put_contents("$logpath.txt", str_pad($qsonrs, 5, " ", STR_PAD_RIGHT)
+				.$date
+				.str_pad($callr, 14, " ", STR_PAD_RIGHT)
+				.str_pad($mhz, 6, " ", STR_PAD_LEFT)
+				.str_pad($mode, 6, " ", STR_PAD_LEFT)
+				.str_pad($qsonrr, 8, " ", STR_PAD_LEFT)
+				.'   '
+				.str_pad(rst($mode), 3, " ", STR_PAD_LEFT)
+				.' '
+				.rst($mode)
+				.' |'
+				.$NOTE
+				.'|'
+				.trim($DXCCarray[1])
+				.'|'
+				.trim($DXCCarray[6], " QRB ")
+				."\n", FILE_APPEND);  // add HF qso to txt log
 			}
 			file_put_contents("$logpath.adif", '<FREQ:'.strlen($mhz).'>'.$mhz.' <QSO_DATE:'.strlen($dateadif).'>'.$dateadif.' <TIME_ON:'.strlen($timeadif).'>'.$timeadif.' <CALL:'.strlen($callr).'>'.$callr.' <MODE:'.strlen($mode).'>'.$mode.' <RST_SEND:'.strlen(rst($mode)).'>'.rst($mode).' <STX:'.strlen($qsonrs).'>'.$qsonrs.' <RST_RCVD:'.strlen(rst($mode)).'>'.rst($mode).' <SRX:'.strlen($qsonrr).'>'.$qsonrr.' <EOR>'."\n", FILE_APPEND);  // add qso to adif log
 
@@ -1047,8 +1078,14 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	Download: <a href="<?echo "$logpath.txt" ?>">.txt&#8599;</a> <a href="<?echo "$logpath.adif" ?>">.adif&#8599;</a> | <a href="https://github.com/ok1hra/om" target="_blank">GitHub</a>
 <?
 }else{
-	echo 'Switch TRX to <b>CW/SSB/FM/RTTY</b> or check TRX CAT.<br>';
-	echo ' | CAT '.$CAT.' | IP '.$IP.' | MODE '.mode($rigip).' | MHz '.freq($rigip).' | <a href="'.'http://'.$IP.':'.$catport.'" target="_blank">URL</a> |'; 
+	echo 'Switch TRX to <b>CW/SSB/FM/RTTY</b>, check IP or switch TRX <a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=2" class="switch"><span>';
+	if ($trx == '1'){
+		echo $trx1name.'</span><span class="onhover">'.$trx2name.'</span></a>';
+	}
+	if ($trx == '2'){
+		echo $trx2name.'</span><span class="onhover">'.$trx1name.'</span></a>';
+	}
+	echo '<br> | CAT '.$CAT.' | IP '.$IP.' | MODE '.mode($rigip).' | MHz '.freq($rigip).' | <a href="'.'http://'.$IP.':'.$catport.'" target="_blank">URL</a> |'; 
 }?>
 </div>
 </body>
