@@ -9,8 +9,11 @@
 // CONFIGURE ------------------------------------------------------------------
 // my ($mylat, $mylon) = (50.10, -14.40);  <--- PLEASE SET IN dxcc.pl
 $locator   = 'JO60WA';		// QTH for 2m and up sending MSG
-$IP        = '192.168.1.52';	// CAT/UDP TRX interface
-				// find IP with 'ping ic705.local'
+$IP1        = '192.168.1.52';	// CAT/UDP TRX interface - find IP with 'ping ic705.local'
+$trx1name   = 'IC-705';
+$IP2        = '192.168.1.50';	// CAT/UDP TRX interface
+$trx2name   = 'IC-746';
+
 // default
 $cwcliport  = '89';		// UDP port for CW message
 $fskport    = '89';		// UDP port for RTTY message
@@ -26,6 +29,7 @@ $log = $_GET['log'];
 $logpath = 'log/'.$log ;
 $call = $_GET['call'];
 $exch = $_GET['exch'];
+$trx = $_GET['trx'];
 global $preset2;
 ?>
 <title>ॐ  | <? echo $log.'-'.$call.' | '.$REV ?></title>
@@ -37,7 +41,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
-	2024-01 - Add FM mode ;)
+	2024-01 - Add FM mode, add two TRX switch
 	2023-12 - Clear RIT, add FSK mode (support IC705), fix configure
 	2023-09 - add RTTYR mode, add CAT support for OpenInterface3
 	2022-02 - occupant detector
@@ -143,7 +147,8 @@ global $preset2;
 		border-radius: 5px;
 		-webkit-border-radius: 5px;
 		-moz-border-radius: 5px;
-		}
+   		margin-left: 10px;
+   	}
 	a.switch:visited  {
 		color : #ccc;
 		background-color: #888;
@@ -723,6 +728,16 @@ $conteststyle = $_GET['s'];
 if (empty($conteststyle)){
 	$conteststyle='run';
 }
+$trx = $_GET['trx'];
+if (empty($trx)){
+	$trx='1';
+}
+if ($trx == '1'){
+	$IP=$IP1;
+}
+if ($trx == '2'){
+	$IP=$IP2;
+}
 
 $mode= mode($rigip);
 if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FM' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') {
@@ -732,7 +747,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	$dateadif = date('Ymd', time());
 	$timeadif = date('Hi', time());
 	$show = '';
-	?><form action="<?echo basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch ;?>" method="POST"><?     //form self url
+	?><form action="<?echo basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx ;?>" method="POST"><?     //form self url
 	$callr = trim(strtoupper($_POST['callr']));     // trim whitespace and change to UPERCASE
 	$qsonrr = trim(strtoupper($_POST['qsonrr']));
 
@@ -911,10 +926,16 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		$af2 = '';
 	}
 	if ($conteststyle == 'run'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=sp&log='.$log.'&call='.$call.'&exch='.$exch.'" class="switch"><span>RUN</span><span class="onhover">S&P</span></a>';
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=sp&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>RUN</span><span class="onhover">S&P</span></a>';
 	}
 	if ($conteststyle == 'sp'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=run&log='.$log.'&call='.$call.'&exch='.$exch.'" class="switch"><span>S&P</span><span class="onhover">RUN</span></a>';
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=run&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>S&P</span><span class="onhover">RUN</span></a>';
+	}
+	if ($trx == '1'){
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=2" class="switch"><span>'.$trx1name.'</span><span class="onhover">'.$trx2name.'</span></a>';
+	}
+	if ($trx == '2'){
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=1" class="switch"><span>'.$trx2name.'</span><span class="onhover">'.$trx1name.'</span></a>';
 	}?>
 	<input style="display: none" type="submit" name='send' value="Send">	<!-- hidden button - use if press enter (without click any other button)-->  <?
 	if ($mode == 'CW' || $mode == 'CWR'){?>
@@ -1027,7 +1048,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 <?
 }else{
 	echo 'Switch TRX to <b>CW/SSB/FM/RTTY</b> or check TRX CAT.<br>';
-	echo ' | CAT '.$CAT.' | MODE '.mode($rigip).' | MHz '.freq($rigip).' | <a href="'.'http://'.$IP.':'.$catport.'" target="_blank">URL</a> |'; 
+	echo ' | CAT '.$CAT.' | IP '.$IP.' | MODE '.mode($rigip).' | MHz '.freq($rigip).' | <a href="'.'http://'.$IP.':'.$catport.'" target="_blank">URL</a> |'; 
 }?>
 </div>
 </body>
