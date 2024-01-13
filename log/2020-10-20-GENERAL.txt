@@ -148,3 +148,10 @@
 148  2024-01-13 18:55 N1LN          14.035    CW BILL   599 599
 149  2024-01-13 18:59 W4TA          14.043    CWLEX FL   599 599
 150  2024-01-13 21:19 VE3JM           7.03    CW    VLAD   599 599 |IC-746|<strong>Canada</strong>|6615km
+151  2024-01-13 23:32 AD3EB          7.043    CW     OSM   599 599 |IC-746|<strong>United States</strong>|7223km
+152  2024-01-13 23:34 K0ZR           7.044    CW    JEFF   599 599 |IC-746|<strong>United States</strong>|7223km
+153  2024-01-13 23:37 AJ1AJ          7.015    CW      AJ   599 599 |IC-746|<strong>United States</strong>|7223km
+154  2024-01-13 23:39 N3UA           7.018    CW      VA   599 599 |IC-746|<strong>United States</strong>|7223km
+155  2024-01-13 23:41 K9OM           7.019    CW    DIKK   599 599 |IC-746|<strong>United States</strong>|7223km
+156  2024-01-13 23:42 NY3A           7.021    CW    STEV   599 599 |IC-746|<strong>United States</strong>|7223km
+157  2024-01-13 23:44 AI5IN          7.023    CW      MA   599 599 |IC-746|<strong>United States</strong>|7223km
