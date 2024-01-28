@@ -163,3 +163,41 @@
 163  2024-01-14 18:12 II5WWA         7.031    CW     599   599 599 |IC-705|<strong>Italy</strong>|923km
 164  2024-01-17 05:20 V31XX          7.006    CW     599   599 599 |IC-705|<strong>Belize</strong>|9444km
 165  2024-01-17 05:43 V31XX         10.106    CW     559   599 599 |IC-705|<strong>Belize</strong>|9444km
+166  2024-01-18 20:09 EG5WWA          7.01    CW     599   599 599 |IC-705|<strong>Spain</strong>|1772km
+167  2024-01-18 21:09 N1W            7.031    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
+168  2024-01-19 13:32 GB4WWA        21.022    CW     599   599 599 |IC-705|<strong>England</strong>|1029km
+169  2024-01-20 11:38 LU3MG         28.004    CW     599   599 599 |IC-746|<strong>Argentina</strong>|11812km
+170  2024-01-20 11:47 OH5Z          21.026    CW     599   599 599 |IC-746|<strong>Finland</strong>|1305km
+171  2024-01-20 11:59 II8WWA        21.033    CW     599   599 599 |IC-746|<strong>Italy</strong>|923km
+172  2024-01-21 08:38 OK1KAD       144.24  USB      JO60LJ   77km 303°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+173  2024-01-25 21:26 V31XX         14.021    CW     599   599 599 |IC-746|<strong>Belize</strong>|9444km
+174  2024-01-26 08:46 OF60IRON      14.019    CW     599   599 599 |IC-705|<strong>Finland</strong>|1305km
+175  2024-01-27 01:49 GB4WWA         7.012    CW     599   599 599 |IC-746|<strong>England</strong>|1029km
+176  2024-01-28 20:29 SX0WWA        14.025    CW     599   599 599 |IC-705|<strong>Greece</strong>|1534km
+177  2024-01-28 20:33 S52NY           1.81    CW      15   599 599 |IC-705|<strong>Slovenia</strong>|455km
+178  2024-01-28 20:35 SP9JZU         1.811    CW      15   599 599 |IC-705|<strong>Poland</strong>|515km
+179  2024-01-28 20:36 OM5R           1.813    CW      15   599 599 |IC-705|<strong>Slovakia</strong>|296km
+180  2024-01-28 20:38 9A5Y           1.814    CW      15   599 599 |IC-705|<strong>Croatia</strong>|519km
+181  2024-01-28 20:41 S50C           1.816    CW      15   599 599 |IC-705|<strong>Slovenia</strong>|455km
+182  2024-01-28 21:22 F6EZV          1.818    CW      14   599 599 |IC-705|<strong>France</strong>|885km
+183  2024-01-28 21:23 YT7A            1.82    CW      15   599 599 |IC-705|<strong>Serbia</strong>|737km
+184  2024-01-28 21:25 G3RWF          1.821    CW      14   599 599 |IC-705|<strong>England</strong>|1029km
+185  2024-01-28 21:31 IG9/S57DX      1.823    CW      33   599 599 |IC-705|<strong>Italy (Africa)</strong>|1641km
+186  2024-01-28 21:33 SM2U           1.827    CW      14   599 599 |IC-705|<strong>Sweden</strong>|1049km
+187  2024-01-28 21:34 DR5X           1.828    CW      15   599 599 |IC-705|<strong>Germany</strong>|326km
+188  2024-01-28 21:35 SN7Q           1.829    CW      15   599 599 |IC-705|<strong>Poland</strong>|515km
+189  2024-01-28 21:37 M4T             1.83    CW      14   599 599 |IC-705|<strong>England</strong>|1029km
+190  2024-01-28 21:38 LY4A           1.832    CW      15   599 599 |IC-705|<strong>Lithuania</strong>|897km
+191  2024-01-28 21:40 OH3FM          1.833    CW      15   599 599 |IC-705|<strong>Finland</strong>|1305km
+192  2024-01-28 21:42 DJ5MO          1.835    CW      15   599 599 |IC-705|<strong>Germany</strong>|326km
+193  2024-01-28 21:44 HG8DX          1.836    CW      15   599 599 |IC-705|<strong>Hungary</strong>|449km
+194  2024-01-28 21:45 SC7DX          1.837    CW      14   599 599 |IC-705|<strong>Sweden</strong>|1049km
+195  2024-01-28 21:46 DK2OY          1.837    CW      14   599 599 |IC-705|<strong>Germany</strong>|326km
+196  2024-01-28 21:47 OH7K           1.838    CW      15   599 599 |IC-705|<strong>Finland</strong>|1305km
+197  2024-01-28 21:48 G3V            1.838    CW      14   599 599 |IC-705|<strong>England</strong>|1029km
+198  2024-01-28 21:49 SM6EAN         1.839    CW      14   599 599 |IC-705|<strong>Sweden</strong>|1049km
+199  2024-01-28 21:50 HA5UA           1.84    CW      15   599 599 |IC-705|<strong>Hungary</strong>|449km
+200  2024-01-28 21:56 IK0YUT         1.845    CW      15   599 599 |IC-705|<strong>Italy</strong>|923km
+201  2024-01-28 21:57 G4BUO          1.845    CW      14   599 599 |IC-705|<strong>England</strong>|1029km
+202  2024-01-28 21:58 DL5AXX         1.846    CW      14   599 599 |IC-705|<strong>Germany</strong>|326km
+203  2024-01-28 22:00 SP8R           1.848    CW      15   599 599 |IC-705|<strong>Poland</strong>|515km
