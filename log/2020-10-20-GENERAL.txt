@@ -201,3 +201,15 @@
 201  2024-01-28 21:57 G4BUO          1.845    CW      14   599 599 |IC-705|<strong>England</strong>|1029km
 202  2024-01-28 21:58 DL5AXX         1.846    CW      14   599 599 |IC-705|<strong>Germany</strong>|326km
 203  2024-01-28 22:00 SP8R           1.848    CW      15   599 599 |IC-705|<strong>Poland</strong>|515km
+204  2024-02-03 18:42 K3AJ          14.003    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
+205  2024-02-03 18:49 NR4M          21.013    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
+206  2024-02-03 19:48 K8GL          14.006    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
+207  2024-02-03 19:49 W1GD          14.012    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
+208  2024-02-03 19:51 VA1MM         14.014    CW       9   599 599 |IC-705|<strong>Canada</strong>|6615km
+209  2024-02-03 21:08 PY2ZEA         14.01    CW      15   599 599 |IC-705|<strong>Brazil</strong>|9901km
+210  2024-02-04 00:34 OZ3SM          1.826    CW     DK1   599 599 |IC-705|<strong>Denmark</strong>|634km
+211  2024-02-04 11:23 P3X            28.02    CW      11   599 599 |IC-705|<strong>Cyprus</strong>|2258km
+212  2024-02-13 20:05 K4IEY         14.023    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
+213  2024-02-15 21:07 VC3I          14.014    CW     599   599 599 |IC-705|<strong>Canada</strong>|6615km
+214  2024-02-15 21:11 WX3B          14.002    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
+215  2024-02-15 21:34 ZF2IR          14.02    CW     599   599 599 |IC-705|<strong>Cayman Is.</strong>|8743km

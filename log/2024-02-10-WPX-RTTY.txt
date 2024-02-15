@@ -1,0 +1,20 @@
+1    2024-02-10 15:12 N3FR          28.078   FSK     292   599 599 |IC-705|<strong>United States</strong>|7223km
+2    2024-02-10 15:25 K2RB          28.082   FSK     433   599 599 |IC-705|<strong>United States</strong>|7223km
+3    2024-02-10 15:26 NF3R          28.083   FSK     783   599 599 |IC-705|<strong>United States</strong>|7223km
+4    2024-02-10 15:29 W3LL          28.084   FSK     492   599 599 |IC-705|<strong>United States</strong>|7223km
+5    2024-02-10 15:30 NC1CC         28.086   FSK     586   599 599 |IC-705|<strong>United States</strong>|7223km
+6    2024-02-10 15:34 NP4TX         28.087   FSK     263   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
+7    2024-02-10 15:51 KU2M           28.09   FSK     445   599 599 |IC-705|<strong>United States</strong>|7223km
+8    2024-02-10 15:52 AA9L          28.092   FSK      74   599 599 |IC-705|<strong>United States</strong>|7223km
+9    2024-02-10 15:57 CR6K          28.095   FSK     444   599 599 |IC-705|<strong>Portugal</strong>|2247km
+10   2024-02-10 16:00 KH7X/NZ7      28.096   FSK     489   599 599 |IC-705|<strong>Hawaii</strong>|12039km
+11   2024-02-11 12:35 CR3DX         28.096   FSK    1046   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
+12   2024-02-11 12:47 NW2P          28.094   FSK     660   599 599 |IC-705|<strong>United States</strong>|7223km
+13   2024-02-11 13:11 N9WG          28.103   FSK     244   599 599 |IC-705|<strong>United States</strong>|7223km
+14   2024-02-11 13:15 KC2GOW        28.125   FSK     665   599 599 |IC-705|<strong>United States</strong>|7223km
+15   2024-02-11 15:26 W8CAR         28.125   FSK     171   599 599 |IC-705|<strong>United States</strong>|7223km
+16   2024-02-11 16:01 W3ZO          28.133   FSK     461   599 599 |IC-705|<strong>United States</strong>|7223km
+17   2024-02-11 16:01 W9PA          28.133   FSK     744   599 599 |IC-705|<strong>United States</strong>|7223km
+18   2024-02-11 18:04 K9PW           21.11   FSK     698   599 599 |IC-705|<strong>United States</strong>|7223km
+19   2024-02-11 18:05 W3CHB          21.11   FSK     191   599 599 |IC-705|<strong>United States</strong>|7223km
+20   2024-02-11 20:09 KI6DY         14.094   FSK    1549   599 599 |IC-705|<strong>United States</strong>|7223km

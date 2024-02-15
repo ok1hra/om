@@ -1,4 +1,13 @@
 <tr>
+	<td>2024-02-10-WPX-RTTY</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2024-02-10-WPX-RTTY.txt">.txt</a></td>
+	<td><a href="log/2024-02-10-WPX-RTTY.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2024-02-10-WPX-RTTY.txt")) { echo qso("log/2024-02-10-WPX-RTTY.txt"); $sumqso=$sumqso+qso("log/2024-02-10-WPX-RTTY.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2024-02-10-WPX-RTTY&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
 	<td>2024-01-06-ARRL-RTTY</td>
 	<td>OK1HRA</td>
 	<td class="center">NR</td>
