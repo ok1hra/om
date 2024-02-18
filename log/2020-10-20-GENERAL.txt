@@ -213,3 +213,5 @@
 213  2024-02-15 21:07 VC3I          14.014    CW     599   599 599 |IC-705|<strong>Canada</strong>|6615km
 214  2024-02-15 21:11 WX3B          14.002    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
 215  2024-02-15 21:34 ZF2IR          14.02    CW     599   599 599 |IC-705|<strong>Cayman Is.</strong>|8743km
+216  2024-02-15 21:46 N8BB          14.062    CW  339 MI   599 599 |IC-705|<strong>United States</strong>|7223km
+217  2024-02-15 21:51 PJ2/VE3CX     14.051    CW     599   599 599 |IC-705|<strong>Netherlands Antilles</strong>|8509km
