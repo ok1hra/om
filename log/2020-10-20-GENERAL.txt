@@ -215,3 +215,31 @@
 215  2024-02-15 21:34 ZF2IR          14.02    CW     599   599 599 |IC-705|<strong>Cayman Is.</strong>|8743km
 216  2024-02-15 21:46 N8BB          14.062    CW  339 MI   599 599 |IC-705|<strong>United States</strong>|7223km
 217  2024-02-15 21:51 PJ2/VE3CX     14.051    CW     599   599 599 |IC-705|<strong>Netherlands Antilles</strong>|8509km
+218  2024-03-03 15:27 AA1K          28.305   SSB      DE    59 59 |IC-746|<strong>United States</strong>|7223km
+219  2024-03-03 15:33 KQ2M          28.353   SSB      CT    59 59 |IC-746|<strong>United States</strong>|7223km
+220  2024-03-03 15:34 W1RCR         28.355   SSB      FL    59 59 |IC-746|<strong>United States</strong>|7223km
+221  2024-03-03 15:44 K1KI          28.406   SSB      CT    59 59 |IC-746|<strong>United States</strong>|7223km
+222  2024-03-03 15:56 K3LR            21.2   SSB      PA    59 59 |IC-746|<strong>United States</strong>|7223km
+223  2024-03-03 15:58 KB1W          21.206   SSB      MA    59 59 |IC-746|<strong>United States</strong>|7223km
+224  2024-03-03 16:31 K8LX          21.222   SSB      MI    59 59 |IC-746|<strong>United States</strong>|7223km
+225  2024-03-03 16:32 K9PPY         21.223   SSB      IL    59 59 |IC-746|<strong>United States</strong>|7223km
+226  2024-03-03 16:32 N5DX          21.226   SSB      NY    59 59 |IC-746|<strong>United States</strong>|7223km
+227  2024-03-03 16:33 K1TTT         21.228   SSB      MA    59 59 |IC-746|<strong>United States</strong>|7223km
+228  2024-03-03 16:35 W3LPL         21.231   SSB      MD    59 59 |IC-746|<strong>United States</strong>|7223km
+229  2024-03-03 16:36 NN3W          21.235   SSB      VA    59 59 |IC-746|<strong>United States</strong>|7223km
+230  2024-03-03 16:37 WI0WA         21.239   SSB      IA    59 59 |IC-746|<strong>United States</strong>|7223km
+231  2024-03-03 16:38 KU2M          21.249   SSB      NJ    59 59 |IC-746|<strong>United States</strong>|7223km
+232  2024-03-03 16:51 K2AX          21.262   SSB      NJ    59 59 |IC-746|<strong>United States</strong>|7223km
+233  2024-03-03 16:54 NS0R          21.289   SSB      KS    59 59 |IC-746|<strong>United States</strong>|7223km
+234  2024-03-03 16:55 K5GN           21.29   SSB      TX    59 59 |IC-746|<strong>United States</strong>|7223km
+235  2024-03-03 16:56 WY3A          21.296   SSB      PA    59 59 |IC-746|<strong>United States</strong>|7223km
+236  2024-03-03 17:08 NE3F           28.44   SSB      PA    59 59 |IC-746|<strong>United States</strong>|7223km
+237  2024-03-03 17:10 WG3J          28.398   SSB      MD    59 59 |IC-746|<strong>United States</strong>|7223km
+238  2024-03-03 17:21 K5TR          28.362   SSB      TX    59 59 |IC-746|<strong>United States</strong>|7223km
+239  2024-03-05 22:31 HB/DL5CW       7.009    CW     599   599 599 |IC-705|<strong>Liechtenstein</strong>|477km
+240  2024-03-05 22:46 HB/DL5CW      10.111    CW     599   599 599 |IC-705|<strong>Liechtenstein</strong>|477km
+241  2024-03-09 16:44 PY5AMF         28.04    CW      11   599 599 |IC-705|<strong>Brazil</strong>|9901km
+242  2024-03-09 16:48 PY4HO         28.016    CW      11   599 599 |IC-705|<strong>Brazil</strong>|9901km
+243  2024-03-09 16:57 OE100RADIO     10.11    CW     599   599 599 |IC-705|<strong>Austria</strong>|252km
+244  2024-03-09 18:19 LU3WC         28.038    CW      13   599 599 |IC-705|<strong>Argentina</strong>|11812km
+245  2024-03-22 19:40 VK4DX         14.016    CW     599   599 599 |IC-746|<strong>Australia</strong>|14029km
