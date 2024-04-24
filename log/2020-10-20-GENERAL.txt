@@ -250,3 +250,22 @@
 250  2024-04-14 12:34 JA3YUA        21.022    CW      27   599 599 |IC-746|<strong>Japan</strong>|9074km
 251  2024-04-14 12:36 JE1CKA        21.029    CW      13   599 599 |IC-746|<strong>Japan</strong>|9074km
 252  2024-04-14 12:38 JH1HIC         21.05    CW      16   599 599 |IC-746|<strong>Japan</strong>|9074km
+253  2024-04-19 19:43 CE2ML         28.017    CW     599   599 599 |IC-705|<strong>Chile</strong>|12481km
+254  2024-04-20 07:51 SX100D        21.027    CW     599   599 599 |IC-705|<strong>Greece</strong>|1534km
+255  2024-04-20 11:08 PR1T          28.002    CW      SA   599 599 |IC-705|<strong>Brazil</strong>|9901km
+256  2024-04-20 17:59 PY2WB          28.01    CW      SA   599 599 |IC-746|<strong>Brazil</strong>|9901km
+257  2024-04-20 18:01 PP5IP          28.04    CW      SA   599 599 |IC-746|<strong>Brazil</strong>|9901km
+258  2024-04-20 18:05 FY5YE         28.026    CW      SA   599 599 |IC-705|<strong>French Guiana</strong>|7943km
+259  2024-04-20 18:07 K9OM          21.006    CW     NAM   599 599 |IC-705|<strong>United States</strong>|7223km
+260  2024-04-20 18:09 AA3B          21.013    CW     NAM   599 599 |IC-705|<strong>United States</strong>|7223km
+261  2024-04-20 18:10 VA3IK         21.021    CW      NA   599 599 |IC-705|<strong>Canada</strong>|6615km
+262  2024-04-20 18:12 AI5IN         21.027    CW      NA   599 599 |IC-705|<strong>United States</strong>|7223km
+263  2024-04-20 18:13 N5TJ          21.031    CW      NA   599 599 |IC-705|<strong>United States</strong>|7223km
+264  2024-04-20 18:13 K8MP          21.032    CW      NA   599 599 |IC-705|<strong>United States</strong>|7223km
+265  2024-04-20 18:14 VE3EJ         21.033    CW     NIA   599 599 |IC-705|<strong>Canada</strong>|6615km
+266  2024-04-20 18:21 N5RZ          21.017    CW      NA   599 599 |IC-705|<strong>United States</strong>|7223km
+267  2024-04-20 18:32 AA3B          14.018    CW     NAM   599 599 |IC-705|<strong>United States</strong>|7223km
+268  2024-04-20 18:39 VE9HF         14.033    CW      NA   599 599 |IC-705|<strong>Canada</strong>|6615km
+269  2024-04-20 18:41 AZ1WW         14.035    CW      AS   599 599 |IC-705|<strong>Argentina</strong>|11812km
+270  2024-04-21 16:33 FY5KE         28.022    CW      SA   599 599 |IC-705|<strong>French Guiana</strong>|7943km
+271  2024-04-21 16:36 N4RV          21.038    CW      NA   599 599 |IC-705|<strong>United States</strong>|7223km
