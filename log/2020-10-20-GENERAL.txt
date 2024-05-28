@@ -269,3 +269,20 @@
 269  2024-04-20 18:41 AZ1WW         14.035    CW      AS   599 599 |IC-705|<strong>Argentina</strong>|11812km
 270  2024-04-21 16:33 FY5KE         28.022    CW      SA   599 599 |IC-705|<strong>French Guiana</strong>|7943km
 271  2024-04-21 16:36 N4RV          21.038    CW      NA   599 599 |IC-705|<strong>United States</strong>|7223km
+272  2024-04-24 02:26 AI4UH         14.052    CW599 ABAM   599 599 |IC-705|<strong>United States</strong>|7223km
+273  2024-04-26 20:20 AO75KA        14.013    CW     599   599 599 |IC-705|<strong>Spain</strong>|1772km
+274  2024-04-26 20:22 AO75EX        14.003    CW     599   599 599 |IC-705|<strong>Spain</strong>|1772km
+275  2024-04-26 20:31 AO75GA        14.022    CW     599   599 599 |IC-705|<strong>Spain</strong>|1772km
+276  2024-04-26 20:33 SZ0WARD       14.024    CW     599   599 599 |IC-705|<strong>Greece</strong>|1534km
+277  2024-04-28 20:06 AO75GA        10.104    CW     599   599 599 |IC-705|<strong>Spain</strong>|1772km
+278  2024-04-28 20:10 IY1MR         10.117    CW     599   599 599 |IC-705|<strong>Italy</strong>|923km
+279  2024-04-30 21:27 3G0YA         28.027    CW     599   599 599 |IC-705|<strong>Easter Island</strong>|14660km
+280  2024-05-02 01:21 OJ0T           7.008    CW     599   599 599 |IC-705|<strong>Market Reef</strong>|1170km
+281  2024-05-10 23:29 EI4BZ          50.09    CW     51A   599 599 |IC-746|<strong>Ireland</strong>|1464km
+282  2024-05-12 20:09 W4RN           14.02    CW     559   599 599 |IC-705|<strong>United States</strong>|7223km
+283  2024-05-17 20:34 CS2GPDX       10.105    CW     599   599 599 |IC-705|<strong>Portugal</strong>|2247km
+284  2024-05-18 17:21 PV2K          28.017    CW      89   599 599 |IC-705|<strong>Brazil</strong>|9901km
+285  2024-05-18 23:57 TI8/N7ZG      14.031    CW     333   599 599 |IC-746|<strong>Costa Rica</strong>|9755km
+286  2024-05-19 19:28 AM775R         21.02    CW     599   599 599 |IC-705|<strong>Spain</strong>|1772km
+287  2024-05-24 19:46 P40L          21.026    CW     599   599 599 |IC-705|<strong>Aruba</strong>|8547km
+288  2024-05-28 20:20 PJ4/K5PI      28.031    CW     599   599 599 |IC-705|<strong>Netherlands Antilles</strong>|8509km

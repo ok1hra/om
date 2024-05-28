@@ -1,0 +1,165 @@
+1    2024-05-25 18:37 K3MD           21.05    CW       1   599 599 |IC-746|<strong>United States</strong>|7223km
+2    2024-05-25 18:41 EW6EW          21.05    CW       6   599 599 |IC-746|<strong>Belarus</strong>|995km
+4    2024-05-25 18:47 AA3B          14.046    CW    1815   599 599 |IC-746|<strong>United States</strong>|7223km
+5    2024-05-25 18:48 UW1M          14.046    CW    2041   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+6    2024-05-25 18:53 UR5EJ         14.046    CW     529   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+7    2024-05-25 18:54 UP2L          14.046    CW     318   599 599 |IC-746|<strong>Kazakhstan</strong>|4683km
+8    2024-05-25 18:56 CR3W          14.046    CW    1551   599 599 |IC-746|<strong>Madeira Is.</strong>|3218km
+9    2024-05-25 18:56 SV1PMZ        14.046    CW       9   599 599 |IC-746|<strong>Greece</strong>|1534km
+10   2024-05-25 18:57 YU1NR         14.046    CW     279   599 599 |IC-746|<strong>Serbia</strong>|737km
+11   2024-05-25 18:58 UT2II         14.046    CW     592   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+12   2024-05-25 18:59 M4A           14.046    CW     482   599 599 |IC-746|<strong>England</strong>|1029km
+13   2024-05-25 18:59 K3TC          14.046    CW     611   599 599 |IC-746|<strong>United States</strong>|7223km
+14   2024-05-25 19:00 ER4A          14.046    CW    2322   599 599 |IC-746|<strong>Moldova</strong>|1112km
+15   2024-05-25 19:01 EW8DX         14.046    CW    1113   599 599 |IC-746|<strong>Belarus</strong>|995km
+16   2024-05-25 19:01 YO4CAH        14.046    CW     491   599 599 |IC-746|<strong>Romania</strong>|1085km
+17   2024-05-25 19:02 UT4LW         14.046    CW    1282   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+18   2024-05-25 19:03 IZ2BVC        14.046    CW      88   599 599 |IC-746|<strong>Italy</strong>|923km
+19   2024-05-25 19:06 US5VX         14.046    CW      12   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+20   2024-05-25 19:06 DK1TW         14.046    CW     385   599 599 |IC-746|<strong>Germany</strong>|326km
+21   2024-05-25 19:07 UZ7E          14.046    CW     688   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+22   2024-05-25 19:07 LZ1UK         14.046    CW      51   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+24   2024-05-25 19:09 ED8M          14.046    CW    2483   599 599 |IC-746|<strong>Canary Is.</strong>|3473km
+25   2024-05-25 19:10 SV2CLJ        14.046    CW      74   599 599 |IC-746|<strong>Greece</strong>|1534km
+26   2024-05-25 19:11 M6W           14.046    CW    1176   599 599 |IC-746|<strong>England</strong>|1029km
+27   2024-05-25 19:12 DL1SAN        14.046    CW       9   599 599 |IC-746|<strong>Germany</strong>|326km
+28   2024-05-25 19:13 LZ8E          14.046    CW    1598   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+29   2024-05-25 19:14 OI3V          14.046    CW    1286   599 599 |IC-746|<strong>Finland</strong>|1305km
+30   2024-05-25 19:15 UW5IM         14.046    CW     322   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+31   2024-05-25 19:16 YO4FHU        14.046    CW     672   599 599 |IC-746|<strong>Romania</strong>|1085km
+32   2024-05-25 19:19 VE9ML         14.046    CW     187   599 599 |IC-746|<strong>Canada</strong>|6615km
+33   2024-05-25 19:20 MM7BFL        14.046    CW      20   599 599 |IC-746|<strong>Scotland</strong>|1397km
+34   2024-05-25 20:36 OK3X          14.048    CW     628   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+35   2024-05-25 20:38 IK2ULV        14.048    CW     104   599 599 |IC-746|<strong>Italy</strong>|923km
+36   2024-05-25 20:42 OE5CIP        14.048    CW     187   599 599 |IC-746|<strong>Austria</strong>|252km
+37   2024-05-25 20:44 B7C           14.048    CW    1195   599 599 |IC-746|<strong>China</strong>|7448km
+38   2024-05-25 20:47 YP3X          14.048    CW     864   599 599 |IC-746|<strong>Romania</strong>|1085km
+39   2024-05-25 20:48 HB9IJC        14.048    CW     404   599 599 |IC-746|<strong>Switzerland</strong>|613km
+40   2024-05-25 20:51 K3LR          14.048    CW    1184   599 599 |IC-746|<strong>United States</strong>|7223km
+41   2024-05-25 20:53 PC3H          14.048    CW     608   599 599 |IC-746|<strong>Netherlands</strong>|708km
+42   2024-05-25 20:53 EA1IYK        14.048    CW     244   599 599 |IC-746|<strong>Spain</strong>|1772km
+43   2024-05-25 20:55 LZ7M          14.048    CW     735   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+44   2024-05-25 22:38 VE3VA         14.048    CW     184   599 599 |IC-746|<strong>Canada</strong>|6615km
+45   2024-05-25 22:39 AK1W          14.048    CW    2374   599 599 |IC-746|<strong>United States</strong>|7223km
+46   2024-05-25 22:39 K1ESE         14.048    CW     296   599 599 |IC-746|<strong>United States</strong>|7223km
+47   2024-05-25 22:40 W3RJ          14.048    CW     396   599 599 |IC-746|<strong>United States</strong>|7223km
+48   2024-05-25 22:40 HG5E          14.048    CW    1443   599 599 |IC-746|<strong>Hungary</strong>|449km
+49   2024-05-25 22:41 NM2A          14.048    CW     867   599 599 |IC-746|<strong>United States</strong>|7223km
+50   2024-05-25 22:44 EA5YU         14.048    CW     405   599 599 |IC-746|<strong>Spain</strong>|1772km
+51   2024-05-25 22:44 P3AA          14.048    CW    3424   599 599 |IC-746|<strong>Cyprus</strong>|2258km
+52   2024-05-25 22:46 K3MD          14.048    CW     528   599 599 |IC-746|<strong>United States</strong>|7223km
+53   2024-05-25 22:47 NC3Y          14.048    CW     571   599 599 |IC-746|<strong>United States</strong>|7223km
+54   2024-05-25 22:48 K0AP          14.048    CW     415   599 599 |IC-746|<strong>United States</strong>|7223km
+55   2024-05-25 22:52 VL2G          21.048    CW     726   599 599 |IC-746|<strong>Australia</strong>|14029km
+56   2024-05-25 22:54 N3DPB         21.046    CW     140   599 599 |IC-746|<strong>United States</strong>|7223km
+57   2024-05-25 22:55 AA3B          21.046    CW    2237   599 599 |IC-746|<strong>United States</strong>|7223km
+58   2024-05-25 22:57 N2EM          21.046    CW     532   599 599 |IC-746|<strong>United States</strong>|7223km
+59   2024-05-25 22:59 W9VGM         21.046    CW     312   599 599 |IC-746|<strong>United States</strong>|7223km
+60   2024-05-25 23:02 NC8C          21.046    CW     549   599 599 |IC-746|<strong>United States</strong>|7223km
+61   2024-05-25 23:03 WA3AAN        21.046    CW    1035   599 599 |IC-746|<strong>United States</strong>|7223km
+62   2024-05-25 23:10 TI2OY         14.048    CW     469   599 599 |IC-746|<strong>Costa Rica</strong>|9755km
+63   2024-05-25 23:28 K3RA          14.045    CW    1695   599 599 |IC-746|<strong>United States</strong>|7223km
+64   2024-05-25 23:29 K1LZ          14.045    CW    1670   599 599 |IC-746|<strong>United States</strong>|7223km
+65   2024-05-25 23:31 WM4Q          14.045    CW     185   599 599 |IC-746|<strong>United States</strong>|7223km
+66   2024-05-25 23:33 YT5A          14.045    CW    1764   599 599 |IC-746|<strong>Serbia</strong>|737km
+67   2024-05-25 23:33 NG1R          14.045    CW     491   599 599 |IC-746|<strong>United States</strong>|7223km
+68   2024-05-25 23:34 N4ZR          14.045    CW     895   599 599 |IC-746|<strong>United States</strong>|7223km
+69   2024-05-25 23:36 W1FJ          14.045    CW     422   599 599 |IC-746|<strong>United States</strong>|7223km
+70   2024-05-25 23:44 K3AU          14.045    CW     528   599 599 |IC-746|<strong>United States</strong>|7223km
+71   2024-05-25 23:46 NZ1U          14.045    CW     147   599 599 |IC-746|<strong>United States</strong>|7223km
+72   2024-05-25 23:46 VA3SB         14.045    CW     406   599 599 |IC-746|<strong>Canada</strong>|6615km
+73   2024-05-25 23:47 VP5M          14.045    CW    2405   599 599 |IC-746|<strong>Turks & Caicos</strong>|7944km
+74   2024-05-25 23:48 AI4WW         14.045    CW     398   599 599 |IC-746|<strong>United States</strong>|7223km
+75   2024-05-25 23:48 K3CCR         14.045    CW     581   599 599 |IC-746|<strong>United States</strong>|7223km
+76   2024-05-25 23:51 KC1XX         14.045    CW     126   599 599 |IC-746|<strong>United States</strong>|7223km
+77   2024-05-25 23:52 N4QS          14.045    CW    1241   599 599 |IC-746|<strong>United States</strong>|7223km
+78   2024-05-25 23:53 YR8D          14.045    CW    2769   599 599 |IC-746|<strong>Romania</strong>|1085km
+79   2024-05-25 23:53 K1TR          14.045    CW     678   599 599 |IC-746|<strong>United States</strong>|7223km
+80   2024-05-25 23:54 K1TH          14.045    CW     171   599 599 |IC-746|<strong>United States</strong>|7223km
+81   2024-05-25 23:54 AA3R          14.045    CW     352   599 599 |IC-746|<strong>United States</strong>|7223km
+82   2024-05-25 23:55 NS0R          14.045    CW    1420   599 599 |IC-746|<strong>United States</strong>|7223km
+83   2024-05-25 23:56 W1RCR         14.045    CW     739   599 599 |IC-746|<strong>United States</strong>|7223km
+84   2024-05-25 23:56 WA4JUK        14.045    CW     396   599 599 |IC-746|<strong>United States</strong>|7223km
+85   2024-05-25 23:57 N3RM          14.045    CW     143   599 599 |IC-746|<strong>United States</strong>|7223km
+86   2024-05-25 23:57 A71WW         14.045    CW    2148   599 599 |IC-746|<strong>Qatar</strong>|4200km
+87   2024-05-25 23:58 WB2HJV        14.045    CW      31   599 599 |IC-746|<strong>United States</strong>|7223km
+88   2024-05-25 23:58 PY1AX         14.045    CW     571   599 599 |IC-746|<strong>Brazil</strong>|9901km
+89   2024-05-25 23:59 AA4R          14.045    CW     235   599 599 |IC-746|<strong>United States</strong>|7223km
+90   2024-05-25 23:59 NI4W          14.045    CW    1148   599 599 |IC-746|<strong>United States</strong>|7223km
+91   2024-05-26 00:01 N2UU          14.045    CW     524   599 599 |IC-746|<strong>United States</strong>|7223km
+92   2024-05-26 00:02 WG7F          14.045    CW     864   599 599 |IC-746|<strong>United States</strong>|7223km
+93   2024-05-26 00:03 K1AJ          14.045    CW     241   599 599 |IC-746|<strong>United States</strong>|7223km
+94   2024-05-26 00:04 W1TO          14.045    CW     124   599 599 |IC-746|<strong>United States</strong>|7223km
+95   2024-05-26 07:37 9H6EE         21.026    CW    1289   599 599 |IC-746|<strong>Malta</strong>|1567km
+96   2024-05-26 07:39 9N7AA         21.026    CW    1651   599 599 |IC-746|<strong>Nepal</strong>|6354km
+97   2024-05-26 16:03 UT4LW         28.035    CW    1854   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+98   2024-05-26 16:04 OK1AGE        28.035    CW     127   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+99   2024-05-26 16:08 ER4A          21.027    CW    4203   599 599 |IC-746|<strong>Moldova</strong>|1112km
+100  2024-05-26 16:08 K9CT          21.027    CW    1509   599 599 |IC-746|<strong>United States</strong>|7223km
+101  2024-05-26 16:09 UP2L          21.027    CW    5289   599 599 |IC-746|<strong>Kazakhstan</strong>|4683km
+102  2024-05-26 16:09 K1LZ          21.027    CW    2209   599 599 |IC-746|<strong>United States</strong>|7223km
+103  2024-05-26 16:10 AC1U          21.027    CW    1865   599 599 |IC-746|<strong>United States</strong>|7223km
+104  2024-05-26 16:12 9M8J          21.027    CW     225   599 599 |IC-746|<strong>East Malaysia</strong>|10476km
+105  2024-05-26 16:13 AD4EB         21.027    CW     239   599 599 |IC-746|<strong>United States</strong>|7223km
+106  2024-05-26 16:46 OM6NM          7.013    CW    1077   599 599 |IC-746|<strong>Slovakia</strong>|296km
+107  2024-05-26 16:48 CN3A          28.053    CW    1622   599 599 |IC-746|<strong>Morocco</strong>|2561km
+108  2024-05-26 16:49 CN3A          21.072    CW    3077   599 599 |IC-746|<strong>Morocco</strong>|2561km
+109  2024-05-26 18:47 CN3A          14.068    CW    2660   599 599 |IC-746|<strong>Morocco</strong>|2561km
+110  2024-05-26 18:51 ED8M          21.049    CW    3718   599 599 |IC-746|<strong>Canary Is.</strong>|3473km
+111  2024-05-26 18:52 W0AAE         21.049    CW    1901   599 599 |IC-746|<strong>United States</strong>|7223km
+112  2024-05-26 18:54 VC2A          21.049    CW    1319   599 599 |IC-746|<strong>Canada</strong>|6615km
+113  2024-05-26 18:55 KQ7I          21.049    CW     174   599 599 |IC-746|<strong>United States</strong>|7223km
+114  2024-05-26 18:56 KU2M          21.049    CW    1253   599 599 |IC-746|<strong>United States</strong>|7223km
+115  2024-05-26 18:59 CN3A           7.038    CW    1309   599 599 |IC-746|<strong>Morocco</strong>|2561km
+116  2024-05-26 19:00 N9CIQ         21.049    CW     200   599 599 |IC-746|<strong>United States</strong>|7223km
+117  2024-05-26 19:00 W1CW          21.049    CW    1017   599 599 |IC-746|<strong>United States</strong>|7223km
+118  2024-05-26 19:01 LZ2RS         21.049    CW     513   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+119  2024-05-26 19:02 NY6DX         21.049    CW    2526   599 599 |IC-746|<strong>United States</strong>|7223km
+120  2024-05-26 19:03 P3AA          21.049    CW    5462   599 599 |IC-746|<strong>Cyprus</strong>|2258km
+121  2024-05-26 19:06 OK1BR         21.049    CW     260   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+122  2024-05-26 19:07 KI7WX         21.049    CW    2933   599 599 |IC-746|<strong>United States</strong>|7223km
+123  2024-05-26 19:09 CR3W          21.049    CW     388   599 599 |IC-746|<strong>Madeira Is.</strong>|3218km
+124  2024-05-26 19:09 LZ9W          21.049    CW    2316   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+125  2024-05-26 19:10 K1AR          21.049    CW    1943   599 599 |IC-746|<strong>United States</strong>|7223km
+126  2024-05-26 19:14 CN3A           3.554    CW     560   599 599 |IC-746|<strong>Morocco</strong>|2561km
+127  2024-05-26 19:16 KU1N          21.049    CW     262   599 599 |IC-746|<strong>United States</strong>|7223km
+128  2024-05-26 19:17 NN7CW         21.049    CW    3000   599 599 |IC-746|<strong>United States</strong>|7223km
+129  2024-05-26 19:18 K1IP          21.049    CW     181   599 599 |IC-746|<strong>United States</strong>|7223km
+130  2024-05-26 19:21 VA7DZ         21.049    CW    1298   599 599 |IC-746|<strong>Canada</strong>|6615km
+131  2024-05-26 19:23 WB2FUV        21.049    CW     194   599 599 |IC-746|<strong>United States</strong>|7223km
+132  2024-05-26 19:25 UW1M          21.049    CW    3813   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+133  2024-05-26 19:25 WB2CPK        21.049    CW     246   599 599 |IC-746|<strong>United States</strong>|7223km
+134  2024-05-26 19:29 EW2A          21.049    CW     123   599 599 |IC-746|<strong>Belarus</strong>|995km
+135  2024-05-26 19:29 NJ3K          21.049    CW    1234   599 599 |IC-746|<strong>United States</strong>|7223km
+136  2024-05-26 19:33 N9DJ          21.049    CW     604   599 599 |IC-746|<strong>United States</strong>|7223km
+137  2024-05-26 19:34 N7DR          21.049    CW     471   599 599 |IC-746|<strong>United States</strong>|7223km
+138  2024-05-26 19:34 KA6BIM        21.049    CW      52   599 599 |IC-746|<strong>United States</strong>|7223km
+139  2024-05-26 19:35 AC0P          21.049    CW    1483   599 599 |IC-746|<strong>United States</strong>|7223km
+140  2024-05-26 19:36 SV2/OL9A      21.049    CW       5   599 599 |IC-746|<strong>Greece</strong>|1534km
+141  2024-05-26 19:36 W4SPR         21.049    CW     291   599 599 |IC-746|<strong>United States</strong>|7223km
+142  2024-05-26 19:37 K1TR          21.049    CW    1211   599 599 |IC-746|<strong>United States</strong>|7223km
+143  2024-05-26 19:39 N8II          21.049    CW      15   599 599 |IC-746|<strong>United States</strong>|7223km
+144  2024-05-26 19:40 IZ5FDD        21.049    CW     160   599 599 |IC-746|<strong>Italy</strong>|923km
+145  2024-05-26 19:41 YP3X          21.049    CW    1540   599 599 |IC-746|<strong>Romania</strong>|1085km
+146  2024-05-26 19:43 LZ8E          21.049    CW    3047   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+147  2024-05-26 19:45 BY5EA         21.049    CW    2529   599 599 |IC-746|<strong>China</strong>|7448km
+148  2024-05-26 20:19 Z4JMA         14.064    CW    1192   599 599 |IC-746|<strong>Unknown</strong>|5736km
+149  2024-05-26 20:19 CR3DX         14.064    CW    1980   599 599 |IC-746|<strong>Madeira Is.</strong>|3218km
+150  2024-05-26 20:20 W1CW          14.064    CW    1619   599 599 |IC-746|<strong>United States</strong>|7223km
+151  2024-05-26 20:25 VC2A          14.064    CW    1514   599 599 |IC-746|<strong>Canada</strong>|6615km
+152  2024-05-26 20:26 AB3CX         14.064    CW    1793   599 599 |IC-746|<strong>United States</strong>|7223km
+153  2024-05-26 20:27 N4IQ          14.064    CW     583   599 599 |IC-746|<strong>United States</strong>|7223km
+154  2024-05-26 21:32 N7US          14.064    CW     349   599 599 |IC-746|<strong>United States</strong>|7223km
+155  2024-05-26 21:32 L9W           14.064    CW    2698   599 599 |IC-746|<strong>Argentina</strong>|11812km
+156  2024-05-26 21:32 LZ1QN         14.064    CW     965   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+157  2024-05-26 21:33 DL8UAT        14.064    CW    1808   599 599 |IC-746|<strong>Germany</strong>|326km
+158  2024-05-26 21:34 G4RGK         14.064    CW      97   599 599 |IC-746|<strong>England</strong>|1029km
+159  2024-05-26 21:35 UN4Q          14.064    CW    2760   599 599 |IC-746|<strong>Kazakhstan</strong>|4683km
+160  2024-05-26 21:35 K9CT          14.064    CW    1768   599 599 |IC-746|<strong>United States</strong>|7223km
+161  2024-05-26 21:38 WM9C          14.064    CW    1429   599 599 |IC-746|<strong>United States</strong>|7223km
+162  2024-05-26 21:39 WW1ME         14.064    CW     135   599 599 |IC-746|<strong>United States</strong>|7223km
+163  2024-05-26 21:40 VC7X          14.064    CW    3728   599 599 |IC-746|<strong>Canada</strong>|6615km
+164  2024-05-26 21:41 AC0W          14.064    CW    1563   599 599 |IC-746|<strong>United States</strong>|7223km
+165  2024-05-26 21:44 OK1GK         14.064    CW     113   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+166  2024-05-26 21:48 KB4DX         14.064    CW    1315   599 599 |IC-746|<strong>United States</strong>|7223km
+167  2024-05-26 21:51 DL3DXX        14.064    CW    2289   599 599 |IC-746|<strong>Germany</strong>|326km

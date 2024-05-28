@@ -1,0 +1,11 @@
+1    2024-05-04 15:43 OK1KAD       144.192  USB   68 JO60LJ   77km 303°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+2    2024-05-04 15:46 OK1OPT       144.172  USB   32 JN69NX   54km 265°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+3    2024-05-04 15:50 OK4C         144.155  USB   77 JN79BU   26km 136°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+4    2024-05-04 15:52 OK1KCR       144.161  USB  141 JN79VS  140km 101°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+5    2024-05-04 15:57 OM2Y         144.169  USB  168 JN88RS  294km 117°    59 59 |IC-705|<strong>Slovakia</strong>|296km
+6    2024-05-04 16:02 OK6R         144.226  USB   84 JN79OW   96km  95°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+7    2024-05-04 18:23 OK2BMJ       144.109   CW   26 JN89VC  300km 108°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+8    2024-05-04 23:23 OK2KCN       144.054   CW  210 JN89OI  251km 106°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+9    2024-05-04 23:26 OM8A         144.084   CW  338 JN87WV  376km 127°   599 599 |IC-705|<strong>Slovakia</strong>|296km
+10   2024-05-04 23:38 IQ4CT        144.106   CW  362 JN54WE  666km 194°   599 599 |IC-705|<strong>Italy</strong>|923km
+11   2024-05-04 23:45 OE6X         144.075   CW  208 JN76VT  384km 158°   599 599 |IC-705|<strong>Austria</strong>|252km
