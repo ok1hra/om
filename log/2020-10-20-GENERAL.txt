@@ -297,3 +297,16 @@
 297  2024-06-02 20:10 G4SND         50.096    CW  IO82UI   599 599 |IC-705|<strong>England</strong>|1029km
 298  2024-06-02 20:14 EI6FR         50.092    CW  IO63EC   599 599 |IC-705|<strong>Ireland</strong>|1464km
 299  2024-06-02 20:23 SV2DSJ        50.086    CW  KN10LN   599 599 |IC-705|<strong>Greece</strong>|1534km
+300  2024-06-02 21:31 F5UOW          50.09    CW  IN95RE   599 599 |IC-705|<strong>France</strong>|885km
+301  2024-06-04 18:53 OH8MBN        50.092    CW  KP24SX   599 599 |IC-705|<strong>Finland</strong>|1305km
+302  2024-06-13 19:33 OH1RX         50.099    CW  KP10NJ   599 599 |IC-705|<strong>Finland</strong>|1305km
+303  2024-06-13 19:36 OG9W          50.092    CW  KP10KN   599 599 |IC-705|<strong>Finland</strong>|1305km
+304  2024-06-13 19:43 OH3NLP        50.084    CW  KP21JU   599 599 |IC-705|<strong>Finland</strong>|1305km
+305  2024-06-13 20:05 UT5ECZ         50.09    CW  KN68XL   599 599 |IC-705|<strong>Ukraine</strong>|1142km
+306  2024-06-13 20:21 SD3CW         50.087    CW  JP92CW   599 599 |IC-705|<strong>Sweden</strong>|1049km
+307  2024-06-13 20:35 OH6PA         50.094    CW  KP02PL   599 599 |IC-705|<strong>Finland</strong>|1305km
+308  2024-06-13 20:45 SM6OEF        50.088    CW  JO68VI   599 599 |IC-705|<strong>Sweden</strong>|1049km
+309  2024-06-13 20:50 SM4GRP        50.092    CW  JO69HF   599 599 |IC-705|<strong>Sweden</strong>|1049km
+310  2024-06-13 20:54 SM6MCW        50.094    CW  JO68UK   599 599 |IC-705|<strong>Sweden</strong>|1049km
+311  2024-06-13 20:58 SM5CAK        50.092    CW  JO78LN   599 599 |IC-705|<strong>Sweden</strong>|1049km
+312  2024-06-13 21:02 YL2GN         50.087    CW  KO37OD   599 599 |IC-705|<strong>Latvia</strong>|997km
