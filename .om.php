@@ -58,7 +58,9 @@ global $preset2;
 			- redesigned
 	2015-10 - disable autofill input forms
 	2015-08 - new frequency cache - if hmlib short fail
-
+	Todo
+	- in S&P mode after enter check, if call woked in same band (freq before dot - 14.)
+	- button for change vfo between two icom trx
 
 	INSTALL # Install apache web server with PHP support on Linux
 			sudo apt install apache2 git

@@ -1,0 +1,28 @@
+1    2024-07-27 15:35 I/DL3NC       28.009    CW  287EW0   599 599 |IC-705|<strong>Italy</strong>|923km
+2    2024-07-27 15:50 PB2T          28.014    CW   EU146   599 599 |IC-705|<strong>Netherlands</strong>|708km
+3    2024-07-27 15:56 TM40JO        28.022    CW      59   599 599 |IC-705|<strong>France</strong>|885km
+4    2024-07-27 15:57 MC5A          28.023    CW   EU124   599 599 |IC-705|<strong>Wales</strong>|1243km
+5    2024-07-27 18:29 KP2M          28.023    CW   NA106   599 599 |IC-705|<strong>Virgin Is.</strong>|7702km
+6    2024-07-27 18:32 CT9ABO        28.014    CW   AF014   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
+7    2024-07-27 18:35 EA4AOC        21.014    CW      88   599 599 |IC-705|<strong>Spain</strong>|1772km
+8    2024-07-27 18:38 OH0/DL1SVA      7.02    CW   EU002   599 599 |IC-705|<strong>Aland Is.</strong>|1177km
+9    2024-07-27 18:39 CT3KN         21.012    CW   AF014   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
+10   2024-07-27 19:34 KC1XX         21.012    CW      22   599 599 |IC-705|<strong>United States</strong>|7223km
+11   2024-07-27 19:37 CT1DRB         21.03    CW     198   599 599 |IC-705|<strong>Portugal</strong>|2247km
+12   2024-07-27 19:45 GM7V          14.012    CW   EU010   599 599 |IC-705|<strong>Scotland</strong>|1397km
+13   2024-07-27 19:49 II0ITR        14.009    CW     184   599 599 |IC-705|<strong>Italy</strong>|923km
+14   2024-07-27 19:54 OH7JL         14.019    CW      12   599 599 |IC-705|<strong>Finland</strong>|1305km
+15   2024-07-27 19:57 UV1IX         14.014    CW     225   599 599 |IC-705|<strong>Ukraine</strong>|1142km
+16   2024-07-27 20:00 GM7A          14.029    CW   EU008   599 599 |IC-705|<strong>Scotland</strong>|1397km
+17   2024-07-27 20:11 SV8GGI        14.043    CW   EU075   599 599 |IC-705|<strong>Greece</strong>|1534km
+18   2024-07-27 20:14 OY1CT         14.043    CW   EU018   599 599 |IC-705|<strong>Faroe Is.</strong>|1850km
+19   2024-07-27 20:16 EA3AR         14.046    CW     020   599 599 |IC-705|<strong>Spain</strong>|1772km
+20   2024-07-27 20:18 SV5/DH8BQA    14.006    CW   EU001   599 599 |IC-705|<strong>Dodecanese</strong>|1882km
+21   2024-07-27 20:30 G3L           14.006    CW   EU005   599 599 |IC-705|<strong>England</strong>|1029km
+22   2024-07-27 20:36 9A/OM6NM       7.008    CW   EU136   599 599 |IC-705|<strong>Croatia</strong>|519km
+23   2024-07-27 20:43 EI8X          14.013    CW   EU115   599 599 |IC-705|<strong>Ireland</strong>|1464km
+24   2024-07-27 20:47 N2GC          14.018    CW   NA026   599 599 |IC-705|<strong>United States</strong>|7223km
+25   2024-07-27 21:06 GS8VL          14.02    CW   EU005   599 599 |IC-705|<strong>Scotland</strong>|1397km
+26   2024-07-27 21:09 K3UL          14.025    CW     201   599 599 |IC-705|<strong>United States</strong>|7223km
+27   2024-07-28 08:05 PA4O           21.03    CW    3359   599 599 |IC-705|<strong>Netherlands</strong>|708km
+28   2024-07-28 09:58 IS0/OM2FY     14.033    CW    EU64   599 599 |IC-705|<strong>Sardinia</strong>|1281km

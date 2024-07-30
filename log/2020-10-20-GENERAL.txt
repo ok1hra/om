@@ -316,3 +316,7 @@
 316  2024-07-25 20:37 TM2024P       21.025    CW     599   599 599 |IC-705|<strong>France</strong>|885km
 317  2024-07-25 20:46 EG24FDC        14.02    CW     559   599 599 |IC-705|<strong>Spain</strong>|1772km
 318  2024-07-25 22:20 TM37JO        14.007    CW     599   599 599 |IC-705|<strong>France</strong>|885km
+319  2024-07-25 22:36 CE2ML         21.026    CW     599   599 599 |IC-705|<strong>Chile</strong>|12481km
+320  2024-07-26 08:50 F5DE          50.086    CW  JN05DP   599 599 |IC-705|<strong>France</strong>|885km
+321  2024-07-26 15:47 7E4K          21.036    CW     599   599 599 |IC-705|<strong>Indonesia</strong>|10706km
+322  2024-07-30 19:19 LZ302IT       10.104    CW     599   599 599 |IC-705|<strong>Bulgaria</strong>|1067km

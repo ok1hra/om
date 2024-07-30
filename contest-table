@@ -1,4 +1,13 @@
 <tr>
+	<td>2024-07-27-IOTA</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2024-07-27-IOTA.txt">.txt</a></td>
+	<td><a href="log/2024-07-27-IOTA.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2024-07-27-IOTA.txt")) { echo qso("log/2024-07-27-IOTA.txt"); $sumqso=$sumqso+qso("log/2024-07-27-IOTA.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2024-07-27-IOTA&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
 	<td>2024-06-01-MEMORIAL-OM3AU</td>
 	<td>OK1HRA</td>
 	<td class="center">NR</td>
