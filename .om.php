@@ -9,7 +9,7 @@
 // CONFIGURE ------------------------------------------------------------------
 // my ($mylat, $mylon) = (50.10, -14.40);  <--- PLEASE SET IN dxcc.pl
 $locator   = 'JO60WA';		// QTH for 2m and up sending MSG
-$IP1        = '192.168.1.44';	// CAT/UDP TRX interface - find IP with 'ping ic705.local'
+$IP1        = '192.168.1.52';	// CAT/UDP TRX interface - find IP with 'ping ic705.local'
 $trx1name   = 'IC-705';
 $IP2        = '192.168.1.50';	// CAT/UDP TRX interface
 $trx2name   = 'IC-746';

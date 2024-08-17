@@ -320,3 +320,29 @@
 320  2024-07-26 08:50 F5DE          50.086    CW  JN05DP   599 599 |IC-705|<strong>France</strong>|885km
 321  2024-07-26 15:47 7E4K          21.036    CW     599   599 599 |IC-705|<strong>Indonesia</strong>|10706km
 322  2024-07-30 19:19 LZ302IT       10.104    CW     599   599 599 |IC-705|<strong>Bulgaria</strong>|1067km
+323  2024-07-30 19:23 OH0/DL1SVA      7.02    CW     599   599 599 |IC-705|<strong>Aland Is.</strong>|1177km
+324  2024-07-30 19:24 YU1924RB       10.11    CW     599   599 599 |IC-705|<strong>Serbia</strong>|737km
+325  2024-07-30 19:27 TM24P         14.024    CW     599   599 599 |IC-705|<strong>France</strong>|885km
+326  2024-07-30 19:36 SN230BEM       7.011    CW     599   599 599 |IC-705|<strong>Poland</strong>|515km
+327  2024-08-01 20:45 LY35BW         10.12    CW     599   599 599 |IC-705|<strong>Lithuania</strong>|897km
+328  2024-08-01 21:32 ZL4TT         21.017    CW     319   599 599 |IC-705|<strong>New Zealand</strong>|17870km
+329  2024-08-03 19:29 W9RE          21.025    CW      IN   599 599 |IC-705|<strong>United States</strong>|7223km
+330  2024-08-03 19:41 NY3A          21.043    CW      PA   599 599 |IC-705|<strong>United States</strong>|7223km
+331  2024-08-04 09:41 OK1IM        144.087   CW      JN79AR   35km 160°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+332  2024-08-04 09:42 OK1PFM       144.087   CW      JN79BX   18km 104°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+333  2024-08-04 09:43 OL2J         144.113   CW      JN79TI  146km 120°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+334  2024-08-04 09:46 OK5T         144.056   CW      JO70BK   50km  21°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+335  2024-08-04 09:48 OK2KRT       144.06   CW      JN99BK  312km 100°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+336  2024-08-04 09:50 9A2V         144.074   CW      JN95PE  673km 141°   599 599 |IC-705|<strong>Croatia</strong>|519km
+337  2024-08-06 19:58 SM3GSK        50.098    CWJP82TM CLAS   599 599 |IC-705|<strong>Sweden</strong>|1049km
+338  2024-08-06 20:08 M0TNX          50.09    CW     599   599 599 |IC-705|<strong>England</strong>|1029km
+339  2024-08-07 17:43 Z380ASNOM     14.009    CW     599   599 599 |IC-705|<strong>Macedonia</strong>|1068km
+340  2024-08-09 23:05 K3LU          21.002    CW  MD 579   599 599 |IC-705|<strong>United States</strong>|7223km
+341  2024-08-09 23:19 N1MX          14.005    CW     569   599 599 |IC-705|<strong>United States</strong>|7223km
+342  2024-08-11 20:07 TM25JO        10.105    CW     599   599 599 |IC-705|<strong>France</strong>|885km
+343  2024-08-11 20:08 TM29JO        10.109    CW     599   599 599 |IC-705|<strong>France</strong>|885km
+344  2024-08-11 20:21 TM85JO         10.12    CW     599   599 599 |IC-705|<strong>France</strong>|885km
+345  2024-08-13 20:07 VE2CSI        21.019    CW     599   599 599 |IC-705|<strong>Canada</strong>|6615km
+346  2024-08-15 19:09 8H79I          14.02    CW     599   599 599 |IC-705|<strong>Indonesia</strong>|10706km
+347  2024-08-15 19:14 XQ6CF         28.015    CW     549   599 599 |IC-705|<strong>Chile</strong>|12481km
+348  2024-08-16 16:21 8I79I          21.02    CW     559   599 599 |IC-705|<strong>Indonesia</strong>|10706km
