@@ -346,3 +346,5 @@
 346  2024-08-15 19:09 8H79I          14.02    CW     599   599 599 |IC-705|<strong>Indonesia</strong>|10706km
 347  2024-08-15 19:14 XQ6CF         28.015    CW     549   599 599 |IC-705|<strong>Chile</strong>|12481km
 348  2024-08-16 16:21 8I79I          21.02    CW     559   599 599 |IC-705|<strong>Indonesia</strong>|10706km
+349  2024-08-20 19:04 SV1ENG/P      14.035    CW     599   599 599 |IC-705|<strong>Greece</strong>|1534km
+21   2024-09-14 11:21 S01WS          28.01    CW     599   599 599 |IC-705|<strong>Western Sahara</strong>|4040km

@@ -1,0 +1,20 @@
+1    2024-09-07 16:17 OK5W         144.058   CW  000 JO60OK   66km 315°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+2    2024-09-07 16:21 OK2KYJ       144.055   CW  065 JN89QQ  254km  97°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+3    2024-09-07 16:33 OK1PGS       144.073   CW  039 JN69RS   41km 227°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+4    2024-09-07 16:48 OK2R         144.071   CW  103 JN89JM  217km 104°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+5    2024-09-07 18:40 DL5C         144.09   CW  075 JO70IT  106km  34°   599 599 |IC-705|<strong>Germany</strong>|326km
+6    2024-09-07 18:43 OK1FLC       144.094   CW  047 JO60TC   20km 298°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+7    2024-09-07 18:46 OK1TN        144.061   CW  084 JO70NJ   98km  64°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+8    2024-09-07 18:48 OK1AME       144.085   CW  139 JN69RI   80km 202°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+9    2024-09-07 19:11 IK4ZHH       144.068   CW  217 JN63AX  686km 192°   599 599 |IC-705|<strong>Italy</strong>|923km
+10   2024-09-07 19:46 DL0WB        144.05   CW  079 JN48HH  426km 246°   599 599 |IC-705|<strong>Germany</strong>|326km
+11   2024-09-07 20:49 DL3DXX       144.045   CW  032 JO61VE  130km 357°   599 599 |IC-705|<strong>Germany</strong>|326km
+12   2024-09-07 21:17 HG7F         144.116   CW  196 JN97KR  446km 123°   599 599 |IC-705|<strong>Hungary</strong>|449km
+13   2024-09-07 21:30 HA1KYY       144.07   CW  211 JN87FI  352km 146°   599 599 |IC-705|<strong>Hungary</strong>|449km
+14   2024-09-07 21:35 HA6W         144.136   CW  269 KN08FB  527km 112°   599 599 |IC-705|<strong>Hungary</strong>|449km
+15   2024-09-07 21:37 OM6NM        144.152   CW  395 JN99JC  369km 104°   599 599 |IC-705|<strong>Slovakia</strong>|296km
+16   2024-09-08 07:40 HB9GF        144.071   CW  305 JN47BC  533km 235°   599 599 |IC-705|<strong>Switzerland</strong>|613km
+17   2024-09-08 09:05 DK0CWC       144.11   CW  221 JO60PO   77km 328°   599 599 |IC-705|<strong>Germany</strong>|326km
+18   2024-09-08 09:15 DM7D         144.045   CW  169 JO62LI  267km 347°   599 599 |IC-705|<strong>Germany</strong>|326km
+19   2024-09-08 09:26 DL9BBD       144.111   CW   70 JO62QL  276km 353°   599 599 |IC-705|<strong>Germany</strong>|326km
+20   2024-09-08 09:35 SP9KDA       144.069   CW  299 JO90PP  391km  78°   599 599 |IC-705|<strong>Poland</strong>|515km
