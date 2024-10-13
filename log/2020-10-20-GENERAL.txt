@@ -348,3 +348,99 @@
 348  2024-08-16 16:21 8I79I          21.02    CW     559   599 599 |IC-705|<strong>Indonesia</strong>|10706km
 349  2024-08-20 19:04 SV1ENG/P      14.035    CW     599   599 599 |IC-705|<strong>Greece</strong>|1534km
 21   2024-09-14 11:21 S01WS          28.01    CW     599   599 599 |IC-705|<strong>Western Sahara</strong>|4040km
+351  2024-09-14 12:50 ZS1C          28.024    CW599 RAOUL   599 599 |IC-705|<strong>South Africa</strong>|8591km
+352  2024-09-14 19:45 SV9DJO         10.12    CW     599   599 599 |IC-705|<strong>Crete</strong>|1852km
+353  2024-09-17 18:10 V26K           21.02    CW     599   599 599 |IC-705|<strong>Antigua & Barbuda</strong>|7580km
+354  2024-09-28 16:20 IK4XQT        14.098  RTTY      15   599 599 |IC-746|<strong>Italy</strong>|923km
+355  2024-09-28 16:23 UW1M          14.098  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+356  2024-09-28 16:23 UR7HZ         14.098  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+357  2024-09-28 16:24 G4ZWX         14.098  RTTY      14   599 599 |IC-746|<strong>England</strong>|1029km
+358  2024-09-28 16:25 IU8RQW        14.098  RTTY      15   599 599 |IC-746|<strong>Italy</strong>|923km
+359  2024-09-28 16:27 UT4LW         14.098  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+360  2024-09-28 16:28 IO0N          14.098  RTTY      15   599 599 |IC-746|<strong>Italy</strong>|923km
+361  2024-09-28 16:41 OK1AUO         28.09  RTTY      15   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+362  2024-09-28 16:54 AA3B          21.103  RTTY      PA   599 599 |IC-746|<strong>United States</strong>|7223km
+363  2024-09-28 16:55 AA5AU         21.103  RTTY      LA   599 599 |IC-746|<strong>United States</strong>|7223km
+364  2024-09-28 16:58 UW1M          21.103  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+365  2024-09-28 16:59 N1RM          21.103  RTTY      VA   599 599 |IC-746|<strong>United States</strong>|7223km
+366  2024-09-28 17:04 YB1MR         21.103  RTTY      28   599 599 |IC-746|<strong>Indonesia</strong>|10706km
+367  2024-09-28 17:07 K8LF          21.103  RTTY      VA   599 599 |IC-746|<strong>United States</strong>|7223km
+368  2024-09-28 17:09 W2NO          21.103  RTTY      NJ   599 599 |IC-746|<strong>United States</strong>|7223km
+369  2024-09-28 17:10 AK2S          21.103  RTTY      NJ   599 599 |IC-746|<strong>United States</strong>|7223km
+370  2024-09-28 17:11 M0UNI         21.103  RTTY      14   599 599 |IC-746|<strong>England</strong>|1029km
+371  2024-09-28 17:13 N1WR          21.103  RTTY      VA   599 599 |IC-746|<strong>United States</strong>|7223km
+372  2024-09-28 17:15 K9PW          21.103  RTTY      IL   599 599 |IC-746|<strong>United States</strong>|7223km
+373  2024-09-28 17:15 K7AR          21.103  RTTY      WA   599 599 |IC-746|<strong>United States</strong>|7223km
+374  2024-09-28 17:16 KF2TI         21.103  RTTY      NJ   599 599 |IC-746|<strong>United States</strong>|7223km
+375  2024-09-28 17:16 K2TE          21.103  RTTY      WL   599 599 |IC-746|<strong>United States</strong>|7223km
+376  2024-09-28 17:21 N8GU          21.103  RTTY     599   599 599 |IC-746|<strong>United States</strong>|7223km
+377  2024-09-28 17:21 VA1XH         21.103  RTTY      NS   599 599 |IC-746|<strong>Canada</strong>|6615km
+378  2024-09-28 17:24 EA1EWY        21.103  RTTY      14   599 599 |IC-746|<strong>Spain</strong>|1772km
+379  2024-09-28 17:26 N9CIQ         21.103  RTTY      WI   599 599 |IC-746|<strong>United States</strong>|7223km
+380  2024-09-28 17:31 VA3DF         21.103  RTTY      ON   599 599 |IC-746|<strong>Canada</strong>|6615km
+381  2024-09-28 17:32 HI8J          21.103  RTTY      08   599 599 |IC-746|<strong>Dominican Republic</strong>|8047km
+382  2024-09-28 17:32 W9ILY         21.103  RTTY      IL   599 599 |IC-746|<strong>United States</strong>|7223km
+383  2024-09-28 17:34 AC7GL         21.103  RTTY      ID   599 599 |IC-746|<strong>United States</strong>|7223km
+384  2024-09-28 17:37 WA8MCD        21.103  RTTY      MI   599 599 |IC-746|<strong>United States</strong>|7223km
+385  2024-09-28 17:41 W0LSD         21.103  RTTY      CO   599 599 |IC-746|<strong>United States</strong>|7223km
+386  2024-09-28 17:41 KW1X          21.103  RTTY      MA   599 599 |IC-746|<strong>United States</strong>|7223km
+387  2024-09-28 17:43 WT5A          21.103  RTTY      MS   599 599 |IC-746|<strong>United States</strong>|7223km
+388  2024-09-28 17:43 KA4RRU        21.103  RTTY      VA   599 599 |IC-746|<strong>United States</strong>|7223km
+389  2024-09-28 17:45 W3LL          21.103  RTTY      MD   599 599 |IC-746|<strong>United States</strong>|7223km
+390  2024-09-28 17:47 G2U           21.103  RTTY      14   599 599 |IC-746|<strong>England</strong>|1029km
+391  2024-09-28 17:49 VE3TW         21.103  RTTY      ON   599 599 |IC-746|<strong>Canada</strong>|6615km
+392  2024-09-28 17:49 KB1EFS/2      21.103  RTTY      NY   599 599 |IC-746|<strong>United States</strong>|7223km
+393  2024-09-28 17:52 W2DXE         21.103  RTTY      NY   599 599 |IC-746|<strong>United States</strong>|7223km
+394  2024-09-28 17:55 K2RB          21.103  RTTY      CT   599 599 |IC-746|<strong>United States</strong>|7223km
+395  2024-09-29 14:40 UT4LW         21.103  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+396  2024-09-29 14:40 WQ3S          21.103  RTTY      PA   599 599 |IC-746|<strong>United States</strong>|7223km
+397  2024-09-29 14:50 YU3DX         14.104  RTTY      15   599 599 |IC-746|<strong>Serbia</strong>|737km
+398  2024-09-29 14:51 DL6DJ         14.104  RTTY      14   599 599 |IC-746|<strong>Germany</strong>|326km
+399  2024-09-29 14:51 UT7MR         14.104  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+400  2024-09-29 14:55 M5P           14.107  RTTY      14   599 599 |IC-746|<strong>England</strong>|1029km
+401  2024-09-29 14:56 YT3X          14.107  RTTY      15   599 599 |IC-746|<strong>Serbia</strong>|737km
+402  2024-09-29 14:57 EU4E          14.107  RTTY      16   599 599 |IC-746|<strong>Belarus</strong>|995km
+403  2024-09-29 14:58 IP1M          14.107  RTTY      15   599 599 |IC-746|<strong>Italy</strong>|923km
+404  2024-09-29 14:58 EW8G          14.107  RTTY      16   599 599 |IC-746|<strong>Belarus</strong>|995km
+405  2024-09-29 14:59 UX1CL         14.107  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+406  2024-09-29 15:00 IZ5BSA        14.107  RTTY      15   599 599 |IC-746|<strong>Italy</strong>|923km
+407  2024-09-29 15:01 2E0BLN        14.107  RTTY      14   599 599 |IC-746|<strong>England</strong>|1029km
+408  2024-09-29 15:01 YO3GNF        14.107  RTTY      20   599 599 |IC-746|<strong>Romania</strong>|1085km
+409  2024-09-29 15:02 TM1D          14.107  RTTY      14   599 599 |IC-746|<strong>France</strong>|885km
+410  2024-09-29 15:03 G0GQT         14.107  RTTY      14   599 599 |IC-746|<strong>England</strong>|1029km
+411  2024-09-29 15:03 YL2A          14.107  RTTY      15   599 599 |IC-746|<strong>Latvia</strong>|997km
+412  2024-09-29 15:05 IK5BDG        14.107  RTTY      15   599 599 |IC-746|<strong>Italy</strong>|923km
+413  2024-09-29 15:05 LZ2MP         14.107  RTTY      20   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+414  2024-09-29 15:08 SX8AS         14.107  RTTY      20   599 599 |IC-746|<strong>Greece</strong>|1534km
+415  2024-09-29 15:08 CR3W          14.107  RTTY      33   599 599 |IC-746|<strong>Madeira Is.</strong>|3218km
+416  2024-09-29 15:09 7S5S          14.107  RTTY      14   599 599 |IC-746|<strong>Sweden</strong>|1049km
+417  2024-09-29 15:11 EA3GCT        14.107  RTTY      14   599 599 |IC-746|<strong>Spain</strong>|1772km
+418  2024-09-29 15:12 VL6K          14.107  RTTY      29   599 599 |IC-746|<strong>Australia</strong>|14029km
+419  2024-09-29 15:17 EW6DM         14.107  RTTY      16   599 599 |IC-746|<strong>Belarus</strong>|995km
+420  2024-09-29 15:20 LY2F          14.107  RTTY      15   599 599 |IC-746|<strong>Lithuania</strong>|897km
+421  2024-09-29 15:22 YO9CWY        14.107  RTTY      20   599 599 |IC-746|<strong>Romania</strong>|1085km
+422  2024-09-29 15:23 UT5EPP        14.107  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+423  2024-09-29 15:24 SE4E          14.107  RTTY      14   599 599 |IC-746|<strong>Sweden</strong>|1049km
+424  2024-09-29 15:26 F1IWH         14.107  RTTY      14   599 599 |IC-746|<strong>France</strong>|885km
+425  2024-09-29 15:30 IQ9RG         14.107  RTTY      15   599 599 |IC-746|<strong>Sicily</strong>|1401km
+426  2024-09-29 15:30 IT9VDQ        14.107  RTTY      15   599 599 |IC-746|<strong>Sicily</strong>|1401km
+427  2024-09-29 15:31 SM5MX         14.107  RTTY      14   599 599 |IC-746|<strong>Sweden</strong>|1049km
+428  2024-09-29 15:31 EA4FME        14.107  RTTY      14   599 599 |IC-746|<strong>Spain</strong>|1772km
+429  2024-09-29 15:33 OL90ABU       14.107  RTTY      15   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+430  2024-09-29 15:33 LZ1MC         14.107  RTTY      20   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+431  2024-09-29 15:34 US1VS         14.107  RTTY      16   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+432  2024-09-29 15:34 F4HRG         14.107  RTTY      14   599 599 |IC-746|<strong>France</strong>|885km
+433  2024-09-29 15:35 9A5ST         14.107  RTTY      15   599 599 |IC-746|<strong>Croatia</strong>|519km
+434  2024-09-29 15:38 TM6V          14.107  RTTY      14   599 599 |IC-746|<strong>France</strong>|885km
+435  2024-09-29 15:38 M1DNC         14.107  RTTY      14   599 599 |IC-746|<strong>England</strong>|1029km
+436  2024-09-29 15:39 F8KFZ/P       14.107  RTTY      14   599 599 |IC-746|<strong>France</strong>|885km
+437  2024-09-29 17:43 FY5KE         21.104  RTTY       9   599 599 |IC-746|<strong>French Guiana</strong>|7943km
+438  2024-09-29 17:44 W2MKM         21.104  RTTY      NJ   599 599 |IC-746|<strong>United States</strong>|7223km
+439  2024-09-29 17:50 N3FCP         21.107  RTTY      PA   599 599 |IC-746|<strong>United States</strong>|7223km
+440  2024-09-29 17:51 N4TB          21.107  RTTY      FL   599 599 |IC-746|<strong>United States</strong>|7223km
+441  2024-09-29 17:58 N4EL          21.107  RTTY      OH   599 599 |IC-746|<strong>United States</strong>|7223km
+442  2024-09-29 17:59 AD8FD         21.107  RTTY      OH   599 599 |IC-746|<strong>United States</strong>|7223km
+443  2024-09-29 18:08 WS9M          21.107  RTTY      NY   599 599 |IC-746|<strong>United States</strong>|7223km
+444  2024-10-04 18:00 N4IN          28.043    CW  549 NY   599 599 |IC-705|<strong>United States</strong>|7223km
+445  2024-10-04 18:24 N9GVP         28.031    CW559 TOM IL   599 599 |IC-705|<strong>United States</strong>|7223km
+446  2024-10-12 20:19 VK2BJ         14.009    CW     612   599 599 |IC-746|<strong>Australia</strong>|14029km
