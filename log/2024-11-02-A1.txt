@@ -1,0 +1,58 @@
+1    2024-11-02 15:44 OK1AUO       144.06   CW    9 JO70EB   36km  82°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+2    2024-11-02 15:44 OK1LN        144.06   CW   26 JN79AI   75km 171°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+3    2024-11-02 16:14 DL5NEN        144.1   CW  103 JN59OP  196km 259°   599 599 |IC-746|<strong>Germany</strong>|326km
+4    2024-11-02 16:18 OM3KII       144.09   CW  141 JN88UU  306km 114°   599 599 |IC-746|<strong>Slovakia</strong>|296km
+5    2024-11-02 16:19 OK2KAA       144.083   CW  113 JN79QJ  128km 122°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+6    2024-11-02 16:30 HG1Z         144.078   CW   68 JN86KU  416km 147°   599 599 |IC-746|<strong>Hungary</strong>|449km
+7    2024-11-02 16:35 DD2ML        144.059   CW   46 JN68GI  209km 208°   599 599 |IC-746|<strong>Germany</strong>|326km
+8    2024-11-02 16:38 OM8A         144.055   CW  146 JN87WV  376km 127°   599 599 |IC-746|<strong>Slovakia</strong>|296km
+9    2024-11-02 16:48 S59P         144.122   CW  132 JN86AO  412km 156°   599 599 |IC-746|<strong>Slovenia</strong>|455km
+10   2024-11-02 19:41 9A0V         144.148   CW  145 JN95PE  673km 141°   599 599 |IC-746|<strong>Croatia</strong>|519km
+11   2024-11-02 20:02 OE5D         144.143   CW  111 JN68PC  217km 191°   599 599 |IC-746|<strong>Austria</strong>|252km
+12   2024-11-02 20:07 DK0BN        144.103   CW  112 JN39VV  435km 271°   599 599 |IC-746|<strong>Germany</strong>|326km
+13   2024-11-02 20:11 S50G         144.093   CW  172 JN76JC  441km 171°   599 599 |IC-746|<strong>Slovenia</strong>|455km
+14   2024-11-02 20:23 OK1DRX       144.141   CW   69 JN79DW   31km 107°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+15   2024-11-02 20:24 OK1RAR       144.141   CW   81 JO70DB   30km  81°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+16   2024-11-02 20:27 DL0NF        144.141   CW   173 JN5TT     km    °   599 599 |IC-746|<strong>Germany</strong>|326km
+17   2024-11-02 20:29 OK1PGS       144.141   CW  125 JN69MX   60km 266°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+18   2024-11-02 20:31 OL5Y         144.141   CW   47 JN79MW   84km  96°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+19   2024-11-02 20:34 OK1IM        144.141   CW   83 JN79AR   35km 160°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+20   2024-11-02 20:35 DF6LH/P      144.141   CW  114 JO30KN  501km 280°   599 599 |IC-746|<strong>Germany</strong>|326km
+21   2024-11-02 21:17 DM5M         144.15   CW  246 JO51IJ  270km 306°   599 599 |IC-746|<strong>Germany</strong>|326km
+22   2024-11-02 21:21 7S7V         144.147   CW  122 JO65SN  617km 358°   599 599 |IC-746|<strong>Sweden</strong>|1049km
+23   2024-11-02 21:29 DL0HTW       144.133   CW  253 JO60QU   99km 339°   599 599 |IC-746|<strong>Germany</strong>|326km
+24   2024-11-02 21:32 DF8AE        144.129   CW   70 JO41GX  432km 302°   599 599 |IC-746|<strong>Germany</strong>|326km
+25   2024-11-02 21:35 PC0A         144.129   CW   23 JO32JE  550km 299°   599 599 |IC-746|<strong>Netherlands</strong>|708km
+26   2024-11-02 21:39 DF2UQ        144.129   CW   99 JN49IB  388km 256°   599 599 |IC-746|<strong>Germany</strong>|326km
+27   2024-11-02 21:40 OK1VSJ       144.129   CW   65 JN69IS   88km 252°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+28   2024-11-02 21:44 ON4KHG       144.129   CW   82 JO10XO  707km 279°   599 599 |IC-746|<strong>Belgium</strong>|712km
+29   2024-11-02 21:55 HA2R         144.134   CW  295 JN87UE  423km 137°   599 599 |IC-746|<strong>Hungary</strong>|449km
+30   2024-11-02 21:58 S57M         144.147   CW  136 JN76PO  394km 164°   599 599 |IC-746|<strong>Slovenia</strong>|455km
+31   2024-11-02 22:08 F8KID        144.118   CW  215 JN38AT  582km 260°   599 599 |IC-746|<strong>France</strong>|885km
+32   2024-11-02 22:11 DR7C         144.113   CW  405 JO50JB  220km 272°   599 599 |IC-746|<strong>Germany</strong>|326km
+33   2024-11-02 22:16 IQ5NN        144.088   CW   26 JN63GN  725km 189°   599 599 |IC-746|<strong>Italy</strong>|923km
+34   2024-11-03 08:04 S54W         144.111   CW  273 JN86DT  399km 153°   599 599 |IC-746|<strong>Slovenia</strong>|455km
+35   2024-11-03 08:10 OK1DGR       144.122   CW   71 JO70AE   22km  33°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+36   2024-11-03 08:11 SQ2C         144.122   CW  469 JN48WM  335km 242°   599 599 |IC-746|<strong>Poland</strong>|515km
+37   2024-11-03 08:16 SP9KDA       144.14   CW  265 JO90PP  391km  78°   599 599 |IC-746|<strong>Poland</strong>|515km
+38   2024-11-03 08:33 DR7B         144.058   CW  130 JO61KB  136km 329°   599 599 |IC-746|<strong>Germany</strong>|326km
+39   2024-11-03 08:35 PA2RU        144.058   CW   65 JO32LT  571km 306°   599 599 |IC-746|<strong>Netherlands</strong>|708km
+40   2024-11-03 08:55 DL1RWO       144.092   CW   33 JO60RS   88km 341°   599 599 |IC-746|<strong>Germany</strong>|326km
+41   2024-11-03 08:59 OK1JFP       144.094   CW   25 JO60XS   84km   4°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+42   2024-11-03 09:00 DL9AJ        144.094   CW  113 JO52CJ  367km 317°   599 599 |IC-746|<strong>Germany</strong>|326km
+43   2024-11-03 09:02 PA4WM        144.094   CW   51 JO32KR  571km 304°   599 599 |IC-746|<strong>Netherlands</strong>|708km
+44   2024-11-03 09:03 DL8QS        144.094   CW  138 JO43KH  503km 319°   599 599 |IC-746|<strong>Germany</strong>|326km
+45   2024-11-03 09:04 OK1HYN       144.094   CW   14 JN79BX   18km 104°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+46   2024-11-03 09:05 PA7KY        144.094   CW   46 JO32LR  566km 305°   599 599 |IC-746|<strong>Netherlands</strong>|708km
+47   2024-11-03 09:08 DK5PD        144.094   CW  170 JN39VV  435km 271°   599 599 |IC-746|<strong>Germany</strong>|326km
+48   2024-11-03 09:09 DJ2IA        144.094   CW   97 JO61WN  171km   0°   599 599 |IC-746|<strong>Germany</strong>|326km
+49   2024-11-03 09:10 DL7ZN        144.094   CW   22 JO62OJ  268km 350°   599 599 |IC-746|<strong>Germany</strong>|326km
+50   2024-11-03 09:11 DL2LSM       144.094   CW  102 JO61GH  172km 327°   599 599 |IC-746|<strong>Germany</strong>|326km
+51   2024-11-03 09:13 DL3LAR       144.094   CW  175 JO52GH  345km 319°   599 599 |IC-746|<strong>Germany</strong>|326km
+52   2024-11-03 09:13 DM5GG        144.094   CW  134 JO61UE  130km 355°   599 599 |IC-746|<strong>Germany</strong>|326km
+53   2024-11-03 09:15 DM2I         144.094   CW   78 JO53UN  421km 340°   599 599 |IC-746|<strong>Germany</strong>|326km
+54   2024-11-03 09:16 DL2YDS       144.094   CW  160 JO42BC  464km 302°   599 599 |IC-746|<strong>Germany</strong>|326km
+55   2024-11-03 09:17 DL1JHR       144.094   CW   72 JO60LN   89km 313°   599 599 |IC-746|<strong>Germany</strong>|326km
+56   2024-11-03 09:18 DO1AYJ       144.094   CW   68 JO50TV  187km 302°   599 599 |IC-746|<strong>Germany</strong>|326km
+57   2024-11-03 09:29 OK1KN        144.094   CW   52 JO70EC   37km  75°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+58   2024-11-03 09:30 DL6MHW       144.094   CW  119 JO52TG  295km 329°   599 599 |IC-746|<strong>Germany</strong>|326km

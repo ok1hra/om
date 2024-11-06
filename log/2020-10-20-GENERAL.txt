@@ -444,3 +444,8 @@
 444  2024-10-04 18:00 N4IN          28.043    CW  549 NY   599 599 |IC-705|<strong>United States</strong>|7223km
 445  2024-10-04 18:24 N9GVP         28.031    CW559 TOM IL   599 599 |IC-705|<strong>United States</strong>|7223km
 446  2024-10-12 20:19 VK2BJ         14.009    CW     612   599 599 |IC-746|<strong>Australia</strong>|14029km
+447  2024-10-18 17:01 NM2A          28.027    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
+448  2024-10-18 17:28 AI0Y          28.017    CW      ND   599 599 |IC-705|<strong>United States</strong>|7223km
+449  2024-10-19 13:56 5R8IC         28.008    CW     599   599 599 |IC-705|<strong>Madagascar</strong>|8332km
+450  2024-10-19 14:13 KE1DX         28.027    CW     579   599 599 |IC-705|<strong>United States</strong>|7223km
+451  2024-10-19 19:39 G2SZ          10.105    CW     599   599 599 |IC-705|<strong>England</strong>|1029km
