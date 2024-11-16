@@ -449,3 +449,5 @@
 449  2024-10-19 13:56 5R8IC         28.008    CW     599   599 599 |IC-705|<strong>Madagascar</strong>|8332km
 450  2024-10-19 14:13 KE1DX         28.027    CW     579   599 599 |IC-705|<strong>United States</strong>|7223km
 451  2024-10-19 19:39 G2SZ          10.105    CW     599   599 599 |IC-705|<strong>England</strong>|1029km
+452  2024-11-08 18:37 AF8E          21.042    CW  339 OH   599 599 |IC-705|<strong>United States</strong>|7223km
+453  2024-11-15 19:56 EA8/OK6RA     14.005    CW     599   599 599 |IC-705|<strong>Canary Is.</strong>|3473km

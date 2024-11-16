@@ -1,0 +1,403 @@
+1    2024-11-09 15:05 TA2DA         28.029    CW     114   599 599 |IC-746|<strong>Turkey</strong>|1834km
+2    2024-11-09 15:06 K2RE          28.029    CW       8   599 599 |IC-746|<strong>United States</strong>|7223km
+3    2024-11-09 15:06 N5TJ          28.029    CW       8   599 599 |IC-746|<strong>United States</strong>|7223km
+4    2024-11-09 15:07 OL3Z          28.029    CW     APD   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+5    2024-11-09 15:08 4X1VF         28.029    CW       5   599 599 |IC-746|<strong>Israel</strong>|2663km
+6    2024-11-09 15:11 HA6PO         28.029    CW     150   599 599 |IC-746|<strong>Hungary</strong>|449km
+7    2024-11-09 15:11 OK7O          28.029    CW     DPS   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+8    2024-11-09 15:12 I2IFT         28.029    CW     159   599 599 |IC-746|<strong>Italy</strong>|923km
+9    2024-11-09 15:12 OK8EAO        28.029    CW     CCK   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+10   2024-11-09 15:13 K5WA          28.029    CW       2   599 599 |IC-746|<strong>United States</strong>|7223km
+11   2024-11-09 15:13 4X6FR         28.029    CW      33   599 599 |IC-746|<strong>Israel</strong>|2663km
+12   2024-11-09 15:14 SN4TT         28.029    CW      19   599 599 |IC-746|<strong>Poland</strong>|515km
+13   2024-11-09 15:15 N4IU          28.029    CW       1   599 599 |IC-746|<strong>United States</strong>|7223km
+14   2024-11-09 15:18 PT9DX         28.029    CW      10   599 599 |IC-746|<strong>Brazil</strong>|9901km
+15   2024-11-09 15:19 YL7X          28.029    CW     235   599 599 |IC-746|<strong>Latvia</strong>|997km
+16   2024-11-09 15:21 W6LFB         28.029    CW       2   599 599 |IC-746|<strong>United States</strong>|7223km
+17   2024-11-09 15:23 W1UE          28.029    CW     158   599 599 |IC-746|<strong>United States</strong>|7223km
+18   2024-11-09 15:24 K1LZ          28.029    CW      18   599 599 |IC-746|<strong>United States</strong>|7223km
+19   2024-11-09 15:25 PY2XL         28.029    CW      32   599 599 |IC-746|<strong>Brazil</strong>|9901km
+20   2024-11-09 15:26 WN4AFP        28.029    CW      17   599 599 |IC-746|<strong>United States</strong>|7223km
+21   2024-11-09 15:29 AA3B          28.029    CW      61   599 599 |IC-746|<strong>United States</strong>|7223km
+22   2024-11-09 15:34 A3B           21.013    CW      68   599 599 |IC-746|<strong>Tonga</strong>|16681km
+23   2024-11-09 15:35 UY7LM         21.013    CW     101   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+24   2024-11-09 15:35 W1UE          21.013    CW     170   599 599 |IC-746|<strong>United States</strong>|7223km
+25   2024-11-09 15:36 F6AUS         21.013    CW      23   599 599 |IC-746|<strong>France</strong>|885km
+26   2024-11-09 15:36 OG6B          21.013    CW      24   599 599 |IC-746|<strong>Finland</strong>|1305km
+27   2024-11-09 15:37 YL2BJ         21.013    CW     178   599 599 |IC-746|<strong>Latvia</strong>|997km
+28   2024-11-09 15:37 F6IRA         21.013    CW     137   599 599 |IC-746|<strong>France</strong>|885km
+29   2024-11-09 15:37 K1LZ          21.013    CW      31   599 599 |IC-746|<strong>United States</strong>|7223km
+30   2024-11-09 15:38 4X6FR         21.013    CW      27   599 599 |IC-746|<strong>Israel</strong>|2663km
+31   2024-11-09 15:38 K2VV          21.013    CW       1   599 599 |IC-746|<strong>United States</strong>|7223km
+32   2024-11-09 15:38 LY2CX         21.013    CW      13   599 599 |IC-746|<strong>Lithuania</strong>|897km
+33   2024-11-09 15:39 KU2C          21.013    CW       6   599 599 |IC-746|<strong>United States</strong>|7223km
+34   2024-11-09 15:40 W3/OL7X       21.013    CW       9   599 599 |IC-746|<strong>United States</strong>|7223km
+35   2024-11-09 15:42 UR7LY         21.013    CW     123   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+36   2024-11-09 15:43 VA3TNM        21.013    CW      29   599 599 |IC-746|<strong>Canada</strong>|6615km
+37   2024-11-09 15:43 K2LE          21.013    CW      87   599 599 |IC-746|<strong>United States</strong>|7223km
+38   2024-11-09 15:44 OM8CW         21.013    CW     LEV   599 599 |IC-746|<strong>Slovakia</strong>|296km
+39   2024-11-09 15:45 DL5JQ         21.013    CW     137   599 599 |IC-746|<strong>Germany</strong>|326km
+40   2024-11-09 15:46 N1RR          21.013    CW      46   599 599 |IC-746|<strong>United States</strong>|7223km
+41   2024-11-09 15:47 EA1IQM        21.013    CW       9   599 599 |IC-746|<strong>Spain</strong>|1772km
+42   2024-11-09 15:47 K1RO          21.013    CW      45   599 599 |IC-746|<strong>United States</strong>|7223km
+43   2024-11-09 15:48 EA4XT         21.013    CW       1   599 599 |IC-746|<strong>Spain</strong>|1772km
+44   2024-11-09 15:48 LY2A          21.013    CW     114   599 599 |IC-746|<strong>Lithuania</strong>|897km
+45   2024-11-09 15:48 W2CS          21.013    CW      68   599 599 |IC-746|<strong>United States</strong>|7223km
+46   2024-11-09 15:49 F5JU          21.013    CW      78   599 599 |IC-746|<strong>France</strong>|885km
+47   2024-11-09 15:49 SN9DT         21.013    CW      59   599 599 |IC-746|<strong>Poland</strong>|515km
+48   2024-11-09 15:50 OL3Z          21.013    CW     APD   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+49   2024-11-09 15:51 EA6ZS         21.013    CW       6   599 599 |IC-746|<strong>Balearic Is.</strong>|1498km
+50   2024-11-09 15:51 OG5O          21.013    CW       2   599 599 |IC-746|<strong>Finland</strong>|1305km
+51   2024-11-09 15:52 OG6B          21.013    CW      27   599 599 |IC-746|<strong>Finland</strong>|1305km
+52   2024-11-09 15:53 SV8SXV        21.013    CW      80   599 599 |IC-746|<strong>Greece</strong>|1534km
+53   2024-11-09 15:54 DL2MDU        21.013    CW      65   599 599 |IC-746|<strong>Germany</strong>|326km
+54   2024-11-09 15:54 OK1KKI        21.013    CW     CJH   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+55   2024-11-09 15:56 K2WK          21.013    CW       1   599 599 |IC-746|<strong>United States</strong>|7223km
+56   2024-11-09 15:56 K1GQ          21.013    CW      43   599 599 |IC-746|<strong>United States</strong>|7223km
+57   2024-11-09 15:56 W5TM          21.013    CW      19   599 599 |IC-746|<strong>United States</strong>|7223km
+58   2024-11-09 15:57 W6LFB         21.013    CW      17   599 599 |IC-746|<strong>United States</strong>|7223km
+59   2024-11-09 15:57 OM3KFY        21.013    CW     BAB   599 599 |IC-746|<strong>Slovakia</strong>|296km
+60   2024-11-09 15:58 K3UL          21.013    CW     102   599 599 |IC-746|<strong>United States</strong>|7223km
+61   2024-11-09 15:59 K7JQ          21.013    CW      11   599 599 |IC-746|<strong>United States</strong>|7223km
+62   2024-11-09 16:00 VE9OA         21.013    CW       3   599 599 |IC-746|<strong>Canada</strong>|6615km
+63   2024-11-09 16:01 EA4HKF        21.013    CW      14   599 599 |IC-746|<strong>Spain</strong>|1772km
+64   2024-11-09 16:02 M4T           21.013    CW      24   599 599 |IC-746|<strong>England</strong>|1029km
+65   2024-11-09 16:03 DL4WA         21.013    CW     165   599 599 |IC-746|<strong>Germany</strong>|326km
+66   2024-11-09 16:03 N8II          21.013    CW       6   599 599 |IC-746|<strong>United States</strong>|7223km
+67   2024-11-09 16:04 W1FJ          21.013    CW      48   599 599 |IC-746|<strong>United States</strong>|7223km
+68   2024-11-09 16:05 OE3KAB        21.013    CW       6   599 599 |IC-746|<strong>Austria</strong>|252km
+69   2024-11-09 16:10 UR4CU         21.013    CW      92   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+70   2024-11-09 16:10 EA3AVV        21.013    CW      76   599 599 |IC-746|<strong>Spain</strong>|1772km
+71   2024-11-09 16:17 F6IRA         14.014    CW     166   599 599 |IC-746|<strong>France</strong>|885km
+72   2024-11-09 16:17 LZ5Y          14.014    CW     214   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+73   2024-11-09 16:17 SM6F          14.014    CW     118   599 599 |IC-746|<strong>Sweden</strong>|1049km
+74   2024-11-09 16:18 EA3NO         14.014    CW      13   599 599 |IC-746|<strong>Spain</strong>|1772km
+75   2024-11-09 16:18 EA1IQM        14.014    CW      21   599 599 |IC-746|<strong>Spain</strong>|1772km
+76   2024-11-09 16:19 UZ1U          14.014    CW       4   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+77   2024-11-09 16:19 YT5RA7        14.014    CW     135   599 599 |IC-746|<strong>Serbia</strong>|737km
+78   2024-11-09 16:19 G3PPR         14.014    CW       6   599 599 |IC-746|<strong>England</strong>|1029km
+79   2024-11-09 16:20 LZ2MP         14.014    CW     139   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+80   2024-11-09 16:20 YT7X          14.014    CW      22   599 599 |IC-746|<strong>Serbia</strong>|737km
+81   2024-11-09 16:21 UR4LIN        14.014    CW     123   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+82   2024-11-09 16:21 DL5CC         14.014    CW      49   599 599 |IC-746|<strong>Germany</strong>|326km
+83   2024-11-09 16:21 PG2V          14.014    CW     135   599 599 |IC-746|<strong>Netherlands</strong>|708km
+84   2024-11-09 16:22 SN5J          14.014    CW     125   599 599 |IC-746|<strong>Poland</strong>|515km
+85   2024-11-09 16:22 F5TVL         14.014    CW       3   599 599 |IC-746|<strong>France</strong>|885km
+86   2024-11-09 16:23 IU8RQW        14.014    CW      88   599 599 |IC-746|<strong>Italy</strong>|923km
+87   2024-11-09 16:23 M4N           14.014    CW     161   599 599 |IC-746|<strong>England</strong>|1029km
+88   2024-11-09 16:24 AA3B          14.014    CW     116   599 599 |IC-746|<strong>United States</strong>|7223km
+89   2024-11-09 16:24 YO8COR        14.014    CW      53   599 599 |IC-746|<strong>Romania</strong>|1085km
+90   2024-11-09 16:25 HG1G          14.014    CW     451   599 599 |IC-746|<strong>Hungary</strong>|449km
+91   2024-11-09 16:25 PA3EMN        14.014    CW      43   599 599 |IC-746|<strong>Netherlands</strong>|708km
+92   2024-11-09 16:25 UX5VK         14.014    CW      54   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+93   2024-11-09 16:26 YU1YV         14.014    CW     190   599 599 |IC-746|<strong>Serbia</strong>|737km
+94   2024-11-09 16:26 E70Y          14.014    CW       3   599 599 |IC-746|<strong>Bosnia-Herzegovina</strong>|791km
+95   2024-11-09 16:27 F6EEQ         14.014    CW       8   599 599 |IC-746|<strong>France</strong>|885km
+96   2024-11-09 16:27 HA6NL         14.014    CW     235   599 599 |IC-746|<strong>Hungary</strong>|449km
+97   2024-11-09 16:27 UW1M          14.014    CW     275   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+98   2024-11-09 16:28 PA3DZM        14.014    CW      16   599 599 |IC-746|<strong>Netherlands</strong>|708km
+99   2024-11-09 16:28 I2IFT         14.014    CW     194   599 599 |IC-746|<strong>Italy</strong>|923km
+100  2024-11-09 16:28 LZ7O          14.014    CW       1   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+101  2024-11-09 16:29 W1UE          14.014    CW     209   599 599 |IC-746|<strong>United States</strong>|7223km
+102  2024-11-09 16:29 YL2AG         14.014    CW      53   599 599 |IC-746|<strong>Latvia</strong>|997km
+103  2024-11-09 16:30 9A1CFR        14.014    CW      77   599 599 |IC-746|<strong>Croatia</strong>|519km
+104  2024-11-09 16:34 YL7X          14.014    CW     332   599 599 |IC-746|<strong>Latvia</strong>|997km
+105  2024-11-09 16:35 OZ1CTZ        14.014    CW      47   599 599 |IC-746|<strong>Denmark</strong>|634km
+106  2024-11-09 16:35 LZ4A          14.014    CW      55   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+107  2024-11-09 16:35 N8II          14.014    CW      59   599 599 |IC-746|<strong>United States</strong>|7223km
+108  2024-11-09 16:35 ON4EM         14.014    CW      64   599 599 |IC-746|<strong>Belgium</strong>|712km
+109  2024-11-09 16:36 OK1BR         14.014    CW     BRA   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+110  2024-11-09 16:36 LZ2PS         14.014    CW      69   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+111  2024-11-09 16:37 SN1T          14.014    CW     165   599 599 |IC-746|<strong>Poland</strong>|515km
+112  2024-11-09 16:38 M4T           14.014    CW     337   599 599 |IC-746|<strong>England</strong>|1029km
+113  2024-11-09 16:38 OH3KAV        14.014    CW      85   599 599 |IC-746|<strong>Finland</strong>|1305km
+114  2024-11-09 16:40 S56C          14.014    CW      11   599 599 |IC-746|<strong>Slovenia</strong>|455km
+115  2024-11-09 16:42 HG5D          14.013    CW      57   599 599 |IC-746|<strong>Hungary</strong>|449km
+116  2024-11-09 16:43 OK7O          14.013    CW     DPS   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+117  2024-11-09 16:43 K2LE          14.013    CW     123   599 599 |IC-746|<strong>United States</strong>|7223km
+118  2024-11-09 16:44 KR2AA         14.013    CW     101   599 599 |IC-746|<strong>United States</strong>|7223km
+119  2024-11-09 16:44 IT9WDC        14.013    CW     228   599 599 |IC-746|<strong>Sicily</strong>|1401km
+120  2024-11-09 16:45 IK0P          14.013    CW       9   599 599 |IC-746|<strong>Italy</strong>|923km
+121  2024-11-09 16:45 WK2NO         14.013    CW     587   599 599 |IC-746|<strong>United States</strong>|7223km
+122  2024-11-09 16:46 PA1WX         14.013    CW      25   599 599 |IC-746|<strong>Netherlands</strong>|708km
+123  2024-11-09 16:46 PC1PM         14.013    CW     157   599 599 |IC-746|<strong>Netherlands</strong>|708km
+124  2024-11-09 16:47 OM3CGN        14.013    CW     KEO   599 599 |IC-746|<strong>Slovakia</strong>|296km
+125  2024-11-09 16:47 OU2I          14.013    CW     149   599 599 |IC-746|<strong>Denmark</strong>|634km
+126  2024-11-09 16:47 G4HSO         14.013    CW      34   599 599 |IC-746|<strong>England</strong>|1029km
+127  2024-11-09 16:48 W6KH          14.013    CW      34   599 599 |IC-746|<strong>United States</strong>|7223km
+128  2024-11-09 16:48 GA0RDT        14.013    CW      83   599 599 |IC-746|<strong>England</strong>|1029km
+129  2024-11-09 16:49 IK8UND        14.013    CW     115   599 599 |IC-746|<strong>Italy</strong>|923km
+130  2024-11-09 16:49 HA3NU         14.013    CW       2   599 599 |IC-746|<strong>Hungary</strong>|449km
+131  2024-11-09 16:49 YU7FY         14.013    CW      81   599 599 |IC-746|<strong>Serbia</strong>|737km
+132  2024-11-09 16:51 UY7LM         14.013    CW     139   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+133  2024-11-09 16:52 OE3KAB        14.013    CW      65   599 599 |IC-746|<strong>Austria</strong>|252km
+134  2024-11-09 16:53 EA6ZS         14.013    CW       2   599 599 |IC-746|<strong>Balearic Is.</strong>|1498km
+135  2024-11-09 16:54 W7VJ          14.013    CW       4   599 599 |IC-746|<strong>United States</strong>|7223km
+136  2024-11-09 16:54 G3SQU         14.013    CW      12   599 599 |IC-746|<strong>England</strong>|1029km
+137  2024-11-09 16:56 IK4RVY        14.013    CW     119   599 599 |IC-746|<strong>Italy</strong>|923km
+138  2024-11-09 16:57 N2RC          14.013    CW      20   599 599 |IC-746|<strong>United States</strong>|7223km
+139  2024-11-09 16:58 K3PA          14.013    CW      36   599 599 |IC-746|<strong>United States</strong>|7223km
+140  2024-11-09 16:58 SV0SYH        14.013    CW       8   599 599 |IC-746|<strong>Greece</strong>|1534km
+141  2024-11-09 16:59 F5LLY         14.013    CW       2   599 599 |IC-746|<strong>France</strong>|885km
+142  2024-11-09 17:00 LY7R          14.013    CW     309   599 599 |IC-746|<strong>Lithuania</strong>|897km
+143  2024-11-09 17:01 OM8CW         14.013    CW     LEV   599 599 |IC-746|<strong>Slovakia</strong>|296km
+144  2024-11-09 17:02 W2CS          14.013    CW      90   599 599 |IC-746|<strong>United States</strong>|7223km
+145  2024-11-09 17:03 LY7T          14.013    CW       1   599 599 |IC-746|<strong>Lithuania</strong>|897km
+146  2024-11-09 17:05 G4ZWX         14.013    CW      67   599 599 |IC-746|<strong>England</strong>|1029km
+147  2024-11-09 17:07 EM4F          14.013    CW       1   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+148  2024-11-09 17:08 DL5YL         14.013    CW      70   599 599 |IC-746|<strong>Germany</strong>|326km
+149  2024-11-09 17:09 4X6FR         14.013    CW      53   599 599 |IC-746|<strong>Israel</strong>|2663km
+150  2024-11-09 17:09 OM3KFY        14.013    CW     BAB   599 599 |IC-746|<strong>Slovakia</strong>|296km
+151  2024-11-09 17:10 YU1ML         14.013    CW      45   599 599 |IC-746|<strong>Serbia</strong>|737km
+152  2024-11-09 17:10 IT9IVU        14.013    CW      95   599 599 |IC-746|<strong>Sicily</strong>|1401km
+153  2024-11-09 17:13 F5IND         14.013    CW       2   599 599 |IC-746|<strong>France</strong>|885km
+154  2024-11-09 17:14 KE0UI         14.013    CW      19   599 599 |IC-746|<strong>United States</strong>|7223km
+155  2024-11-09 17:15 F8BBL         14.013    CW       2   599 599 |IC-746|<strong>France</strong>|885km
+156  2024-11-09 17:15 UT3EV         14.013    CW     157   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+157  2024-11-09 17:16 UT8LU         14.013    CW      57   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+158  2024-11-09 17:16 MM0GGG        14.013    CW       5   599 599 |IC-746|<strong>Scotland</strong>|1397km
+159  2024-11-09 17:17 4X1ST         14.013    CW      84   599 599 |IC-746|<strong>Israel</strong>|2663km
+160  2024-11-09 17:17 F5IN          14.013    CW     239   599 599 |IC-746|<strong>France</strong>|885km
+161  2024-11-09 17:18 F8EFU         14.013    CW      26   599 599 |IC-746|<strong>France</strong>|885km
+162  2024-11-09 17:19 AK1MD         14.013    CW       3   599 599 |IC-746|<strong>United States</strong>|7223km
+163  2024-11-09 17:20 N0AV          14.013    CW       2   599 599 |IC-746|<strong>United States</strong>|7223km
+164  2024-11-09 17:21 LZ1ND         14.013    CW      13   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+165  2024-11-09 17:24 UV1IX         14.013    CW       4   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+166  2024-11-09 17:25 9H1PI         14.013    CW      97   599 599 |IC-746|<strong>Malta</strong>|1567km
+167  2024-11-09 17:26 W3RJ          14.013    CW      87   599 599 |IC-746|<strong>United States</strong>|7223km
+168  2024-11-09 17:33 OK1KKI         7.008    CW     VJH   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+169  2024-11-09 17:34 HA6NL          7.008    CW     296   599 599 |IC-746|<strong>Hungary</strong>|449km
+170  2024-11-09 17:35 LZ1ND          7.008    CW      23   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+171  2024-11-09 17:35 SP4TKR         7.008    CW     157   599 599 |IC-746|<strong>Poland</strong>|515km
+172  2024-11-09 17:35 DL5CC          7.008    CW       2   599 599 |IC-746|<strong>Germany</strong>|326km
+173  2024-11-09 17:36 SN5N           7.008    CW     232   599 599 |IC-746|<strong>Poland</strong>|515km
+174  2024-11-09 17:36 YL2PJ          7.008    CW     201   599 599 |IC-746|<strong>Latvia</strong>|997km
+175  2024-11-09 17:36 SP3VT          7.008    CW     147   599 599 |IC-746|<strong>Poland</strong>|515km
+176  2024-11-09 17:37 SN5J           7.008    CW     124   599 599 |IC-746|<strong>Poland</strong>|515km
+177  2024-11-09 17:37 YL7X           7.008    CW     391   599 599 |IC-746|<strong>Latvia</strong>|997km
+178  2024-11-09 17:37 DL5YYM         7.008    CW     357   599 599 |IC-746|<strong>Germany</strong>|326km
+179  2024-11-09 17:38 HB9CMW         7.008    CW      21   599 599 |IC-746|<strong>Switzerland</strong>|613km
+180  2024-11-09 17:39 OK1CRM         7.008    CW     DDO   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+181  2024-11-09 17:39 UT5NC          7.008    CW     193   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+182  2024-11-09 17:40 YU3TA          7.008    CW      25   599 599 |IC-746|<strong>Serbia</strong>|737km
+183  2024-11-09 17:40 DK8ZB          7.008    CW     222   599 599 |IC-746|<strong>Germany</strong>|326km
+184  2024-11-09 17:40 UR7MZ          7.008    CW     243   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+185  2024-11-09 17:41 OK2EA          7.008    CW     HVH   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+186  2024-11-09 17:41 EA2AZ          7.008    CW     113   599 599 |IC-746|<strong>Spain</strong>|1772km
+187  2024-11-09 17:42 IK1SPR         7.008    CW       3   599 599 |IC-746|<strong>Italy</strong>|923km
+188  2024-11-09 17:42 OK1VVT         7.008    CW     ETE   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+189  2024-11-09 17:42 UW1M           7.008    CW     351   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+190  2024-11-09 17:43 HG1G           7.008    CW     577   599 599 |IC-746|<strong>Hungary</strong>|449km
+191  2024-11-09 17:43 LZ7R           7.008    CW     116   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+192  2024-11-09 17:43 OK2BFN         7.008    CW     GLZ   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+193  2024-11-09 17:44 F6AUS          7.008    CW      84   599 599 |IC-746|<strong>France</strong>|885km
+194  2024-11-09 17:44 DJ3CQ          7.008    CW     122   599 599 |IC-746|<strong>Germany</strong>|326km
+195  2024-11-09 17:44 OL5Y           7.008    CW     BKO   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+196  2024-11-09 17:45 LY4T           7.008    CW      32   599 599 |IC-746|<strong>Lithuania</strong>|897km
+197  2024-11-09 17:45 LZ5DI          7.008    CW     338   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+198  2024-11-09 17:46 SP2GMA         7.008    CW      12   599 599 |IC-746|<strong>Poland</strong>|515km
+199  2024-11-09 17:46 OZ2TF          7.008    CW      57   599 599 |IC-746|<strong>Denmark</strong>|634km
+200  2024-11-09 17:47 PC1PM          7.008    CW     177   599 599 |IC-746|<strong>Netherlands</strong>|708km
+201  2024-11-09 17:47 OE6JOZ         7.008    CW     124   599 599 |IC-746|<strong>Austria</strong>|252km
+202  2024-11-09 17:47 LY2A           7.008    CW     174   599 599 |IC-746|<strong>Lithuania</strong>|897km
+203  2024-11-09 17:48 OM3ZU          7.008    CW     PRE   599 599 |IC-746|<strong>Slovakia</strong>|296km
+204  2024-11-09 17:48 YU1YV          7.008    CW     128   599 599 |IC-746|<strong>Serbia</strong>|737km
+205  2024-11-09 17:49 9A1AA          7.008    CW     183   599 599 |IC-746|<strong>Croatia</strong>|519km
+206  2024-11-09 17:49 LZ4A           7.008    CW      90   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+207  2024-11-09 17:49 IK2QIK         7.008    CW      82   599 599 |IC-746|<strong>Italy</strong>|923km
+208  2024-11-09 17:50 DL5CC          7.008    CW      75   599 599 |IC-746|<strong>Germany</strong>|326km
+209  2024-11-09 17:50 DK2FG          7.008    CW     152   599 599 |IC-746|<strong>Germany</strong>|326km
+210  2024-11-09 17:51 OK1DUG         7.008    CW     ETE   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+211  2024-11-09 17:51 S56C           7.008    CW      78   599 599 |IC-746|<strong>Slovenia</strong>|455km
+212  2024-11-09 17:53 OK2MPB         7.008    CW     GUH   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+213  2024-11-09 17:53 YU7EE          7.008    CW       2   599 599 |IC-746|<strong>Serbia</strong>|737km
+214  2024-11-09 17:53 OE3MWS         7.008    CW     120   599 599 |IC-746|<strong>Austria</strong>|252km
+215  2024-11-09 17:54 OL3Z           7.008    CW     APD   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+216  2024-11-09 17:54 OL7D           7.008    CW     BNY   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+217  2024-11-09 17:55 OK1LV          7.008    CW     BNM   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+218  2024-11-09 17:55 F5IN           7.008    CW     272   599 599 |IC-746|<strong>France</strong>|885km
+219  2024-11-09 17:55 LY7M           7.008    CW     168   599 599 |IC-746|<strong>Lithuania</strong>|897km
+220  2024-11-09 17:56 DK3WN          7.008    CW     167   599 599 |IC-746|<strong>Germany</strong>|326km
+221  2024-11-09 17:56 DL4WA          7.008    CW     220   599 599 |IC-746|<strong>Germany</strong>|326km
+222  2024-11-09 17:58 F6IRA          7.008    CW     264   599 599 |IC-746|<strong>France</strong>|885km
+223  2024-11-09 17:58 OZ1CTZ         7.008    CW      85   599 599 |IC-746|<strong>Denmark</strong>|634km
+224  2024-11-09 17:59 SN4D           7.008    CW      53   599 599 |IC-746|<strong>Poland</strong>|515km
+225  2024-11-09 17:59 E7/IZ8EYP      7.008    CW      73   599 599 |IC-746|<strong>Bosnia-Herzegovina</strong>|791km
+226  2024-11-09 18:00 SV0SYH         7.008    CW      28   599 599 |IC-746|<strong>Greece</strong>|1534km
+227  2024-11-09 18:01 YU5T           7.008    CW     118   599 599 |IC-746|<strong>Serbia</strong>|737km
+228  2024-11-09 18:01 ON9TT          7.008    CW     184   599 599 |IC-746|<strong>Belgium</strong>|712km
+229  2024-11-09 18:01 OU2I           7.008    CW     202   599 599 |IC-746|<strong>Denmark</strong>|634km
+230  2024-11-09 18:02 DL7VFM         7.008    CW      56   599 599 |IC-746|<strong>Germany</strong>|326km
+231  2024-11-09 18:02 IT9WDC         7.008    CW     268   599 599 |IC-746|<strong>Sicily</strong>|1401km
+232  2024-11-09 18:03 DA2K           7.008    CW     155   599 599 |IC-746|<strong>Germany</strong>|326km
+233  2024-11-09 18:03 IK7MIY         7.008    CW     117   599 599 |IC-746|<strong>Italy</strong>|923km
+234  2024-11-09 18:04 DF5M           7.008    CW      60   599 599 |IC-746|<strong>Germany</strong>|326km
+235  2024-11-09 18:04 IK2QEI         7.008    CW      28   599 599 |IC-746|<strong>Italy</strong>|923km
+236  2024-11-09 18:05 OK7O           7.008    CW     DPS   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+237  2024-11-09 18:05 UR4QWW         7.008    CW     116   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+238  2024-11-09 18:05 SF7XR          7.008    CW      46   599 599 |IC-746|<strong>Sweden</strong>|1049km
+239  2024-11-09 18:06 SP9DLY         7.008    CW      58   599 599 |IC-746|<strong>Poland</strong>|515km
+240  2024-11-09 18:06 LZ2JU          7.008    CW      19   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+241  2024-11-09 20:29 LZ7DX          7.009    CW     305   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+242  2024-11-09 20:29 M4N            7.009    CW     240   599 599 |IC-746|<strong>England</strong>|1029km
+243  2024-11-09 20:31 UX7IW          7.009    CW      54   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+244  2024-11-09 20:31 N1UR           7.009    CW      14   599 599 |IC-746|<strong>United States</strong>|7223km
+245  2024-11-09 20:33 OM8CW          7.009    CW     LEV   599 599 |IC-746|<strong>Slovakia</strong>|296km
+246  2024-11-09 20:33 PA5FN          7.009    CW      76   599 599 |IC-746|<strong>Netherlands</strong>|708km
+247  2024-11-09 20:33 OM5CM          7.009    CW     DFT   599 599 |IC-746|<strong>Slovakia</strong>|296km
+248  2024-11-09 20:34 LY7R           7.009    CW     494   599 599 |IC-746|<strong>Lithuania</strong>|897km
+249  2024-11-09 20:38 HG1G           3.525    CW     862   599 599 |IC-746|<strong>Hungary</strong>|449km
+250  2024-11-09 20:38 LZ5DI          3.525    CW     544   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+251  2024-11-09 20:38 LY2MM          3.525    CW     154   599 599 |IC-746|<strong>Lithuania</strong>|897km
+252  2024-11-09 20:39 YL7X           3.525    CW     622   599 599 |IC-746|<strong>Latvia</strong>|997km
+253  2024-11-09 20:39 YU0U           3.525    CW     155   599 599 |IC-746|<strong>Serbia</strong>|737km
+254  2024-11-09 20:40 YQ8E           3.525    CW     352   599 599 |IC-746|<strong>Romania</strong>|1085km
+255  2024-11-09 20:41 SP3CW          3.525    CW     156   599 599 |IC-746|<strong>Poland</strong>|515km
+256  2024-11-09 20:41 OU2I           3.525    CW     326   599 599 |IC-746|<strong>Denmark</strong>|634km
+257  2024-11-09 20:42 UR7MZ          3.525    CW     359   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+258  2024-11-09 20:42 LY2CX          3.525    CW     163   599 599 |IC-746|<strong>Lithuania</strong>|897km
+259  2024-11-09 20:43 OL7P           3.525    CW     NNO   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+260  2024-11-09 20:43 SN7J           3.525    CW     224   599 599 |IC-746|<strong>Poland</strong>|515km
+261  2024-11-09 20:44 I2IFT          3.525    CW     379   599 599 |IC-746|<strong>Italy</strong>|923km
+262  2024-11-09 20:44 HA4FB          3.525    CW     141   599 599 |IC-746|<strong>Hungary</strong>|449km
+263  2024-11-09 20:45 OM3CDN         3.525    CW     BAC   599 599 |IC-746|<strong>Slovakia</strong>|296km
+264  2024-11-09 20:45 DH2URF         3.525    CW      99   599 599 |IC-746|<strong>Germany</strong>|326km
+265  2024-11-09 20:46 OE3KAB         3.525    CW     216   599 599 |IC-746|<strong>Austria</strong>|252km
+266  2024-11-09 20:46 SN8T           3.525    CW     182   599 599 |IC-746|<strong>Poland</strong>|515km
+267  2024-11-09 20:47 SP9DLY         3.525    CW     117   599 599 |IC-746|<strong>Poland</strong>|515km
+268  2024-11-09 20:47 HA2KMR         3.525    CW      89   599 599 |IC-746|<strong>Hungary</strong>|449km
+269  2024-11-09 20:47 OM8CW          3.525    CW     LEV   599 599 |IC-746|<strong>Slovakia</strong>|296km
+270  2024-11-09 20:48 SM2M           3.525    CW     148   599 599 |IC-746|<strong>Sweden</strong>|1049km
+271  2024-11-09 20:48 OL3Z           3.525    CW     APD   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+272  2024-11-09 20:48 S57X           3.525    CW     194   599 599 |IC-746|<strong>Slovenia</strong>|455km
+273  2024-11-09 20:49 OL5Y           3.525    CW     BKO   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+274  2024-11-09 20:49 SN1F           3.525    CW      11   599 599 |IC-746|<strong>Poland</strong>|515km
+275  2024-11-09 20:49 SN4D           3.525    CW      67   599 599 |IC-746|<strong>Poland</strong>|515km
+276  2024-11-09 20:50 NL5CC          3.525    CW     162   599 599 |IC-746|<strong>Alaska</strong>|7561km
+277  2024-11-09 20:50 S51W           3.525    CW     150   599 599 |IC-746|<strong>Slovenia</strong>|455km
+278  2024-11-09 20:50 OK1OA          3.525    CW     API   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+279  2024-11-09 20:51 OK1UKY         3.525    CW     FTR   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+280  2024-11-09 20:51 OL6P           3.525    CW     GUY   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+281  2024-11-09 20:52 PC1PM          3.525    CW     220   599 599 |IC-746|<strong>Netherlands</strong>|708km
+282  2024-11-09 20:52 OK2NAJ         3.525    CW     HOL   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+283  2024-11-09 20:53 OK7O           3.525    CW     DPS   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+284  2024-11-09 20:55 SM0D           3.525    CW       4   599 599 |IC-746|<strong>Sweden</strong>|1049km
+285  2024-11-09 20:55 OK2MBP         3.525    CW     HNJ   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+286  2024-11-09 20:57 DL4WA          3.525    CW     348   599 599 |IC-746|<strong>Germany</strong>|326km
+287  2024-11-09 20:58 SC7DX          3.525    CW     127   599 599 |IC-746|<strong>Sweden</strong>|1049km
+288  2024-11-09 20:59 F6IRA          3.525    CW     423   599 599 |IC-746|<strong>France</strong>|885km
+289  2024-11-09 20:59 OM7LM          3.525    CW     ZVO   599 599 |IC-746|<strong>Slovakia</strong>|296km
+290  2024-11-09 21:00 S56C           3.525    CW     122   599 599 |IC-746|<strong>Slovenia</strong>|455km
+291  2024-11-09 21:00 OK2NO          3.525    CW     HRS   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+292  2024-11-09 21:01 DL3HWM         3.525    CW       8   599 599 |IC-746|<strong>Germany</strong>|326km
+293  2024-11-09 21:02 OK1AY          3.525    CW     DPJ   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+294  2024-11-09 21:03 SD6M           3.525    CW      88   599 599 |IC-746|<strong>Sweden</strong>|1049km
+295  2024-11-09 21:04 G4ERW          3.525    CW      98   599 599 |IC-746|<strong>England</strong>|1029km
+296  2024-11-09 21:04 OK2BLD         3.525    CW     HOS   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+297  2024-11-09 21:05 PA0M           3.525    CW      45   599 599 |IC-746|<strong>Netherlands</strong>|708km
+298  2024-11-09 21:05 SO5N           3.525    CW       6   599 599 |IC-746|<strong>Poland</strong>|515km
+299  2024-11-09 21:06 DL5YYM         3.525    CW     548   599 599 |IC-746|<strong>Germany</strong>|326km
+300  2024-11-09 21:07 OK1KKI         3.525    CW     CJH   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+301  2024-11-09 21:07 OL2J           3.525    CW     GJI   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+302  2024-11-09 21:08 HA6NL          3.525    CW     435   599 599 |IC-746|<strong>Hungary</strong>|449km
+303  2024-11-09 21:08 YU1QU          3.525    CW      24   599 599 |IC-746|<strong>Serbia</strong>|737km
+304  2024-11-09 21:09 HA6PJ          3.525    CW     391   599 599 |IC-746|<strong>Hungary</strong>|449km
+305  2024-11-09 21:10 OK1FKD         3.525    CW     EBL   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+306  2024-11-09 21:10 OK7T           3.525    CW     ECL   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+307  2024-11-09 21:11 OM4AQP         3.525    CW     NMV   599 599 |IC-746|<strong>Slovakia</strong>|296km
+308  2024-11-09 21:11 IT9WDC         3.525    CW     373   599 599 |IC-746|<strong>Sicily</strong>|1401km
+309  2024-11-09 21:13 OK2EA          3.525    CW     HVS   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+310  2024-11-09 21:13 LY7R           3.525    CW     534   599 599 |IC-746|<strong>Lithuania</strong>|897km
+311  2024-11-09 21:14 SN5J           3.525    CW     258   599 599 |IC-746|<strong>Poland</strong>|515km
+312  2024-11-09 21:16 DL6KWN         3.525    CW     104   599 599 |IC-746|<strong>Germany</strong>|326km
+313  2024-11-09 21:17 OM3CPF         3.525    CW     SEA   599 599 |IC-746|<strong>Slovakia</strong>|296km
+314  2024-11-09 21:18 YU1YV          3.525    CW     379   599 599 |IC-746|<strong>Serbia</strong>|737km
+315  2024-11-09 21:19 YO3XX          3.525    CW      29   599 599 |IC-746|<strong>Romania</strong>|1085km
+316  2024-11-09 21:19 9A3SM          3.525    CW     118   599 599 |IC-746|<strong>Croatia</strong>|519km
+317  2024-11-09 21:55 OM3KFY         7.009    CW     BAB   599 599 |IC-746|<strong>Slovakia</strong>|296km
+318  2024-11-09 21:55 K1LZ           7.009    CW      49   599 599 |IC-746|<strong>United States</strong>|7223km
+319  2024-11-09 21:56 F4HYY          7.009    CW      12   599 599 |IC-746|<strong>France</strong>|885km
+320  2024-11-09 21:56 HB9FAP         7.009    CW       1   599 599 |IC-746|<strong>Switzerland</strong>|613km
+321  2024-11-09 21:57 G4ERW          7.009    CW     126   599 599 |IC-746|<strong>England</strong>|1029km
+322  2024-11-09 21:57 I2IFT          7.009    CW     425   599 599 |IC-746|<strong>Italy</strong>|923km
+323  2024-11-09 21:58 M1X            7.009    CW     364   599 599 |IC-746|<strong>England</strong>|1029km
+324  2024-11-09 21:58 F5TVL          7.009    CW      51   599 599 |IC-746|<strong>France</strong>|885km
+325  2024-11-09 21:59 N9NC           7.009    CW      47   599 599 |IC-746|<strong>United States</strong>|7223km
+326  2024-11-09 22:00 LY2XW          7.009    CW     166   599 599 |IC-746|<strong>Lithuania</strong>|897km
+327  2024-11-09 22:00 M4T            7.009    CW     594   599 599 |IC-746|<strong>England</strong>|1029km
+328  2024-11-09 22:00 K1GQ           7.009    CW     124   599 599 |IC-746|<strong>United States</strong>|7223km
+329  2024-11-09 22:01 IT9ORA         7.009    CW     150   599 599 |IC-746|<strong>Sicily</strong>|1401km
+330  2024-11-09 22:01 DL5JQ          7.009    CW     307   599 599 |IC-746|<strong>Germany</strong>|326km
+331  2024-11-09 22:02 SM2M           7.009    CW     203   599 599 |IC-746|<strong>Sweden</strong>|1049km
+332  2024-11-09 22:03 IK8UND         7.009    CW     240   599 599 |IC-746|<strong>Italy</strong>|923km
+333  2024-11-09 22:03 N4AF           7.009    CW      34   599 599 |IC-746|<strong>United States</strong>|7223km
+334  2024-11-09 22:03 OL0W           7.009    CW     BBE   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+335  2024-11-09 22:04 EA7ZS          7.009    CW      78   599 599 |IC-746|<strong>Spain</strong>|1772km
+336  2024-11-09 22:05 EA7BEZ         7.009    CW      76   599 599 |IC-746|<strong>Spain</strong>|1772km
+337  2024-11-09 22:06 NA8V           7.009    CW     107   599 599 |IC-746|<strong>United States</strong>|7223km
+338  2024-11-09 22:06 VE3EJ          7.009    CW       2   599 599 |IC-746|<strong>Canada</strong>|6615km
+339  2024-11-09 22:10 G4ZYU          7.009    CW      45   599 599 |IC-746|<strong>England</strong>|1029km
+340  2024-11-09 22:11 G4XSR          7.009    CW     150   599 599 |IC-746|<strong>England</strong>|1029km
+341  2024-11-09 22:13 OK8EAO         7.009    CW     CCK   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+342  2024-11-09 22:14 LY5T           7.009    CW      51   599 599 |IC-746|<strong>Lithuania</strong>|897km
+343  2024-11-09 22:14 YU2FG          7.009    CW     101   599 599 |IC-746|<strong>Serbia</strong>|737km
+344  2024-11-09 22:15 YO8TTT         7.009    CW     204   599 599 |IC-746|<strong>Romania</strong>|1085km
+345  2024-11-09 22:22 NR4M          14.008    CW       3   599 599 |IC-746|<strong>United States</strong>|7223km
+346  2024-11-09 22:25 YL2PJ          3.527    CW     324   599 599 |IC-746|<strong>Latvia</strong>|997km
+347  2024-11-09 22:26 DF7CP          3.527    CW     216   599 599 |IC-746|<strong>Germany</strong>|326km
+348  2024-11-09 22:27 DL5JQ          3.527    CW     330   599 599 |IC-746|<strong>Germany</strong>|326km
+349  2024-11-09 22:27 9A2X           3.527    CW      92   599 599 |IC-746|<strong>Croatia</strong>|519km
+350  2024-11-09 22:30 DL7VOG         3.527    CW      71   599 599 |IC-746|<strong>Germany</strong>|326km
+351  2024-11-09 22:31 OK1DJS         3.527    CW     DKL   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+352  2024-11-09 22:32 DK3WN          3.527    CW     286   599 599 |IC-746|<strong>Germany</strong>|326km
+353  2024-11-09 22:32 OK6OK          3.527    CW     591   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+354  2024-11-09 22:32 9A3A           3.527    CW     193   599 599 |IC-746|<strong>Croatia</strong>|519km
+355  2024-11-09 22:34 DL6FA          3.527    CW      12   599 599 |IC-746|<strong>Germany</strong>|326km
+356  2024-11-09 22:34 OK2BFN         3.527    CW     GLZ   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+357  2024-11-09 22:35 OL0A           3.527    CW     BKO   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+358  2024-11-09 22:35 OK2TJ          3.527    CW     GVY   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+359  2024-11-09 22:35 OK3X           3.527    CW     BPB   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+360  2024-11-09 22:36 OM5KM          3.527    CW     NIT   599 599 |IC-746|<strong>Slovakia</strong>|296km
+361  2024-11-09 22:36 GA3DZM         3.527    CW      34   599 599 |IC-746|<strong>England</strong>|1029km
+362  2024-11-09 22:37 UX7IW          3.527    CW     111   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+363  2024-11-09 22:37 OM6RM          3.527    CW     SEN   599 599 |IC-746|<strong>Slovakia</strong>|296km
+364  2024-11-09 22:37 SP2R           3.527    CW     186   599 599 |IC-746|<strong>Poland</strong>|515km
+365  2024-11-09 22:38 OK3SN          3.527    CW     GBA   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+366  2024-11-09 22:38 YU7FY          3.527    CW     171   599 599 |IC-746|<strong>Serbia</strong>|737km
+367  2024-11-09 22:40 ON4EM          3.527    CW      93   599 599 |IC-746|<strong>Belgium</strong>|712km
+368  2024-11-09 22:40 M4T            3.527    CW     665   599 599 |IC-746|<strong>England</strong>|1029km
+369  2024-11-09 22:42 OK1ES/P        3.527    CW     DCH   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+370  2024-11-09 22:43 OK1DX          3.527    CW     DKL   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+371  2024-11-09 22:45 OK2KUB         3.527    CW     GVY   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+372  2024-11-09 22:45 S59AW          3.527    CW     119   599 599 |IC-746|<strong>Slovenia</strong>|455km
+373  2024-11-09 22:46 HB9FAP         3.527    CW      28   599 599 |IC-746|<strong>Switzerland</strong>|613km
+374  2024-11-09 22:47 OK4X           3.527    CW      DE   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+375  2024-11-09 22:47 OE3MWS         3.527    CW     245   599 599 |IC-746|<strong>Austria</strong>|252km
+376  2024-11-09 22:48 HB9CGL         3.527    CW     127   599 599 |IC-746|<strong>Switzerland</strong>|613km
+377  2024-11-09 22:49 YO4SI          3.527    CW     102   599 599 |IC-746|<strong>Romania</strong>|1085km
+378  2024-11-09 22:49 OM6TX          3.527    CW     CAD   599 599 |IC-746|<strong>Slovakia</strong>|296km
+379  2024-11-09 22:51 OL3M           3.527    CW     FLO   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+380  2024-11-09 22:54 K3PA           7.009    CW      84   599 599 |IC-746|<strong>United States</strong>|7223km
+381  2024-11-10 08:43 LC2F          14.023    CW      27   599 599 |IC-746|<strong>Norway</strong>|1125km
+382  2024-11-10 08:44 DL5YYM        14.023    CW     828   599 599 |IC-746|<strong>Germany</strong>|326km
+383  2024-11-10 08:44 OH6LW         14.023    CW      57   599 599 |IC-746|<strong>Finland</strong>|1305km
+384  2024-11-10 08:45 DL4WA         14.023    CW     428   599 599 |IC-746|<strong>Germany</strong>|326km
+385  2024-11-10 08:46 LY6O          14.023    CW     400   599 599 |IC-746|<strong>Lithuania</strong>|897km
+386  2024-11-10 08:46 LZ5DI         14.023    CW     858   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+387  2024-11-10 08:47 EA2AZ         14.023    CW     209   599 599 |IC-746|<strong>Spain</strong>|1772km
+388  2024-11-10 08:47 OK2BFN        14.023    CW     GZL   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+389  2024-11-10 08:48 DL5CC         14.023    CW     208   599 599 |IC-746|<strong>Germany</strong>|326km
+390  2024-11-10 08:48 YL2NK         14.023    CW     114   599 599 |IC-746|<strong>Latvia</strong>|997km
+391  2024-11-10 08:49 UX2HB         14.023    CW     140   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+392  2024-11-10 08:49 F8GNV         14.023    CW      72   599 599 |IC-746|<strong>France</strong>|885km
+393  2024-11-10 08:50 OK1KKI        14.023    CW     CJH   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+394  2024-11-10 08:50 YQ8E          14.023    CW     529   599 599 |IC-746|<strong>Romania</strong>|1085km
+395  2024-11-10 08:51 UR4CU         14.023    CW     181   599 599 |IC-746|<strong>Ukraine</strong>|1142km
+396  2024-11-10 08:51 SV8SXV        14.023    CW     137   599 599 |IC-746|<strong>Greece</strong>|1534km
+397  2024-11-10 08:52 W4PM          14.023    CW     120   599 599 |IC-746|<strong>United States</strong>|7223km
+398  2024-11-10 08:52 LZ1ZJ         14.023    CW     220   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
+399  2024-11-10 08:54 OL5W          14.023    CW     BPB   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+400  2024-11-10 08:54 IT9ORA        14.023    CW     306   599 599 |IC-746|<strong>Sicily</strong>|1401km
+401  2024-11-10 08:54 OH1RX         14.023    CW      54   599 599 |IC-746|<strong>Finland</strong>|1305km
+402  2024-11-10 08:56 IK4DCX        14.023    CW     314   599 599 |IC-746|<strong>Italy</strong>|923km
+403  2024-11-10 08:58 LZ1MC         14.023    CW      73   599 599 |IC-746|<strong>Bulgaria</strong>|1067km
