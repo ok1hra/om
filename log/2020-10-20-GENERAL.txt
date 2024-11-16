@@ -451,3 +451,6 @@
 451  2024-10-19 19:39 G2SZ          10.105    CW     599   599 599 |IC-705|<strong>England</strong>|1029km
 452  2024-11-08 18:37 AF8E          21.042    CW  339 OH   599 599 |IC-705|<strong>United States</strong>|7223km
 453  2024-11-15 19:56 EA8/OK6RA     14.005    CW     599   599 599 |IC-705|<strong>Canary Is.</strong>|3473km
+454  2024-11-16 18:11 K3UL           21.02    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
+455  2024-11-16 18:11 NJ5M          21.008    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
+456  2024-11-16 18:12 N9RV          14.024    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km

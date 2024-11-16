@@ -12,7 +12,9 @@ $locator   = 'JO60WA';		// QTH for 2m and up sending MSG
 $IP1        = '192.168.1.52';	// CAT/UDP TRX interface - find IP with 'ping ic705.local'
 $trx1name   = 'IC-705';
 $IP2        = '192.168.1.50';	// CAT/UDP TRX interface
-$trx2name   = 'IC-746';
+$trx2name   = 'TS-480';
+$IP3        = '192.168.1.50';	// CAT/UDP TRX interface
+$trx3name   = 'IC-746';
 
 // default
 $cwcliport  = '89';		// UDP port for CW message
@@ -22,7 +24,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '20240113';
+$REV = '20241116';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -41,6 +43,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
+	2024-11 - Three button for switch between three TRX
 	2024-01 - Add FM mode, add two TRX switch, TRX name and log it
 	2023-12 - Clear RIT, add FSK mode (support IC705), fix configure
 	2023-09 - add RTTYR mode, add CAT support for OpenInterface3
@@ -740,6 +743,9 @@ if ($trx == '1'){
 if ($trx == '2'){
 	$IP=$IP2;
 }
+if ($trx == '3'){
+	$IP=$IP3;
+}
 
 $mode= mode($rigip);
 if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mode == 'USB' || $mode == 'FM' || $mode == 'FSK'  || $mode == 'RTTY' || $mode == 'RTTYR') {
@@ -901,6 +907,9 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			if ($trx == '2'){
 				$NOTE = $trx2name;
 			}
+			if ($trx == '3'){
+				$NOTE = $trx3name;
+			}
 			$DXCC = GetDxcc($callr);
 			$DXCCarray = explode("|", $DXCC);
 			if (freq($rigip) > 140000000){
@@ -964,12 +973,33 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	if ($conteststyle == 'sp'){
 		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=run&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>S&P</span><span class="onhover">RUN</span></a>';
 	}
-	if ($trx == '1'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=2" class="switch"><span>'.$trx1name.'</span><span class="onhover">'.$trx2name.'</span></a>';
-	}
-	if ($trx == '2'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=1" class="switch"><span>'.$trx2name.'</span><span class="onhover">'.$trx1name.'</span></a>';
-	}?>
+	// one button
+//	if ($trx == '1'){
+//		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=2" class="switch"><span>'.$trx1name.'</span><span class="onhover">'.$trx2name.'</span></a>';
+//	}
+//	if ($trx == '2'){
+//		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=3" class="switch"><span>'.$trx2name.'</span><span class="onhover">'.$trx3name.'</span></a>';
+//	}
+//	if ($trx == '3'){
+//		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=1" class="switch"><span>'.$trx3name.'</span><span class="onhover">'.$trx1name.'</span></a>';
+//	}
+	// three button
+	echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=1" class="switch" ';
+		if ($trx == '1'){
+			echo 'style="background-color: #080;"';
+		}
+		echo '><span>'.$trx1name.'</span><span class="onhover">'.$trx1name.'</span></a>';
+	echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=2" class="switch" ';
+		if ($trx == '2'){
+			echo 'style="background-color: #080;"';
+		}
+		echo '><span>'.$trx2name.'</span><span class="onhover">'.$trx2name.'</span></a>';
+	echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=3" class="switch" ';
+		if ($trx == '3'){
+			echo 'style="background-color: #080;"';
+		}
+		echo '><span>'.$trx3name.'</span><span class="onhover">'.$trx3name.'</span></a>';
+	?>
 	<input style="display: none" type="submit" name='send' value="Send">	<!-- hidden button - use if press enter (without click any other button)-->  <?
 	if ($mode == 'CW' || $mode == 'CWR'){?>
 		<!-- <span class="gray">Freq: </span>
@@ -1085,7 +1115,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		echo $trx1name.'</span><span class="onhover">'.$trx2name.'</span></a>';
 	}
 	if ($trx == '2'){
-		echo $trx2name.'</span><span class="onhover">'.$trx1name.'</span></a>';
+		echo $trx2name.'</span><span class="onhover">'.$trx3name.'</span></a>';
+	}
+	if ($trx == '2'){
+		echo $trx3name.'</span><span class="onhover">'.$trx1name.'</span></a>';
 	}
 	echo '<br> | CAT '.$CAT.' | IP '.$IP.' | MODE '.mode($rigip).' | MHz '.freq($rigip).' | <a href="'.'http://'.$IP.':'.$catport.'" target="_blank">URL</a> |'; 
 }?>
