@@ -1,0 +1,501 @@
+1    2024-11-23 14:16 K4RM          28.056    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+2    2024-11-23 14:21 N3CW          28.056    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+3    2024-11-23 14:22 CT1ELZ        28.056    CW      14   599 599 |TS-480|<strong>Portugal</strong>|2247km
+4    2024-11-23 14:23 N0KK          28.056    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+5    2024-11-23 14:29 KW1X          28.031    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+6    2024-11-23 14:30 N6NT          28.031    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+7    2024-11-23 14:30 K0ZR          28.031    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+8    2024-11-23 14:31 W3UL          28.031    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+9    2024-11-23 14:31 N4KH          28.031    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+10   2024-11-23 14:32 W3FIZ         28.031    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+11   2024-11-23 14:32 KA0PQW        28.031    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+12   2024-11-23 14:33 N2QY          28.031    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+13   2024-11-23 14:34 WF4W          28.031    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+14   2024-11-23 14:46 N4ZR          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+15   2024-11-23 14:47 CR3A          28.061    CW      33   599 599 |TS-480|<strong>Madeira Is.</strong>|3218km
+16   2024-11-23 14:49 DL6NBC        28.061    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+17   2024-11-23 14:50 N4IU          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+18   2024-11-23 14:50 KB8F          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+19   2024-11-23 14:53 OL9A          28.061    CW      15   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+20   2024-11-23 14:53 N3JT          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+21   2024-11-23 14:54 TK0C          28.061    CW      15   599 599 |TS-480|<strong>Corsica</strong>|991km
+22   2024-11-23 14:55 VE3YT         28.061    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+23   2024-11-23 14:56 WS9M          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+24   2024-11-23 14:57 W7SW          28.061    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+25   2024-11-23 14:58 K0TRL         28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+26   2024-11-23 14:59 WA3AER        28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+27   2024-11-23 15:01 AA3K          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+28   2024-11-23 15:01 K1LT          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+29   2024-11-23 15:04 K9RS          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+30   2024-11-23 15:05 W9PA          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+31   2024-11-23 15:06 KR2AA         28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+32   2024-11-23 15:07 K0HB          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+33   2024-11-23 15:07 K1TH          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+34   2024-11-23 15:07 KB3NSK        28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+35   2024-11-23 15:08 N8AP          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+36   2024-11-23 15:09 K3DNE         28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+37   2024-11-23 15:10 K7TD          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+38   2024-11-23 15:10 WW4LL         28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+39   2024-11-23 15:11 KA2MGE        28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+40   2024-11-23 15:11 KA1CJI        28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+41   2024-11-23 15:12 K2LS          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+42   2024-11-23 15:17 NY1V          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+43   2024-11-23 15:17 W2NTN         28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+44   2024-11-23 15:18 W9A           28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+45   2024-11-23 15:20 K3QP          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+46   2024-11-23 15:24 K1BZ          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+47   2024-11-23 15:25 K9CT          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+48   2024-11-23 15:25 K3OO          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+49   2024-11-23 15:25 N2SQW         28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+50   2024-11-23 15:26 N4XL          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+51   2024-11-23 15:26 W9FFA         28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+52   2024-11-23 15:27 WT2J          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+53   2024-11-23 15:27 WA0I          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+54   2024-11-23 15:29 K0BJ          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+55   2024-11-23 15:29 K6NA          28.061    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+56   2024-11-23 15:31 N2BJ          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+57   2024-11-23 15:32 N3NR          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+58   2024-11-23 15:33 VA3DF         28.061    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+59   2024-11-23 15:34 K3LR          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+60   2024-11-23 15:36 W3US          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+61   2024-11-23 15:39 KY0Q          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+62   2024-11-23 15:40 W0BV          28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+63   2024-11-23 15:40 WO2T          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+64   2024-11-23 15:41 NS3L          28.061    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+65   2024-11-23 15:42 W8KTQ         28.061    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+66   2024-11-23 15:43 OK1KDN        28.061    CW      15   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+67   2024-11-23 16:18 W3FV          28.056    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+68   2024-11-23 16:18 W4EF          28.056    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+69   2024-11-23 16:21 W4ATL         28.056    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+70   2024-11-23 16:23 NE3I          28.056    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+71   2024-11-23 16:26 N9EP          28.056    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+72   2024-11-23 16:27 N4NA          28.056    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+73   2024-11-23 16:27 K3EW          28.056    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+74   2024-11-23 16:27 W6JTI         28.056    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+75   2024-11-23 16:28 WA8RCN        28.056    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+76   2024-11-23 16:28 AA4VT         28.056    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+77   2024-11-23 16:28 K1LZ          28.056    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+78   2024-11-23 16:32 OH1EB         28.056    CW      15   599 599 |TS-480|<strong>Finland</strong>|1305km
+79   2024-11-23 16:47 W6YI          28.047    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+80   2024-11-23 16:48 TI2OY         28.047    CW       7   599 599 |TS-480|<strong>Costa Rica</strong>|9755km
+81   2024-11-23 16:50 W3LPL         28.047    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+82   2024-11-23 16:50 NI7R          28.047    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+83   2024-11-23 16:50 AA3R          28.047    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+84   2024-11-23 16:52 K8PK          28.047    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+85   2024-11-23 16:53 K9MA          28.045    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+86   2024-11-23 16:53 NM2A          28.045    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+87   2024-11-23 16:54 VE3OTD        28.045    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+88   2024-11-23 16:55 KC1XX         28.045    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+89   2024-11-23 16:57 W2CS          28.045    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+90   2024-11-23 16:57 KC4TEO        28.045    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+91   2024-11-23 16:59 K9MMS         28.045    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+92   2024-11-23 17:00 W3MA          28.045    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+93   2024-11-23 17:01 N7AAE         28.045    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+94   2024-11-23 17:04 K5BG          28.045    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+95   2024-11-23 17:06 N9NC          28.045    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+96   2024-11-23 17:07 KD9MS         28.045    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+97   2024-11-23 17:07 KX1E          28.045    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+98   2024-11-23 17:10 N6RO          28.036    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+99   2024-11-23 17:11 VA1RST        28.036    CW       5   599 599 |TS-480|<strong>Canada</strong>|6615km
+100  2024-11-23 17:11 N5XE          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+101  2024-11-23 17:12 N7WY          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+102  2024-11-23 17:13 KY0O          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+103  2024-11-23 17:15 K5TU          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+104  2024-11-23 17:17 K9ALP         28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+105  2024-11-23 17:18 W9XT          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+106  2024-11-23 17:18 K3TS          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+107  2024-11-23 17:18 K9PG          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+108  2024-11-23 17:19 WV4AM         28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+109  2024-11-23 17:19 KB4DX         28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+110  2024-11-23 17:20 KD2KW         28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+111  2024-11-23 17:20 WQ3O          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+112  2024-11-23 17:21 N1MGO         28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+113  2024-11-23 17:21 K6LL          28.036    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+114  2024-11-23 17:22 VA3FF         28.036    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+115  2024-11-23 17:22 KX1X          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+116  2024-11-23 17:23 K1EBY         28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+117  2024-11-23 17:23 WA5SOG        28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+118  2024-11-23 17:24 W0CP          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+119  2024-11-23 17:24 KD9CLH        28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+120  2024-11-23 17:26 W6YX          28.036    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+121  2024-11-23 17:27 K7QA          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+122  2024-11-23 17:29 W0BZ          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+123  2024-11-23 17:30 N5JR          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+124  2024-11-23 17:30 PY2XL         28.036    CW      11   599 599 |TS-480|<strong>Brazil</strong>|9901km
+125  2024-11-23 17:31 AI6O          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+126  2024-11-23 17:31 WX8C          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+127  2024-11-23 17:31 WN7S          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+128  2024-11-23 17:33 K1TZQ         28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+129  2024-11-23 17:37 K2ZR          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+130  2024-11-23 17:38 N4AO          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+131  2024-11-23 17:38 K8GU          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+132  2024-11-23 17:39 N8UM          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+133  2024-11-23 17:42 N3RJ          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+134  2024-11-23 17:43 W1AO          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+135  2024-11-23 17:43 N4QS          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+136  2024-11-23 17:44 K8LX          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+137  2024-11-23 17:44 KJ9C          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+138  2024-11-23 17:45 W1NT          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+139  2024-11-23 17:45 W4EE          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+140  2024-11-23 17:46 VE3XAT        28.036    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+141  2024-11-23 17:47 VP9I          28.036    CW       5   599 599 |TS-480|<strong>Bermuda</strong>|6579km
+142  2024-11-23 17:48 W1HNZ         28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+143  2024-11-23 17:48 ND1X          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+144  2024-11-23 17:48 N3FJP         28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+145  2024-11-23 17:49 WA4JUK        28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+146  2024-11-23 17:52 ED8M          28.036    CW      33   599 599 |TS-480|<strong>Canary Is.</strong>|3473km
+147  2024-11-23 17:53 OL0A          28.036    CW      15   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+148  2024-11-23 17:55 NS3T          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+149  2024-11-23 17:56 K2GO          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+150  2024-11-23 17:56 W0RX          28.036    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+151  2024-11-23 17:57 K0CIE         28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+152  2024-11-23 18:00 K3WW          28.036    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+153  2024-11-23 18:03 OK1GK         28.036    CW      15   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+154  2024-11-23 19:08 N2PP          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+155  2024-11-23 19:09 K3WW          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+156  2024-11-23 19:09 K8LX          21.035    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+157  2024-11-23 19:10 K3MD          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+158  2024-11-23 19:10 K1LZ          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+159  2024-11-23 19:10 N6BT          21.035    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+160  2024-11-23 19:11 W9VW          21.035    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+161  2024-11-23 19:14 W3LPL         21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+162  2024-11-23 19:14 N3NR          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+163  2024-11-23 19:16 W9SN          21.035    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+164  2024-11-23 19:16 W2RD          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+165  2024-11-23 19:19 K3LR          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+166  2024-11-23 19:19 N4WW          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+167  2024-11-23 19:19 KC1XX         21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+168  2024-11-23 19:22 N4KH          21.035    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+169  2024-11-23 19:22 WB2RPW        21.035    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+170  2024-11-23 19:24 N2AA          21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+171  2024-11-23 19:25 KB4DX         21.035    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+172  2024-11-23 19:28 W3LPL         14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+173  2024-11-23 19:28 W1CSM         14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+174  2024-11-23 19:29 WV4AM         14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+175  2024-11-23 19:30 KC1XX         14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+176  2024-11-23 19:30 VE5SF         14.021    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+177  2024-11-23 19:31 K1LZ          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+178  2024-11-23 19:31 K9CT          14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+179  2024-11-23 19:32 K5WA          14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+180  2024-11-23 19:33 W3MA          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+181  2024-11-23 19:33 K9WO          14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+182  2024-11-23 19:33 NF1O          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+183  2024-11-23 19:34 W6NWS         14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+184  2024-11-23 19:34 K3TM          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+185  2024-11-23 19:35 K1RV          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+186  2024-11-23 19:35 ND1X          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+187  2024-11-23 19:36 VC7G          14.021    CW       3   599 599 |TS-480|<strong>Canada</strong>|6615km
+188  2024-11-23 19:37 K3LR          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+189  2024-11-23 19:37 N8OO          14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+190  2024-11-23 19:38 NM2A          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+191  2024-11-23 19:39 K3PA          14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+192  2024-11-23 19:39 AA0AW         14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+193  2024-11-23 19:40 N3CW          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+194  2024-11-23 19:40 W2FU          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+195  2024-11-23 19:41 K1KP          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+196  2024-11-23 19:41 AI9T          14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+197  2024-11-23 19:42 N6NT          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+198  2024-11-23 19:44 W4RM          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+199  2024-11-23 19:44 K1TZQ         14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+200  2024-11-23 19:47 OK1GK         14.021    CW      15   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+201  2024-11-23 19:47 KW1X          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+202  2024-11-23 19:48 K3QP          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+203  2024-11-23 19:50 W2YR          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+204  2024-11-23 19:50 WA2QAU        14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+205  2024-11-23 19:52 N1IX          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+206  2024-11-23 19:53 KA1O          14.021    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+207  2024-11-23 19:54 WA0MHJ        14.021    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+208  2024-11-23 23:29 UW1M           7.029    CW      16   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+209  2024-11-23 23:31 W3MA           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+210  2024-11-23 23:32 EA7KHN         7.029    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+211  2024-11-23 23:32 K1LZ           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+212  2024-11-23 23:32 NA3M           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+213  2024-11-23 23:32 N2HMM          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+214  2024-11-23 23:33 W3LPL          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+215  2024-11-23 23:34 W4NF           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+216  2024-11-23 23:34 K1ZZ           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+217  2024-11-23 23:35 K3LR           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+218  2024-11-23 23:35 N3MN           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+219  2024-11-23 23:36 ED8M           7.029    CW      33   599 599 |TS-480|<strong>Canary Is.</strong>|3473km
+220  2024-11-23 23:36 EE4Y           7.029    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+221  2024-11-23 23:37 HG1M           7.029    CW      15   599 599 |TS-480|<strong>Hungary</strong>|449km
+222  2024-11-23 23:39 AA3R           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+223  2024-11-23 23:41 K3M            7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+224  2024-11-23 23:43 GM4JQB         7.029    CW      14   599 599 |TS-480|<strong>Scotland</strong>|1397km
+225  2024-11-23 23:44 WA2DNI         7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+226  2024-11-23 23:47 K2AX           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+227  2024-11-23 23:48 NS3T           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+228  2024-11-23 23:49 PG7M           7.029    CW      14   599 599 |TS-480|<strong>Netherlands</strong>|708km
+229  2024-11-23 23:49 SP3VT          7.029    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+230  2024-11-23 23:50 AC2OC          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+231  2024-11-23 23:50 EA4TX          7.029    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+232  2024-11-23 23:51 AA4Q           7.029    CW      16   599 599 |TS-480|<strong>United States</strong>|7223km
+233  2024-11-23 23:52 NF1O           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+234  2024-11-23 23:52 CR3A           7.029    CW      33   599 599 |TS-480|<strong>Madeira Is.</strong>|3218km
+235  2024-11-23 23:53 OK1VK          7.029    CW      15   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+236  2024-11-23 23:53 N2AA           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+237  2024-11-23 23:53 W5VS           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+238  2024-11-23 23:54 N4QS           7.029    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+239  2024-11-23 23:55 PJ4K           7.029    CW       9   599 599 |TS-480|<strong>Netherlands Antilles</strong>|8509km
+240  2024-11-23 23:56 SQ9MZ          7.029    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+241  2024-11-23 23:57 EA4R           7.029    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+242  2024-11-23 23:58 N3RJ           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+243  2024-11-23 23:58 W1GD           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+244  2024-11-23 23:58 N4TB           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+245  2024-11-24 00:00 OZ8ABA         7.029    CW      14   599 599 |TS-480|<strong>Denmark</strong>|634km
+246  2024-11-24 00:00 N2SR           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+247  2024-11-24 00:01 ED1S           7.029    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+248  2024-11-24 00:01 OL9A           7.029    CW      15   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+249  2024-11-24 00:02 KC1XX          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+250  2024-11-24 00:02 W6NWS          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+251  2024-11-24 00:03 WA3AER         7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+252  2024-11-24 00:04 VE9ML          7.029    CW       5   599 599 |TS-480|<strong>Canada</strong>|6615km
+253  2024-11-24 00:05 N4RV           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+254  2024-11-24 00:05 EF3T           7.029    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+255  2024-11-24 00:05 W1SRG          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+256  2024-11-24 00:06 AG4TT          7.029    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+257  2024-11-24 00:06 NX3A           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+258  2024-11-24 00:06 EA3AKA         7.029    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+259  2024-11-24 00:07 KA1IS          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+260  2024-11-24 00:07 MM2T           7.029    CW      14   599 599 |TS-480|<strong>Scotland</strong>|1397km
+261  2024-11-24 00:08 NB2P           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+262  2024-11-24 00:08 NN3Q           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+263  2024-11-24 00:08 N3AM           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+264  2024-11-24 00:11 N1EN           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+265  2024-11-24 00:11 AA1ON          7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+266  2024-11-24 00:12 K8AZ           7.029    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+267  2024-11-24 00:12 AA8R           7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+268  2024-11-24 00:13 WA3RWP         7.029    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+269  2024-11-24 00:15 TK0C           7.029    CW      15   599 599 |TS-480|<strong>Corsica</strong>|991km
+270  2024-11-24 18:49 K9CT          21.034    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+271  2024-11-24 18:53 N4RV          21.034    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+272  2024-11-24 18:54 K3AU          21.034    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+273  2024-11-24 18:55 K3ZA          21.034    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+274  2024-11-24 18:55 K2ZR          21.034    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+275  2024-11-24 18:58 PJ2T          21.034    CW       9   599 599 |TS-480|<strong>Netherlands Antilles</strong>|8509km
+276  2024-11-24 19:03 N2HMM         21.034    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+277  2024-11-24 19:03 EA2CC         21.034    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+278  2024-11-24 19:04 K2TQC         21.034    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+279  2024-11-24 19:04 K3WOV         21.034    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+280  2024-11-24 19:07 DL1DTL        21.034    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+281  2024-11-24 19:08 LZ7W          21.034    CW      20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+282  2024-11-24 19:08 LZ1AG         21.034    CW      20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+283  2024-11-24 19:08 PY2QT         21.034    CW      11   599 599 |TS-480|<strong>Brazil</strong>|9901km
+284  2024-11-24 19:14 K0RF          14.022    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+285  2024-11-24 19:14 W1GD          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+286  2024-11-24 19:15 ED8M          14.022    CW      33   599 599 |TS-480|<strong>Canary Is.</strong>|3473km
+287  2024-11-24 19:15 AA3K          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+288  2024-11-24 19:16 UW1M          14.022    CW      16   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+289  2024-11-24 19:17 EA3IN         14.022    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+290  2024-11-24 19:18 K1ZZ          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+291  2024-11-24 19:23 KM5G          14.022    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+292  2024-11-24 19:24 K3AU          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+293  2024-11-24 19:26 AA1K          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+294  2024-11-24 19:26 PY4EK         14.022    CW      11   599 599 |TS-480|<strong>Brazil</strong>|9901km
+295  2024-11-24 19:27 N6RO          14.022    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+296  2024-11-24 19:27 K2LE          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+297  2024-11-24 19:28 N2AA          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+298  2024-11-24 19:28 NS4X          14.022    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+299  2024-11-24 19:29 CR2A          14.022    CW      33   599 599 |TS-480|<strong>Portugal</strong>|2247km
+300  2024-11-24 19:31 WA3AER        14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+301  2024-11-24 19:31 AK1MD         14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+302  2024-11-24 19:34 K7NT          14.022    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+303  2024-11-24 19:34 YT5A          14.022    CW      15   599 599 |TS-480|<strong>Serbia</strong>|737km
+304  2024-11-24 19:35 N1IBM         14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+305  2024-11-24 19:35 K2PO          14.022    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+306  2024-11-24 19:37 LZ1IQ         14.022    CW      20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+307  2024-11-24 19:39 KI6DY         14.022    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+308  2024-11-24 19:40 NC3Y          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+309  2024-11-24 19:41 CN3A          14.022    CW      33   599 599 |TS-480|<strong>Morocco</strong>|2561km
+310  2024-11-24 19:41 W4CU          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+311  2024-11-24 19:42 NJ1F          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+312  2024-11-24 19:43 LZ1AQ         14.022    CW      20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+313  2024-11-24 19:44 N4RV          14.022    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+314  2024-11-24 19:45 EA8/OK6RA     14.022    CW      33   599 599 |TS-480|<strong>Canary Is.</strong>|3473km
+315  2024-11-24 19:45 N4ZZ          14.022    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+316  2024-11-24 19:58 K2IRM         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+317  2024-11-24 19:59 PY2RX         14.015    CW      11   599 599 |TS-480|<strong>Brazil</strong>|9901km
+318  2024-11-24 19:59 K3BHX         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+319  2024-11-24 19:59 K3SU          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+320  2024-11-24 20:00 K4XL          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+321  2024-11-24 20:00 N3FJP         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+322  2024-11-24 20:01 K3FMQ         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+323  2024-11-24 20:01 PJ4K          14.015    CW       9   599 599 |TS-480|<strong>Netherlands Antilles</strong>|8509km
+324  2024-11-24 20:02 K1XS          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+325  2024-11-24 20:02 W6OAT         14.015    CW       3   599 599 |TS-480|<strong>United States</strong>|7223km
+326  2024-11-24 20:02 K5TA          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+327  2024-11-24 20:02 N7US          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+328  2024-11-24 20:03 K3EL          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+329  2024-11-24 20:04 N1EN          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+330  2024-11-24 20:04 W2YC          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+331  2024-11-24 20:04 NN4SS         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+332  2024-11-24 20:05 N2EIM         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+333  2024-11-24 20:06 N4EL          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+334  2024-11-24 20:06 NR8Z          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+335  2024-11-24 20:07 W3FIZ         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+336  2024-11-24 20:07 N5WNG         14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+337  2024-11-24 20:07 HA8G          14.015    CW      15   599 599 |TS-480|<strong>Hungary</strong>|449km
+338  2024-11-24 20:09 K2GO          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+339  2024-11-24 20:09 N3XF          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+340  2024-11-24 20:09 WX1S          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+341  2024-11-24 20:10 K8LX          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+342  2024-11-24 20:10 N4UU          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+343  2024-11-24 20:11 K1VMT         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+344  2024-11-24 20:12 KD9CLH        14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+345  2024-11-24 20:12 AC9S          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+346  2024-11-24 20:13 WX8C          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+347  2024-11-24 20:13 N2LBR         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+348  2024-11-24 20:14 N0AT          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+349  2024-11-24 20:14 K1RO          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+350  2024-11-24 20:15 TK0C          14.015    CW      15   599 599 |TS-480|<strong>Corsica</strong>|991km
+351  2024-11-24 20:17 N9CO          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+352  2024-11-24 20:18 K2QPN         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+353  2024-11-24 20:18 KO4VW         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+354  2024-11-24 20:19 N4FP          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+355  2024-11-24 20:19 NE2V          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+356  2024-11-24 20:19 W4NF          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+357  2024-11-24 20:20 N2SQW         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+358  2024-11-24 20:20 K1TTT         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+359  2024-11-24 20:20 N3RS          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+360  2024-11-24 20:20 WA2DNI        14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+361  2024-11-24 20:21 WM0M          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+362  2024-11-24 20:21 K0CN          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+363  2024-11-24 20:22 K3UL          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+364  2024-11-24 20:22 N3FR          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+365  2024-11-24 20:24 WE9R          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+366  2024-11-24 20:24 W0ELT         14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+367  2024-11-24 20:25 NO9E          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+368  2024-11-24 20:26 N3NR          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+369  2024-11-24 20:26 NJ3K          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+370  2024-11-24 20:27 WB2PJH        14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+371  2024-11-24 20:28 N3FCP         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+372  2024-11-24 20:29 VE3TM         14.015    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+373  2024-11-24 20:30 IK7NXU        14.015    CW      15   599 599 |TS-480|<strong>Italy</strong>|923km
+374  2024-11-24 20:31 K0RC          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+375  2024-11-24 20:31 VA3TNM        14.015    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+376  2024-11-24 20:32 K3MD          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+377  2024-11-24 20:33 VA2EDI        14.015    CW       5   599 599 |TS-480|<strong>Canada</strong>|6615km
+378  2024-11-24 20:34 VE3YT         14.015    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+379  2024-11-24 20:36 WT2P          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+380  2024-11-24 20:36 K3IE          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+381  2024-11-24 20:37 WA2CHV        14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+382  2024-11-24 20:37 KK1L          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+383  2024-11-24 20:39 N2SR          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+384  2024-11-24 20:39 AG4TT         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+385  2024-11-24 20:40 N8HRZ         14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+386  2024-11-24 20:40 KD1MC         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+387  2024-11-24 20:43 KJ3I          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+388  2024-11-24 20:44 K4HA          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+389  2024-11-24 20:44 W2FDJ         14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+390  2024-11-24 20:44 W3TB          14.015    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+391  2024-11-24 20:46 N2SR          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+392  2024-11-24 20:50 N4IJ          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+393  2024-11-24 20:51 W3FV          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+394  2024-11-24 20:52 NW3Y          14.015    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+395  2024-11-24 21:47 W8FJ          14.019    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+396  2024-11-24 21:48 VA3SB         14.019    CW       4   599 599 |TS-480|<strong>Canada</strong>|6615km
+397  2024-11-24 21:49 KU2C          14.019    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+398  2024-11-24 21:55 K3AU           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+399  2024-11-24 21:55 W2FU           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+400  2024-11-24 21:55 CR3W           7.026    CW      33   599 599 |TS-480|<strong>Madeira Is.</strong>|3218km
+401  2024-11-24 21:56 K3PA           7.026    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+402  2024-11-24 21:56 N9CO           7.026    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+403  2024-11-24 21:57 K1KP           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+404  2024-11-24 21:59 YT5A           7.026    CW      15   599 599 |TS-480|<strong>Serbia</strong>|737km
+405  2024-11-24 21:59 EA5RS          7.026    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+406  2024-11-24 22:00 K9CJ           7.026    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+407  2024-11-24 22:01 N2EY           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+408  2024-11-24 22:03 N0TT           7.026    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+409  2024-11-24 22:05 CN3A           7.026    CW      33   599 599 |TS-480|<strong>Morocco</strong>|2561km
+410  2024-11-24 22:06 UN4Q           7.026    CW      17   599 599 |TS-480|<strong>Kazakhstan</strong>|4683km
+411  2024-11-24 22:06 K1FFX          7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+412  2024-11-24 22:07 UR7MZ          7.026    CW      16   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+413  2024-11-24 22:08 EA5GQC         7.026    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+414  2024-11-24 22:09 EW3LN          7.026    CW      16   599 599 |TS-480|<strong>Belarus</strong>|995km
+415  2024-11-24 22:11 N8II           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+416  2024-11-24 22:11 UR5EJ          7.026    CW      16   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+417  2024-11-24 22:11 9A5Y           7.026    CW      15   599 599 |TS-480|<strong>Croatia</strong>|519km
+418  2024-11-24 22:12 W8FJ           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+419  2024-11-24 22:12 K9CT           7.026    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+420  2024-11-24 22:13 SQ1A           7.026    CW       2   599 599 |TS-480|<strong>Poland</strong>|515km
+421  2024-11-24 22:14 W9VW           7.026    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+422  2024-11-24 22:16 AK1MD          7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+423  2024-11-24 22:17 UX2HB          7.026    CW      16   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+424  2024-11-24 22:19 ED1R           7.026    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+425  2024-11-24 22:20 N2UU           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+426  2024-11-24 22:20 UX1AA          7.026    CW      16   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+427  2024-11-24 22:21 WA2HV          7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+428  2024-11-24 22:22 YO3FFF         7.026    CW      20   599 599 |TS-480|<strong>Romania</strong>|1085km
+429  2024-11-24 22:23 K1DG           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+430  2024-11-24 22:24 N6CC           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+431  2024-11-24 22:25 K1ECU          7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+432  2024-11-24 22:25 EA3AQ          7.026    CW      14   599 599 |TS-480|<strong>Spain</strong>|1772km
+433  2024-11-24 22:25 ES8C           7.026    CW      15   599 599 |TS-480|<strong>Estonia</strong>|1227km
+434  2024-11-24 22:27 ES8C           7.026    CW      15   599 599 |TS-480|<strong>Estonia</strong>|1227km
+435  2024-11-24 22:28 SV8DAW         7.026    CW      20   599 599 |TS-480|<strong>Greece</strong>|1534km
+436  2024-11-24 22:28 W3UL           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+437  2024-11-24 22:29 K0RF           7.026    CW       4   599 599 |TS-480|<strong>United States</strong>|7223km
+438  2024-11-24 22:30 GM2S           7.026    CW      14   599 599 |TS-480|<strong>Scotland</strong>|1397km
+439  2024-11-24 22:30 W3RGA          7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+440  2024-11-24 22:32 N3JT           7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+441  2024-11-24 22:33 KA1CJI         7.026    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+442  2024-11-24 22:36 YT4T           3.546    CW      15   599 599 |TS-480|<strong>Serbia</strong>|737km
+443  2024-11-24 22:36 PC3T           3.546    CW      14   599 599 |TS-480|<strong>Netherlands</strong>|708km
+444  2024-11-24 22:37 LZ9W           3.546    CW      20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+445  2024-11-24 22:37 9A9O           3.546    CW      15   599 599 |TS-480|<strong>Croatia</strong>|519km
+446  2024-11-24 22:37 I5MXX          3.546    CW      15   599 599 |TS-480|<strong>Italy</strong>|923km
+447  2024-11-24 22:38 CR3W           3.546    CW      33   599 599 |TS-480|<strong>Madeira Is.</strong>|3218km
+448  2024-11-24 22:38 DL1ASA         3.546    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+449  2024-11-24 22:39 IU0ITX         3.546    CW      15   599 599 |TS-480|<strong>Italy</strong>|923km
+450  2024-11-24 22:39 S57KM          3.546    CW      15   599 599 |TS-480|<strong>Slovenia</strong>|455km
+451  2024-11-24 22:40 LZ7M           3.546    CW      20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+452  2024-11-24 22:40 YU1RK          3.546    CW      15   599 599 |TS-480|<strong>Serbia</strong>|737km
+453  2024-11-24 22:40 EW8OM          3.546    CW      16   599 599 |TS-480|<strong>Belarus</strong>|995km
+454  2024-11-24 22:41 K1TTT          3.546    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+455  2024-11-24 22:41 HA1TJ          3.546    CW      15   599 599 |TS-480|<strong>Hungary</strong>|449km
+456  2024-11-24 22:41 SN5J           3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+457  2024-11-24 22:42 DL4FN          3.546    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+458  2024-11-24 22:42 HA5BMS         3.546    CW      15   599 599 |TS-480|<strong>Hungary</strong>|449km
+459  2024-11-24 22:43 OT9T           3.546    CW      14   599 599 |TS-480|<strong>Belgium</strong>|712km
+460  2024-11-24 22:44 SN5N           3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+461  2024-11-24 22:44 YU1ED          3.546    CW      15   599 599 |TS-480|<strong>Serbia</strong>|737km
+462  2024-11-24 22:45 SN6F           3.546    CW      14   599 599 |TS-480|<strong>Poland</strong>|515km
+463  2024-11-24 22:46 CN3A           3.546    CW      33   599 599 |TS-480|<strong>Morocco</strong>|2561km
+464  2024-11-24 22:46 9A5Y           3.546    CW      15   599 599 |TS-480|<strong>Croatia</strong>|519km
+465  2024-11-24 22:46 DL1ABR         3.546    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+466  2024-11-24 22:47 M6W            3.546    CW      14   599 599 |TS-480|<strong>England</strong>|1029km
+467  2024-11-24 22:47 K1LZ           3.546    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+468  2024-11-24 22:48 SN7J           3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+469  2024-11-24 22:48 F5BMI          3.546    CW      14   599 599 |TS-480|<strong>France</strong>|885km
+470  2024-11-24 22:48 OE3A           3.546    CW      15   599 599 |TS-480|<strong>Austria</strong>|252km
+471  2024-11-24 22:49 SP2PIK         3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+472  2024-11-24 22:50 DJ5MO          3.546    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+473  2024-11-24 22:50 OR2F           3.546    CW      14   599 599 |TS-480|<strong>Belgium</strong>|712km
+474  2024-11-24 22:51 SN4D           3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+475  2024-11-24 22:52 SP9XCN         3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+476  2024-11-24 22:53 TK0C           3.546    CW      15   599 599 |TS-480|<strong>Corsica</strong>|991km
+477  2024-11-24 22:53 PI4CC          3.546    CW      14   599 599 |TS-480|<strong>Netherlands</strong>|708km
+478  2024-11-24 22:55 G4OZG          3.546    CW      15   599 599 |TS-480|<strong>England</strong>|1029km
+479  2024-11-24 22:55 HA8FK          3.546    CW      15   599 599 |TS-480|<strong>Hungary</strong>|449km
+480  2024-11-24 22:56 YO5AVN         3.546    CW      20   599 599 |TS-480|<strong>Romania</strong>|1085km
+481  2024-11-24 22:56 SP7CF          3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+482  2024-11-24 22:57 DL1SAN         3.546    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+483  2024-11-24 22:57 IO4X           3.546    CW      15   599 599 |TS-480|<strong>Italy</strong>|923km
+484  2024-11-24 23:00 KC1XX          3.546    CW       5   599 599 |TS-480|<strong>United States</strong>|7223km
+485  2024-11-24 23:00 HG7T           3.546    CW      15   599 599 |TS-480|<strong>Hungary</strong>|449km
+486  2024-11-24 23:01 SP8N           3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+487  2024-11-24 23:01 ON6HO          3.546    CW      14   599 599 |TS-480|<strong>Belgium</strong>|712km
+488  2024-11-24 23:02 YR8D           3.546    CW      15   599 599 |TS-480|<strong>Romania</strong>|1085km
+489  2024-11-24 23:03 DJ1XT          3.546    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+490  2024-11-24 23:03 DM2M           3.546    CW      14   599 599 |TS-480|<strong>Germany</strong>|326km
+491  2024-11-24 23:04 LZ1ZM          3.546    CW      20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+492  2024-11-24 23:05 SZ1A           3.546    CW      20   599 599 |TS-480|<strong>Greece</strong>|1534km
+493  2024-11-24 23:07 YT5A           3.546    CW      15   599 599 |TS-480|<strong>Serbia</strong>|737km
+494  2024-11-24 23:08 EI3Z           3.546    CW      14   599 599 |TS-480|<strong>Ireland</strong>|1464km
+495  2024-11-24 23:08 SP2DNI         3.546    CW      15   599 599 |TS-480|<strong>Poland</strong>|515km
+496  2024-11-24 23:09 LY7R           3.546    CW      15   599 599 |TS-480|<strong>Lithuania</strong>|897km
+497  2024-11-24 23:09 IK3BVD         3.546    CW      15   599 599 |TS-480|<strong>Italy</strong>|923km
+498  2024-11-24 23:10 OE8TED         3.546    CW      15   599 599 |TS-480|<strong>Austria</strong>|252km
+499  2024-11-24 23:10 LA8OM          3.546    CW      14   599 599 |TS-480|<strong>Norway</strong>|1125km
+500  2024-11-24 23:11 M0XUU          3.546    CW      14   599 599 |TS-480|<strong>England</strong>|1029km
+501  2024-11-24 23:11 PA3AAV         3.546    CW      14   599 599 |TS-480|<strong>Netherlands</strong>|708km

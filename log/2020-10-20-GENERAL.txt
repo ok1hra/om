@@ -455,3 +455,6 @@
 455  2024-11-16 18:11 NJ5M          21.008    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
 456  2024-11-16 18:12 N9RV          14.024    CW       8   599 599 |IC-705|<strong>United States</strong>|7223km
 457  2024-11-16 20:05 N4DX          14.028    CW       5   599 599 |IC-705|<strong>United States</strong>|7223km
+458  2024-11-21 17:23 WX7AA         28.003    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
+459  2024-11-21 17:25 CT9ABY        28.017    CW     599   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
+460  2024-11-22 04:02 ZF1MA         14.008    CW     599   599 599 |IC-705|<strong>Cayman Is.</strong>|8743km
