@@ -24,7 +24,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '20241116';
+$REV = '2024-12-21';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -796,7 +796,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	///////////////////////////////////////////////////////
 
 	if (file_exists("$logpath.adif")) { } else {       // if adif dont exist, create
-		file_put_contents("$logpath.adif", "Created by Óm PHP form ver. 0.1 - RemoteQTH.com\nPCall=$call\n<adif_ver:4>1.00 <eoh>\n");
+		file_put_contents("$logpath.adif", "Created by Óm PHP form rev.$REV - RemoteQTH.com\nPCall=$call\n<adif_ver:4>1.00 <eoh>\n");
 		$valuex = file("$logpath.adif");
 	}
 	if ($_POST['send'] == '*?'){                 // detection button Call?
@@ -838,11 +838,11 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){            // CW only
 				if ($conteststyle == 'run'){
 					udpsocket($IP, port(), $CQ );
-					$mhz = round(freq($rigip)/1000000, 3);
+					$mhz = number_format(round(freq($rigip)/1000000, 3), 3);
 					$show = $CQ.' <span class="'.$style.'">('.$mhz.' Mhz)</span>' ;
 				}elseif ($conteststyle == 'sp'){
 					//udpsocket($IP, port(), $call );
-					//$mhz = round(freq($rigip)/1000000, 3);
+					//$mhz = number_format(round(freq($rigip)/1000000, 3), 3);
 					//$show = $call.' <span class="'.$style.'">('.$mhz.' Mhz)</span>' ;
 					$show = 'Please enter call ' ;
 				}
@@ -855,7 +855,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 				if ($conteststyle == 'run'){
 					if (preg_match('*(Russia|Kaliningrad)*', GetDxcc($callr))) {
 						udpsocket($IP, port(), $CQ );
-						$mhz = round(freq($rigip)/1000000, 3);
+						$mhz = number_format(round(freq($rigip)/1000000, 3), 3);
 						$show = $CQ.' <span class="'.$style.'">('.$mhz.' Mhz) | Occupant detected!</span>' ;
 					} else {
 						udpsocket($IP, port(), $TXEXCH);
@@ -874,7 +874,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 							udpsocket($IP, port(), $call );
 						}
 					//	$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
-						$mhz = round(freq($rigip)/1000000, 3);
+						$mhz =number_format( round(freq($rigip)/1000000, 3), 3);
 						$show = $call.' <span class="'.$style.'">('.$mhz.' Mhz)</span>' ;
 					}
 				}
@@ -900,7 +900,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 				}
 			$prevexch='<input type="submit" name="send" value="previous exchange" class="qso"><input type="submit" name="send" value="Check" class="qso">';
 			}
-			$mhz = round(freq($rigip)/1000000, 3);
+			$mhz = number_format(round(freq($rigip)/1000000, 3), 3);
 			if ($trx == '1'){
 				$NOTE = $trx1name;
 			}
@@ -942,7 +942,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 				.str_pad($callr, 14, " ", STR_PAD_RIGHT)
 				.str_pad($mhz, 6, " ", STR_PAD_LEFT)
 				.str_pad($mode, 6, " ", STR_PAD_LEFT)
-				.str_pad($qsonrr, 8, " ", STR_PAD_LEFT)
+				.str_pad($qsonrr, 12, " ", STR_PAD_LEFT)
 				.'   '
 				.str_pad(rst($mode), 3, " ", STR_PAD_LEFT)
 				.' '
@@ -968,10 +968,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		$af2 = '';
 	}
 	if ($conteststyle == 'run'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=sp&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>RUN</span><span class="onhover">S&P</span></a>';
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=sp&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>RUN</span><span class="onhover" title="'.$call.'-'.$locator.'">S&P</span></a>';
 	}
 	if ($conteststyle == 'sp'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=run&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>S&P</span><span class="onhover">RUN</span></a>';
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=run&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>S&P</span><span class="onhover" title="'.$call.'-'.$locator.'">RUN</span></a>';
 	}
 	// one button
 //	if ($trx == '1'){
@@ -984,21 +984,27 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 //		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=1" class="switch"><span>'.$trx3name.'</span><span class="onhover">'.$trx1name.'</span></a>';
 //	}
 	// three button
+$cwcliport  = '89';		// UDP port for CW message
+$fskport    = '89';		// UDP port for RTTY message
+$catport    = '81';		// http port for get ferquency/mode
+$catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
+
 	echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=1" class="switch" ';
 		if ($trx == '1'){
 			echo 'style="background-color: #080;"';
 		}
-		echo '><span>'.$trx1name.'</span><span class="onhover">'.$trx1name.'</span></a>';
+		echo '><span>'.$trx1name.'</span><span class="onhover" title="'.$IP1.' | udpCW '.$cwcliport.' | udpFSK '.$fskport.' | udpCAT '.$catcmdport.' | httpCAT '.$catport.'">'.$trx1name.'</span></a>';
 	echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=2" class="switch" ';
 		if ($trx == '2'){
 			echo 'style="background-color: #080;"';
 		}
-		echo '><span>'.$trx2name.'</span><span class="onhover">'.$trx2name.'</span></a>';
+		echo '><span>'.$trx2name.'</span><span class="onhover" title="'.$IP2.' | udpCW '.$cwcliport.' | udpFSK '.$fskport.' | udpCAT '.$catcmdport.' | httpCAT '.$catport.'">'.$trx2name.'</span></a>';
 	echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx=3" class="switch" ';
 		if ($trx == '3'){
 			echo 'style="background-color: #080;"';
 		}
-		echo '><span>'.$trx3name.'</span><span class="onhover">'.$trx3name.'</span></a>';
+		echo '><span>'.$trx3name.'</span><span class="onhover" title="'.$IP3.' | udpCW '.$cwcliport.' | udpFSK '.$fskport.' | udpCAT '.$catcmdport.' | httpCAT '.$catport.'">'.$trx3name.'</span></a>';
+	echo '<span style="font-size:50%; color:#666; margin-left: 10px;"> rev.'.$REV.'</span>';
 	?>
 	<input style="display: none" type="submit" name='send' value="Send">	<!-- hidden button - use if press enter (without click any other button)-->  <?
 	if ($mode == 'CW' || $mode == 'CWR'){?>

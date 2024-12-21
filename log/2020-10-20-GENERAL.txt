@@ -458,3 +458,29 @@
 458  2024-11-21 17:23 WX7AA         28.003    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
 459  2024-11-21 17:25 CT9ABY        28.017    CW     599   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
 460  2024-11-22 04:02 ZF1MA         14.008    CW     599   599 599 |IC-705|<strong>Cayman Is.</strong>|8743km
+461  2024-11-26 19:09 V2BK          14.031    CW     599   599 599 |IC-705|<strong>Antigua & Barbuda</strong>|7580km
+462  2024-11-30 01:55 VP5/K4QPL       7.03    CW     599   599 599 |IC-705|<strong>Turks & Caicos</strong>|7944km
+463  2024-12-08 18:49 II6RMLN       10.119    CW     599   599 599 |IC-705|<strong>Italy</strong>|923km
+464  2024-12-09 17:33 AM100RAYO     14.022    CW     599   599 599 |IC-705|<strong>Spain</strong>|1772km
+465  2024-12-09 19:35 SN0MARCONI     1.829    CW     599   599 599 |IC-705|<strong>Poland</strong>|515km
+466  2024-12-10 19:08 TO9W          14.023    CW     599   599 599 |IC-705|<strong>Unknown</strong>|5736km
+467  2024-12-11 11:04 OY1CT         28.032    CW     599   599 599 |IC-705|<strong>Faroe Is.</strong>|1850km
+468  2024-12-13 19:11 VE2ZM         14.059    CW     229   599 599 |IC-705|<strong>Canada</strong>|6615km
+469  2024-12-19 22:04 K8Y            7.023    CW     599   599 599 |IC-705|<strong>United States</strong>|7223km
+470  2024-12-21 17:31 NJ4P          21.087   FSK       4   599 599 |IC-705|<strong>United States</strong>|7223km
+471  2024-12-21 17:34 N7US          21.087   FSK       4   599 599 |IC-705|<strong>United States</strong>|7223km
+472  2024-12-21 17:37 K1LZ          21.087   FSK       5   599 599 |IC-705|<strong>United States</strong>|7223km
+473  2024-12-21 17:43 K1MK          21.093   FSK       5   599 599 |IC-705|<strong>United States</strong>|7223km
+474  2024-12-21 17:43 WV4AM         21.093   FSK       5   599 599 |IC-705|<strong>United States</strong>|7223km
+475  2024-12-21 17:48 W9ILY         21.093   FSK       4   599 599 |IC-705|<strong>United States</strong>|7223km
+476  2024-12-21 17:49 K3MM          21.093   FSK       5   599 599 |IC-705|<strong>United States</strong>|7223km
+477  2024-12-21 17:52 WM5DX         21.093   FSK       4   599 599 |IC-705|<strong>United States</strong>|7223km
+478  2024-12-21 17:56 OK1AUO        21.094   FSK      15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+479  2024-12-21 17:57 WO2T          21.094   FSK       5   599 599 |IC-705|<strong>United States</strong>|7223km
+480  2024-12-21 18:11 AG4TT         14.092   FSK       5   599 599 |IC-705|<strong>United States</strong>|7223km
+481  2024-12-21 18:16 AA2EQ         14.083   FSK       5   599 599 |IC-705|<strong>United States</strong>|7223km
+482  2024-12-21 22:19 YO9HP          7.043   FSK          20   599 599 |IC-705|<strong>Romania</strong>|1085km
+483  2024-12-21 22:19 K1LZ           7.043   FSK           5   599 599 |IC-705|<strong>United States</strong>|7223km
+484  2024-12-21 22:20 W9ILY          7.043   FSK           4   599 599 |IC-705|<strong>United States</strong>|7223km
+485  2024-12-21 22:21 K1MK           7.043   FSK           5   599 599 |IC-705|<strong>United States</strong>|7223km
+486  2024-12-21 22:21 GW0A           7.043   FSK          14   599 599 |IC-705|<strong>Wales</strong>|1243km

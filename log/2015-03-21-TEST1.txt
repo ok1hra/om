@@ -131,3 +131,7 @@
 131  2024-01-13 21:08 K2K           28.034    CW     123   599 599 |IC-746| <strong>United States</strong> | QRB 7223km 
 132  2024-01-13 21:12 K3K           28.034    CW     789   599 599 |IC-746|<strong>United States</strong>| QRB 7223km 
 133  2024-01-13 21:13 K4K           28.034    CW     458   599 599 |IC-746|<strong>United States</strong>|7223km
+134  2024-12-21 22:09 K1EA           7.044   FSK      33   599 599 |IC-705|<strong>United States</strong>|7223km
+135  2024-12-21 22:10 K2EA           7.040   FSK     133   599 599 |IC-705|<strong>United States</strong>|7223km
+136  2024-12-21 22:11 K3EA           7.000   FSK      55   599 599 |IC-705|<strong>United States</strong>|7223km
+137  2024-12-21 22:13 K4EA           7.000   FSK    JOHN 122   599 599 |IC-705|<strong>United States</strong>|7223km

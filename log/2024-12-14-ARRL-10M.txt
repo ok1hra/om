@@ -1,0 +1,112 @@
+1    2024-12-14 07:07 HL2BQG        28.016    CW     276   599 599 |TS-480|<strong>South Korea</strong>|8256km
+2    2024-12-14 07:08 JJ0VNR        28.016    CW     498   599 599 |TS-480|<strong>Japan</strong>|9074km
+3    2024-12-14 07:12 4X/OM2IB      28.057    CW     116   599 599 |TS-480|<strong>Israel</strong>|2663km
+4    2024-12-14 07:13 JH1GEX        28.039    CW      86   599 599 |TS-480|<strong>Japan</strong>|9074km
+5    2024-12-14 07:18 JA7NVF        28.043    CW     454   599 599 |TS-480|<strong>Japan</strong>|9074km
+6    2024-12-14 14:21 DL5XJ          28.02    CW     130   599 599 |TS-480|<strong>Germany</strong>|326km
+7    2024-12-14 14:22 TI2OY          28.02    CW      59   599 599 |TS-480|<strong>Costa Rica</strong>|9755km
+8    2024-12-14 14:23 N0KSV          28.02    CW      NY   599 599 |TS-480|<strong>United States</strong>|7223km
+9    2024-12-14 14:25 VE3YT          28.02    CW      ON   599 599 |TS-480|<strong>Canada</strong>|6615km
+10   2024-12-14 14:25 W9XT           28.02    CW      WI   599 599 |TS-480|<strong>United States</strong>|7223km
+11   2024-12-14 14:26 K0AD           28.02    CW      MN   599 599 |TS-480|<strong>United States</strong>|7223km
+12   2024-12-14 14:26 W2GDJ          28.02    CW      NY   599 599 |TS-480|<strong>United States</strong>|7223km
+13   2024-12-14 14:27 KN0V           28.02    CW      MN   599 599 |TS-480|<strong>United States</strong>|7223km
+14   2024-12-14 14:29 W4TG           28.02    CW      VA   599 599 |TS-480|<strong>United States</strong>|7223km
+15   2024-12-14 14:29 K4OV           28.02    CW      NC   599 599 |TS-480|<strong>United States</strong>|7223km
+16   2024-12-14 14:29 N6AR           28.02    CW      FL   599 599 |TS-480|<strong>United States</strong>|7223km
+17   2024-12-14 14:30 N4EK           28.02    CW      FL   599 599 |TS-480|<strong>United States</strong>|7223km
+18   2024-12-14 14:30 N2G            28.02    CW      NJ   599 599 |TS-480|<strong>United States</strong>|7223km
+19   2024-12-14 14:31 K1ETA          28.02    CW      RI   599 599 |TS-480|<strong>United States</strong>|7223km
+20   2024-12-14 14:33 W9MAF          28.02    CW      MO   599 599 |TS-480|<strong>United States</strong>|7223km
+21   2024-12-14 14:36 AB2E          28.016    CW      NJ   599 599 |TS-480|<strong>United States</strong>|7223km
+22   2024-12-14 14:36 K3QP          28.016    CW      PA   599 599 |TS-480|<strong>United States</strong>|7223km
+23   2024-12-14 14:37 N9LQ          28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+24   2024-12-14 14:38 N3CKI         28.016    CW      NC   599 599 |TS-480|<strong>United States</strong>|7223km
+25   2024-12-14 14:39 K5MR          28.016    CW      TX   599 599 |TS-480|<strong>United States</strong>|7223km
+26   2024-12-14 14:39 N9DJ          28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+27   2024-12-14 14:41 N4ZR          28.016    CW      MD   599 599 |TS-480|<strong>United States</strong>|7223km
+28   2024-12-14 14:41 N3ATQ         28.016    CW      PA   599 599 |TS-480|<strong>United States</strong>|7223km
+29   2024-12-14 14:43 N6DW          28.016    CW      VA   599 599 |TS-480|<strong>United States</strong>|7223km
+30   2024-12-14 14:43 WO9B          28.016    CW      WI   599 599 |TS-480|<strong>United States</strong>|7223km
+31   2024-12-14 14:44 KI0F          28.016    CW      MN   599 599 |TS-480|<strong>United States</strong>|7223km
+32   2024-12-14 14:45 K9ABR         28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+33   2024-12-14 14:46 N1TO          28.016    CW      FL   599 599 |TS-480|<strong>United States</strong>|7223km
+34   2024-12-14 14:46 NT0C          28.016    CW      MO   599 599 |TS-480|<strong>United States</strong>|7223km
+35   2024-12-14 14:47 VE3XAT        28.016    CW      ON   599 599 |TS-480|<strong>Canada</strong>|6615km
+36   2024-12-14 14:48 K2QB          28.016    CW      NY   599 599 |TS-480|<strong>United States</strong>|7223km
+37   2024-12-14 14:49 K0KX          28.016    CW      SD   599 599 |TS-480|<strong>United States</strong>|7223km
+38   2024-12-14 14:52 WB5YUZ        28.016    CW      TX   599 599 |TS-480|<strong>United States</strong>|7223km
+39   2024-12-14 14:53 VE3VA         28.016    CW      ON   599 599 |TS-480|<strong>Canada</strong>|6615km
+40   2024-12-14 14:55 K5VIP         28.016    CW      VA   599 599 |TS-480|<strong>United States</strong>|7223km
+41   2024-12-14 14:56 WA8RCN        28.016    CW      OH   599 599 |TS-480|<strong>United States</strong>|7223km
+42   2024-12-14 14:57 KD5J          28.016    CW      AR   599 599 |TS-480|<strong>United States</strong>|7223km
+43   2024-12-14 14:57 K4XL          28.016    CW      VA   599 599 |TS-480|<strong>United States</strong>|7223km
+44   2024-12-14 14:58 W0ZA          28.016    CW      NE   599 599 |TS-480|<strong>United States</strong>|7223km
+45   2024-12-14 14:59 WN7S          28.016    CW      VA   599 599 |TS-480|<strong>United States</strong>|7223km
+46   2024-12-14 14:59 N5KWN         28.016    CW      TX   599 599 |TS-480|<strong>United States</strong>|7223km
+47   2024-12-14 15:00 AA7V          28.016    CW      AZ   599 599 |TS-480|<strong>United States</strong>|7223km
+48   2024-12-14 15:00 N5TOO         28.016    CW      GA   599 599 |TS-480|<strong>United States</strong>|7223km
+49   2024-12-14 15:00 W1UJ          28.016    CW      MA   599 599 |TS-480|<strong>United States</strong>|7223km
+50   2024-12-14 15:01 AA8R          28.016    CW      FL   599 599 |TS-480|<strong>United States</strong>|7223km
+51   2024-12-14 15:01 WD5EI         28.016    CW      TX   599 599 |TS-480|<strong>United States</strong>|7223km
+52   2024-12-14 15:02 N5RP          28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+53   2024-12-14 15:02 N3KK          28.016    CW      SC   599 599 |TS-480|<strong>United States</strong>|7223km
+54   2024-12-14 15:03 W0GXA         28.016    CW      IA   599 599 |TS-480|<strong>United States</strong>|7223km
+55   2024-12-14 15:03 K0EA          28.016    CW      MN   599 599 |TS-480|<strong>United States</strong>|7223km
+56   2024-12-14 15:04 AH2O          28.016    CW      NY   599 599 |TS-480|<strong>Guam</strong>|11454km
+57   2024-12-14 15:05 WM4Q          28.016    CW      TN   599 599 |TS-480|<strong>United States</strong>|7223km
+58   2024-12-14 15:06 W7WZ          28.016    CW      SC   599 599 |TS-480|<strong>United States</strong>|7223km
+59   2024-12-14 15:06 W9KM          28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+60   2024-12-14 15:06 W1EQ          28.016    CW      CT   599 599 |TS-480|<strong>United States</strong>|7223km
+61   2024-12-14 15:07 K1KA          28.016    CW      NH   599 599 |TS-480|<strong>United States</strong>|7223km
+62   2024-12-14 15:08 W5ZR          28.016    CW      LA   599 599 |TS-480|<strong>United States</strong>|7223km
+63   2024-12-14 15:09 N9MSG         28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+64   2024-12-14 15:09 W3KB          28.016    CW      PA   599 599 |TS-480|<strong>United States</strong>|7223km
+65   2024-12-14 15:10 K9CN          28.016    CW      MN   599 599 |TS-480|<strong>United States</strong>|7223km
+66   2024-12-14 15:10 N7WY          28.016    CW      MO   599 599 |TS-480|<strong>United States</strong>|7223km
+67   2024-12-14 15:12 K3VA          28.016    CW      PA   599 599 |TS-480|<strong>United States</strong>|7223km
+68   2024-12-14 15:12 VE2OWL        28.016    CW      QC   599 599 |TS-480|<strong>Canada</strong>|6615km
+69   2024-12-14 15:13 KN4JN         28.016    CW      FL   599 599 |TS-480|<strong>United States</strong>|7223km
+70   2024-12-14 15:13 W0TG          28.016    CW      TX   599 599 |TS-480|<strong>United States</strong>|7223km
+71   2024-12-14 15:13 DL0WH         28.016    CW     178   599 599 |TS-480|<strong>Germany</strong>|326km
+72   2024-12-14 15:14 K5RX          28.016    CW      TX   599 599 |TS-480|<strong>United States</strong>|7223km
+73   2024-12-14 15:14 WA8SRA        28.016    CW      OH   599 599 |TS-480|<strong>United States</strong>|7223km
+74   2024-12-14 15:15 KF8VS         28.016    CW      IN   599 599 |TS-480|<strong>United States</strong>|7223km
+75   2024-12-14 15:16 AK1MD         28.016    CW      MA   599 599 |TS-480|<strong>United States</strong>|7223km
+76   2024-12-14 15:16 KA8CNI        28.016    CW      OH   599 599 |TS-480|<strong>United States</strong>|7223km
+77   2024-12-14 15:17 K9KE          28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+78   2024-12-14 15:17 VA3TNM        28.016    CW      ON   599 599 |TS-480|<strong>Canada</strong>|6615km
+79   2024-12-14 15:18 W0GAS         28.016    CW      CO   599 599 |TS-480|<strong>United States</strong>|7223km
+80   2024-12-14 15:18 W2YV          28.016    CW      NY   599 599 |TS-480|<strong>United States</strong>|7223km
+81   2024-12-14 15:20 KD2KW         28.016    CW      TX   599 599 |TS-480|<strong>United States</strong>|7223km
+82   2024-12-14 15:22 N8HSG         28.016    CW      OH   599 599 |TS-480|<strong>United States</strong>|7223km
+83   2024-12-14 15:22 PY2QT         28.016    CW     104   599 599 |TS-480|<strong>Brazil</strong>|9901km
+84   2024-12-14 15:23 K9WA          28.016    CW      IL   599 599 |TS-480|<strong>United States</strong>|7223km
+85   2024-12-14 15:25 WF4DX         28.016    CW      FL   599 599 |TS-480|<strong>United States</strong>|7223km
+86   2024-12-14 15:25 W2CLA         28.016    CW      NJ   599 599 |TS-480|<strong>United States</strong>|7223km
+87   2024-12-14 15:45 AD1C          28.016    CW      CO   599 599 |TS-480|<strong>United States</strong>|7223km
+88   2024-12-14 15:45 K3QIA         28.016    CW      PA   599 599 |TS-480|<strong>United States</strong>|7223km
+89   2024-12-14 15:46 OK1FKD        28.016    CW      52   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+90   2024-12-14 15:47 K7SV          28.016    CW      VA   599 599 |TS-480|<strong>United States</strong>|7223km
+91   2024-12-14 15:53 OK1PFM        28.021    CW      12   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+92   2024-12-14 15:54 K3PA          28.021    CW      KS   599 599 |TS-480|<strong>United States</strong>|7223km
+93   2024-12-14 15:55 K6LL          28.021    CW      AZ   599 599 |TS-480|<strong>United States</strong>|7223km
+94   2024-12-14 15:57 W9OD          28.021    CW      WI   599 599 |TS-480|<strong>United States</strong>|7223km
+95   2024-12-14 16:00 AK2S          28.021    CW      NJ   599 599 |TS-480|<strong>United States</strong>|7223km
+96   2024-12-14 16:04 NS4X          28.021    CW      TN   599 599 |TS-480|<strong>United States</strong>|7223km
+97   2024-12-14 16:07 OK1DKR        28.021    CW      96   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+98   2024-12-14 16:08 KB1QU         28.021    CW      ME   599 599 |TS-480|<strong>United States</strong>|7223km
+99   2024-12-14 16:09 OK1AUO        28.021    CW      79   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+100  2024-12-14 16:11 W5TM          28.021    CW      OK   599 599 |TS-480|<strong>United States</strong>|7223km
+101  2024-12-14 16:31 NW8U          28.029    CW      WV   599 599 |TS-480|<strong>United States</strong>|7223km
+102  2024-12-14 16:36 AA3R          28.029    CW      DE   599 599 |IC-746|<strong>United States</strong>|7223km
+103  2024-12-14 16:36 K6ZB          28.029    CW      TX   599 599 |IC-746|<strong>United States</strong>|7223km
+104  2024-12-14 16:37 W1FM          28.029    CW      MA   599 599 |IC-746|<strong>United States</strong>|7223km
+105  2024-12-14 16:38 KB3Z          28.029    CW      PA   599 599 |IC-746|<strong>United States</strong>|7223km
+106  2024-12-14 16:39 K4IU          28.029    CW      MD   599 599 |IC-746|<strong>United States</strong>|7223km
+107  2024-12-14 16:39 W8TR          28.029    CW      MI   599 599 |IC-746|<strong>United States</strong>|7223km
+108  2024-12-14 16:41 VE3KG         28.029    CW      ON   599 599 |IC-746|<strong>Canada</strong>|6615km
+109  2024-12-14 16:42 W3RMO         28.029    CW      SD   599 599 |IC-746|<strong>United States</strong>|7223km
+110  2024-12-14 16:42 WA2VZQ        28.029    CW      NY   599 599 |IC-746|<strong>United States</strong>|7223km
+111  2024-12-14 16:43 K4ORD         28.029    CW      VA   599 599 |IC-746|<strong>United States</strong>|7223km
+112  2024-12-14 16:45 K8GL          28.029    CW      MI   599 599 |IC-746|<strong>United States</strong>|7223km
