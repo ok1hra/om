@@ -484,3 +484,6 @@
 484  2024-12-21 22:20 W9ILY          7.043   FSK           4   599 599 |IC-705|<strong>United States</strong>|7223km
 485  2024-12-21 22:21 K1MK           7.043   FSK           5   599 599 |IC-705|<strong>United States</strong>|7223km
 486  2024-12-21 22:21 GW0A           7.043   FSK          14   599 599 |IC-705|<strong>Wales</strong>|1243km
+487  2024-12-21 22:24 M0XAC          7.043   FSK          14   599 599 |IC-705|<strong>England</strong>|1029km
+488  2024-12-21 22:27 AG4TT          7.043   FSK           5   599 599 |IC-705|<strong>United States</strong>|7223km
+489  2024-12-25 14:19 NP3YL         28.033    CW         599   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
