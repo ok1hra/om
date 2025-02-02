@@ -24,7 +24,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '2024-12-21';
+$REV = '2025-02-02';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -46,7 +46,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
-	2025-01 - manual QSO number decrease (start at 001 in exist log) via ?nr=xx in url
+	2025-02 - manual QSO number decrease (start at 001 in exist log) via ?nr=xx in url
 	2024-11 - Three button for switch between three TRX
 	2024-01 - Add FM mode, add two TRX switch, TRX name and log it
 	2023-12 - Clear RIT, add FSK mode (support IC705), fix configure
