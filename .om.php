@@ -32,6 +32,9 @@ $logpath = 'log/'.$log ;
 $call = $_GET['call'];
 $exch = $_GET['exch'];
 $trx = $_GET['trx'];
+$nr = isset($_GET['nr']) ? $_GET['nr'] : '0';	// <-- manual QSO number decrease
+
+
 global $preset2;
 ?>
 <title>ॐ  | <? echo $log.'-'.$call.' | '.$REV ?></title>
@@ -43,6 +46,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
+	2025-01 - manual QSO number decrease (start at 001 in exist log) via ?nr=xx in url
 	2024-11 - Three button for switch between three TRX
 	2024-01 - Add FM mode, add two TRX switch, TRX name and log it
 	2023-12 - Clear RIT, add FSK mode (support IC705), fix configure
@@ -645,7 +649,7 @@ function qsonr($log) {
 			$qsonrs++;
 		}
 		fclose($handle);
-		return $qsonrs;
+		return $qsonrs - $nr;
 	} else {                              // if log dont exist, create
 		file_put_contents($log, '');
 		$valuex = file($log);

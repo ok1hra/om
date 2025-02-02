@@ -1,0 +1,15 @@
+1    2025-01-19 09:31 OK3DM        144.191   CW   38 JN79BV   23km 128°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+2    2025-01-19 09:44 OM3KUK       144.183  USB   53 JN99BB  325km 108°    59 59 |IC-705|<strong>Slovakia</strong>|296km
+3    2025-01-19 09:45 OK1RDO       144.208  USB   38 JN69KL   94km 230°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+4    2025-01-19 09:46 OK1UEI       144.215  USB   81 JN79FV   44km 108°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+5    2025-01-19 09:47 OK2KAA       144.228  USB  129 JN79QJ  128km 122°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+6    2025-01-19 09:47 OK1KTW       144.234  USB  158 JN89IW  203km  92°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+7    2025-01-19 09:51 OM2RL        144.245   CW   46 JN88NR  276km 120°   599 599 |IC-705|<strong>Slovakia</strong>|296km
+8    2025-01-19 09:52 OK2DSX       144.273  USB   99 JO60RN   67km 334°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+9    2025-01-19 10:03 OK2KRT       144.260  USB  105 JN99BK  312km 100°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+10   2025-01-19 10:04 OK1XHI       144.284  USB   82 JO70DB   30km  81°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+11   2025-01-19 10:06 OK2VZE       144.295  USB   27 JN89JM  217km 104°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+12   2025-01-19 10:09 OK1DOL       144.313  USB  138 JN69OU   51km 249°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+13   2025-01-19 10:10 OK1KMP       144.326  USB  134 JO70UK  138km  70°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+14   2025-01-19 10:14 OK1VRY       144.195  USB  043 JN79FP   59km 135°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+15   2025-01-19 10:16 OK1KF        144.251  USB   57 JN79IW   60km  99°    59 59 |IC-705|<strong>Czech Republic</strong>|0km

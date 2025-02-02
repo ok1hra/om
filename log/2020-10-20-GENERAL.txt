@@ -487,3 +487,65 @@
 487  2024-12-21 22:24 M0XAC          7.043   FSK          14   599 599 |IC-705|<strong>England</strong>|1029km
 488  2024-12-21 22:27 AG4TT          7.043   FSK           5   599 599 |IC-705|<strong>United States</strong>|7223km
 489  2024-12-25 14:19 NP3YL         28.033    CW         599   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
+490  2024-12-31 23:38 OK2RZ          0.000    CW          59   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+491  2024-12-31 23:39 OK4YL          0.000   SSB          59    59 59 |IC-746|<strong>Czech Republic</strong>|0km
+492  2025-01-08 20:44 II1WWA         3.514    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+493  2025-01-08 20:45 GB2WWA         3.523    CW         599   599 599 |IC-705|<strong>England</strong>|1029km
+494  2025-01-08 21:28 II8WWA         3.536    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+495  2025-01-08 21:30 II2WWA         3.540    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+496  2025-01-08 22:19 II5WWA         3.523    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+497  2025-01-13 19:29 CQ7WWA        14.018    CW         599   599 599 |IC-705|<strong>Portugal</strong>|2247km
+498  2025-01-20 21:19 II2WWA         7.015    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+499  2025-01-25 02:47 DL8ULF         1.874    CW          14   599 599 |IC-705|<strong>Germany</strong>|326km
+500  2025-01-25 02:49 SP8UFT         1.870    CW          15   599 599 |IC-705|<strong>Poland</strong>|515km
+501  2025-01-25 02:52 SN5J           1.868    CW          15   599 599 |IC-705|<strong>Poland</strong>|515km
+502  2025-01-25 02:54 SP5EXA         1.868    CW          15   599 599 |IC-705|<strong>Poland</strong>|515km
+503  2025-01-25 02:58 OM7M           1.856    CW          15   599 599 |IC-705|<strong>Slovakia</strong>|296km
+504  2025-01-25 03:02 HB9TOC         1.853    CW          14   599 599 |IC-705|<strong>Switzerland</strong>|613km
+505  2025-01-25 03:04 HB7X           1.852    CW          14   599 599 |IC-705|<strong>Switzerland</strong>|613km
+506  2025-01-25 03:05 E73B           1.850    CW          15   599 599 |IC-705|<strong>Bosnia-Herzegovina</strong>|791km
+507  2025-01-25 03:07 LY2XW          1.849    CW          15   599 599 |IC-705|<strong>Lithuania</strong>|897km
+508  2025-01-25 03:08 LX1NO          1.848    CW          14   599 599 |IC-705|<strong>Luxembourg</strong>|590km
+509  2025-01-25 03:09 YU7KW          1.848    CW          15   599 599 |IC-705|<strong>Serbia</strong>|737km
+510  2025-01-25 03:10 OP3T           1.847    CW          15   599 599 |IC-705|<strong>Belgium</strong>|712km
+511  2025-01-25 03:11 PE6Q           1.847    CW          14   599 599 |IC-705|<strong>Netherlands</strong>|708km
+512  2025-01-25 03:12 YL73R          1.845    CW          15   599 599 |IC-705|<strong>Latvia</strong>|997km
+513  2025-01-25 03:14 S57Q           1.845    CW          15   599 599 |IC-705|<strong>Slovenia</strong>|455km
+514  2025-01-25 03:15 DL2025E        1.844    CW          14   599 599 |IC-705|<strong>Germany</strong>|326km
+515  2025-01-25 03:15 SN7Q           1.843    CW          15   599 599 |IC-705|<strong>Poland</strong>|515km
+516  2025-01-25 03:19 SZ1A           1.841    CW          20   599 599 |IC-705|<strong>Greece</strong>|1534km
+517  2025-01-25 03:40 S57Q           1.840    CW          15   599 599 |IC-705|<strong>Slovenia</strong>|455km
+518  2025-01-25 03:41 IP9R           1.839    CW          15   599 599 |IC-705|<strong>Italy</strong>|923km
+519  2025-01-25 03:42 OK5T           1.839    CW          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+520  2025-01-25 03:46 OL1R           1.837    CW          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+521  2025-01-25 03:48 IG9/S51V       1.835    CW          33   599 599 |IC-705|<strong>Italy (Africa)</strong>|1641km
+522  2025-01-25 03:49 DP5X           1.834    CW          14   599 599 |IC-705|<strong>Germany</strong>|326km
+523  2025-01-25 03:51 DL1T           1.834    CW          14   599 599 |IC-705|<strong>Germany</strong>|326km
+524  2025-01-25 03:54 DA1DX          1.832    CW          14   599 599 |IC-705|<strong>Germany</strong>|326km
+525  2025-01-25 03:56 9A5M           1.831    CW          15   599 599 |IC-705|<strong>Croatia</strong>|519km
+526  2025-01-25 03:59 YL3FT          1.830    CW          15   599 599 |IC-705|<strong>Latvia</strong>|997km
+527  2025-01-25 04:03 HG8DX          1.828    CW          15   599 599 |IC-705|<strong>Hungary</strong>|449km
+528  2025-01-25 04:03 TF3D           1.828    CW          40   599 599 |IC-705|<strong>Iceland</strong>|2635km
+529  2025-01-25 04:11 S51DX          1.824    CW          15   599 599 |IC-705|<strong>Slovenia</strong>|455km
+530  2025-01-25 04:13 YQ6A           1.823    CW          20   599 599 |IC-705|<strong>Romania</strong>|1085km
+531  2025-01-25 04:13 G5W            1.822    CW          14   599 599 |IC-705|<strong>England</strong>|1029km
+532  2025-01-25 04:16 S52O           1.820    CW          15   599 599 |IC-705|<strong>Slovenia</strong>|455km
+533  2025-01-25 04:17 DR4A           1.820    CW          14   599 599 |IC-705|<strong>Germany</strong>|326km
+534  2025-01-25 04:19 US5WE          1.819    CW          16   599 599 |IC-705|<strong>Ukraine</strong>|1142km
+535  2025-01-25 04:20 OZ5W           1.818    CW          14   599 599 |IC-705|<strong>Denmark</strong>|634km
+536  2025-01-25 04:27 S50W           1.814    CW          15   599 599 |IC-705|<strong>Slovenia</strong>|455km
+537  2025-01-26 03:41 HB9RB          1.870    CW          14   599 599 |IC-705|<strong>Switzerland</strong>|613km
+538  2025-01-26 03:42 YT0A           1.869    CW          15   599 599 |IC-705|<strong>Serbia</strong>|737km
+539  2025-01-26 03:45 ES7A           1.868    CW          15   599 599 |IC-705|<strong>Estonia</strong>|1227km
+540  2025-01-26 03:48 OK2W           1.863    CW          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+541  2025-01-26 03:49 OL3Z           1.858    CW          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+542  2025-01-26 03:50 HG7T           1.857    CW          15   599 599 |IC-705|<strong>Hungary</strong>|449km
+543  2025-01-26 03:51 OM7K           1.855    CW          15   599 599 |IC-705|<strong>Slovakia</strong>|296km
+544  2025-01-26 03:57 DK8FD          1.847    CW          14   599 599 |IC-705|<strong>Germany</strong>|326km
+545  2025-01-26 04:06 LY7M           1.836    CW          15   599 599 |IC-705|<strong>Lithuania</strong>|897km
+546  2025-01-26 04:07 SE4A           1.835    CW          14   599 599 |IC-705|<strong>Sweden</strong>|1049km
+547  2025-01-26 04:15 F5IN           1.830    CW          14   599 599 |IC-705|<strong>France</strong>|885km
+548  2025-01-29 19:25 HZ1WWA        14.019    CW         599   599 599 |TS-480|<strong>Saudi Arabia</strong>|4019km
+549  2025-02-02 11:02 OK1KAD       144.225  USB  002 JO60LJ   77km 303°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+550  2025-02-02 11:14 OK1KUR       144.332  USB  004 JN69QB  113km 199°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+551  2025-02-02 11:24 OK7NV        144.154   CW   18 JN79IO   76km 127°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
