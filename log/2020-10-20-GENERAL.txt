@@ -549,3 +549,13 @@
 549  2025-02-02 11:02 OK1KAD       144.225  USB  002 JO60LJ   77km 303°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
 550  2025-02-02 11:14 OK1KUR       144.332  USB  004 JN69QB  113km 199°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
 551  2025-02-02 11:24 OK7NV        144.154   CW   18 JN79IO   76km 127°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+552  2025-03-04 17:40 DM0VOG       144.308   CW  599 JO60QU   99km 339°   599 599 |IC-705|<strong>Germany</strong>|326km
+553  2025-03-15 19:40 NP3A          28.052    CW         559   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
+554  2025-03-18 18:36 N2GSL         21.063    CW         579   599 599 |IC-705|<strong>United States</strong>|7223km
+555  2025-03-18 19:01 K3ES          21.051    CW         559   599 599 |IC-705|<strong>United States</strong>|7223km
+556  2025-03-18 19:08 KC2KC         14.062    CW         559   599 599 |IC-705|<strong>United States</strong>|7223km
+557  2025-03-18 19:23 WI2X          21.065    CW         559   599 599 |IC-705|<strong>United States</strong>|7223km
+558  2025-03-25 19:25 V26K          28.026    CW         599   599 599 |IC-705|<strong>Antigua & Barbuda</strong>|7580km
+559  2025-04-01 18:03 DP9X         144.233  USB   51 JO42SC  381km 309°    59 59 |IC-705|<strong>Germany</strong>|326km
+560  2025-04-01 18:40 DB6NT        144.222  USB59 JO50VJ MIKE     km    °    59 59 |IC-705|<strong>Germany</strong>|326km
+561  2025-04-01 19:19 KD2WHG        28.058    CW         339   599 599 |IC-705|<strong>United States</strong>|7223km

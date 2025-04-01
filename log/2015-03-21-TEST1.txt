@@ -135,3 +135,9 @@
 135  2024-12-21 22:10 K2EA           7.040   FSK     133   599 599 |IC-705|<strong>United States</strong>|7223km
 136  2024-12-21 22:11 K3EA           7.000   FSK      55   599 599 |IC-705|<strong>United States</strong>|7223km
 137  2024-12-21 22:13 K4EA           7.000   FSK    JOHN 122   599 599 |IC-705|<strong>United States</strong>|7223km
+138  2025-02-02 19:11 OK1A         144.143   CW  001 JO60UC   15km 308°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+139  2025-02-10 19:46 K1EA          14.025    CW          01   599 599 |IC-705|<strong>United States</strong>|7223km
+140  2025-02-10 19:47 K2EA          14.025    CW           X   599 599 |IC-705|<strong>United States</strong>|7223km
+141  2025-02-10 19:50 K3EA          14.025    CW           C   599 599 |IC-705|<strong>United States</strong>|7223km
+142  2025-02-10 19:52 K4EA          14.025    CW           D   599 599 |IC-705|<strong>United States</strong>|7223km
+143  2025-02-10 19:58 K5EA          14.022    CW           E   599 599 |IC-705|<strong>United States</strong>|7223km

@@ -24,7 +24,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '2025-02-02';
+$REV = '2025-02-10';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -551,7 +551,7 @@ function rxurlpass($ip, $file, $usr, $pass) {
 }
 
 function qso($file) {
-	$lines = count(file($file));
+	$lines = count(file($file))-(int)$nr ;
 	return $lines;
 }
 
@@ -649,7 +649,8 @@ function qsonr($log) {
 			$qsonrs++;
 		}
 		fclose($handle);
-		return $qsonrs - $nr;
+		$qsonrs = $qsonrs - (int)$nr;
+		return $qsonrs;
 	} else {                              // if log dont exist, create
 		file_put_contents($log, '');
 		$valuex = file($log);
@@ -759,7 +760,7 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	$dateadif = date('Ymd', time());
 	$timeadif = date('Hi', time());
 	$show = '';
-	?><form action="<?echo basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx ;?>" method="POST"><?     //form self url
+	?><form action="<?echo basename($_SERVER['PHP_SELF']).'?s='.$conteststyle.'&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'&nr='.$nr ;?>" method="POST"><?     //form self url
 	$callr = trim(strtoupper($_POST['callr']));     // trim whitespace and change to UPERCASE
 	$qsonrr = trim(strtoupper($_POST['qsonrr']));
 
@@ -972,10 +973,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		$af2 = '';
 	}
 	if ($conteststyle == 'run'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=sp&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>RUN</span><span class="onhover" title="'.$call.'-'.$locator.'">S&P</span></a>';
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=sp&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'&nr='.$nr.'" class="switch"><span>RUN</span><span class="onhover" title="'.$call.'-'.$locator.'">S&P</span></a>';
 	}
 	if ($conteststyle == 'sp'){
-		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=run&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'" class="switch"><span>S&P</span><span class="onhover" title="'.$call.'-'.$locator.'">RUN</span></a>';
+		echo '<a href="'.basename($_SERVER['PHP_SELF']).'?s=run&log='.$log.'&call='.$call.'&exch='.$exch.'&trx='.$trx.'&nr='.$nr.'" class="switch"><span>S&P</span><span class="onhover" title="'.$call.'-'.$locator.'">RUN</span></a>';
 	}
 	// one button
 //	if ($trx == '1'){
