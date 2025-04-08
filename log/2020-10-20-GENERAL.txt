@@ -563,3 +563,4 @@
 563  2025-04-08 19:01 LZ100IARU      7.012    CW         599   599 599 |IC-705|<strong>Bulgaria</strong>|1067km
 564  2025-04-08 19:03 HA100I         7.021    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
 565  2025-04-08 19:15 WP4TZ         21.031    CW         539   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
+566  2025-04-08 19:37 NQ1F          21.050    CW          54   599 599 |IC-705|<strong>United States</strong>|7223km
