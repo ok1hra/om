@@ -559,3 +559,7 @@
 559  2025-04-01 18:03 DP9X         144.233  USB   51 JO42SC  381km 309°    59 59 |IC-705|<strong>Germany</strong>|326km
 560  2025-04-01 18:40 DB6NT        144.222  USB59 JO50VJ MIKE     km    °    59 59 |IC-705|<strong>Germany</strong>|326km
 561  2025-04-01 19:19 KD2WHG        28.058    CW         339   599 599 |IC-705|<strong>United States</strong>|7223km
+562  2025-04-08 18:56 OR100U        10.115    CW         599   599 599 |IC-705|<strong>Belgium</strong>|712km
+563  2025-04-08 19:01 LZ100IARU      7.012    CW         599   599 599 |IC-705|<strong>Bulgaria</strong>|1067km
+564  2025-04-08 19:03 HA100I         7.021    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
+565  2025-04-08 19:15 WP4TZ         21.031    CW         539   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
