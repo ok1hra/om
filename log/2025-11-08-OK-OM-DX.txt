@@ -1,0 +1,350 @@
+1    2025-11-08 15:34 K2SSS         28.020    CW         109   599 599 |TS-480|<strong>United States</strong>|7223km
+2    2025-11-08 15:36 OL26WTC       28.020    CW         BKO   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+3    2025-11-08 15:36 OL3Z          28.020    CW         APD   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+4    2025-11-08 15:38 K1ZZ          28.020    CW         288   599 599 |TS-480|<strong>United States</strong>|7223km
+5    2025-11-08 15:40 TR8CA         28.020    CW           9   599 599 |TS-480|<strong>Gabon</strong>|5545km
+6    2025-11-08 15:41 OK1DO         28.020    CW         BSO   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+7    2025-11-08 15:45 NO5W          21.016    CW          34   599 599 |TS-480|<strong>United States</strong>|7223km
+8    2025-11-08 15:45 OL3Z          21.016    CW         APD   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+9    2025-11-08 15:46 OK7O          21.016    CW         DPS   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+10   2025-11-08 15:46 E74A          21.016    CW          40   599 599 |TS-480|<strong>Bosnia-Herzegovina</strong>|791km
+11   2025-11-08 15:47 NN3W          21.016    CW          84   599 599 |TS-480|<strong>United States</strong>|7223km
+12   2025-11-08 15:47 VE2FK         21.016    CW          15   599 599 |TS-480|<strong>Canada</strong>|6615km
+13   2025-11-08 15:48 W1GD          21.016    CW          35   599 599 |TS-480|<strong>United States</strong>|7223km
+14   2025-11-08 15:48 VA3TNM        21.016    CW         148   599 599 |TS-480|<strong>Canada</strong>|6615km
+15   2025-11-08 15:50 W1KM          21.016    CW          62   599 599 |TS-480|<strong>United States</strong>|7223km
+16   2025-11-08 15:52 VA3FF         21.016    CW         100   599 599 |TS-480|<strong>Canada</strong>|6615km
+17   2025-11-08 15:52 KC1XX         21.016    CW         409   599 599 |TS-480|<strong>United States</strong>|7223km
+18   2025-11-08 15:53 KK0U          21.016    CW           2   599 599 |TS-480|<strong>United States</strong>|7223km
+19   2025-11-08 15:53 K3SV          21.016    CW          17   599 599 |TS-480|<strong>United States</strong>|7223km
+20   2025-11-08 15:53 K1TR          21.016    CW          28   599 599 |TS-480|<strong>United States</strong>|7223km
+21   2025-11-08 15:54 EA4AOC        21.016    CW         214   599 599 |TS-480|<strong>Spain</strong>|1772km
+22   2025-11-08 15:54 OL1T          21.016    CW         DPW   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+23   2025-11-08 15:55 WA3AAN        21.016    CW          80   599 599 |TS-480|<strong>United States</strong>|7223km
+24   2025-11-08 15:56 OK8AW         21.016    CW         BPV   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+25   2025-11-08 15:56 N2US          21.016    CW           1   599 599 |TS-480|<strong>United States</strong>|7223km
+26   2025-11-08 15:57 K4BAI         21.016    CW          70   599 599 |TS-480|<strong>United States</strong>|7223km
+27   2025-11-08 15:58 W6KH          21.016    CW          22   599 599 |TS-480|<strong>United States</strong>|7223km
+28   2025-11-08 15:58 WA8MDC        21.016    CW           6   599 599 |TS-480|<strong>United States</strong>|7223km
+29   2025-11-08 15:59 N4CW          21.016    CW         144   599 599 |TS-480|<strong>United States</strong>|7223km
+30   2025-11-08 15:59 AB4EB         21.016    CW         104   599 599 |TS-480|<strong>United States</strong>|7223km
+31   2025-11-08 16:00 W6LFB         21.016    CW           4   599 599 |TS-480|<strong>United States</strong>|7223km
+32   2025-11-08 16:00 K3JO          21.016    CW         242   599 599 |TS-480|<strong>United States</strong>|7223km
+33   2025-11-08 16:01 OK1DUG        21.016    CW         ETE   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+34   2025-11-08 16:03 K0EJ          21.016    CW           7   599 599 |TS-480|<strong>United States</strong>|7223km
+35   2025-11-08 16:03 VE3NZ         21.016    CW         139   599 599 |TS-480|<strong>Canada</strong>|6615km
+36   2025-11-08 16:04 K0EA          21.016    CW           2   599 599 |TS-480|<strong>United States</strong>|7223km
+37   2025-11-08 16:05 NE5A          21.016    CW           2   599 599 |TS-480|<strong>United States</strong>|7223km
+38   2025-11-08 16:05 K1RM          21.016    CW          39   599 599 |TS-480|<strong>United States</strong>|7223km
+39   2025-11-08 16:06 K0FX          21.016    CW          36   599 599 |TS-480|<strong>United States</strong>|7223km
+40   2025-11-08 16:08 K0HUU         21.016    CW          12   599 599 |TS-480|<strong>United States</strong>|7223km
+41   2025-11-08 16:09 K3QP          21.016    CW          80   599 599 |TS-480|<strong>United States</strong>|7223km
+42   2025-11-08 16:09 N9OH          21.016    CW           9   599 599 |TS-480|<strong>United States</strong>|7223km
+43   2025-11-08 16:09 K9JWI         21.016    CW          10   599 599 |TS-480|<strong>United States</strong>|7223km
+44   2025-11-08 16:11 N3ATQ         21.016    CW          16   599 599 |TS-480|<strong>United States</strong>|7223km
+45   2025-11-08 16:11 K1ZZ          21.016    CW         291   599 599 |TS-480|<strong>United States</strong>|7223km
+46   2025-11-08 16:12 AE1T          21.016    CW           7   599 599 |TS-480|<strong>United States</strong>|7223km
+47   2025-11-08 16:12 OL0A          21.016    CW         APF   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+48   2025-11-08 16:13 W1CTN         21.016    CW          22   599 599 |TS-480|<strong>United States</strong>|7223km
+49   2025-11-08 16:16 OK1HMP        21.016    CW         APF   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+50   2025-11-08 16:16 K2MD          21.016    CW          26   599 599 |TS-480|<strong>United States</strong>|7223km
+51   2025-11-08 16:17 K3MD          21.016    CW          20   599 599 |TS-480|<strong>United States</strong>|7223km
+52   2025-11-08 16:17 N2RC          21.016    CW          23   599 599 |TS-480|<strong>United States</strong>|7223km
+53   2025-11-08 16:20 IK0FKX        21.016    CW          52   599 599 |TS-480|<strong>Italy</strong>|923km
+54   2025-11-08 16:20 OL26WRTC      21.016    CW         BKO   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+55   2025-11-08 16:21 OK1AUO        21.016    CW         APE   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+56   2025-11-08 16:22 N3ATQ         21.016    CW          19   599 599 |TS-480|<strong>United States</strong>|7223km
+57   2025-11-08 16:25 W3/OL7X       21.016    CW          40   599 599 |TS-480|<strong>United States</strong>|7223km
+58   2025-11-08 16:26 PY5IQE        21.016    CW           9   599 599 |TS-480|<strong>Brazil</strong>|9901km
+59   2025-11-08 16:26 K1AR          21.016    CW           1   599 599 |TS-480|<strong>United States</strong>|7223km
+60   2025-11-08 16:28 K2MK          21.016    CW          52   599 599 |TS-480|<strong>United States</strong>|7223km
+61   2025-11-08 16:28 K3TS          21.016    CW          79   599 599 |TS-480|<strong>United States</strong>|7223km
+62   2025-11-08 16:29 N4AF          21.016    CW          92   599 599 |TS-480|<strong>United States</strong>|7223km
+63   2025-11-08 16:30 KR2AA         21.016    CW         114   599 599 |TS-480|<strong>United States</strong>|7223km
+64   2025-11-08 16:30 W1FJ          21.016    CW          91   599 599 |TS-480|<strong>United States</strong>|7223km
+65   2025-11-08 16:30 OM4WM         21.016    CW         PAR   599 599 |TS-480|<strong>Slovakia</strong>|296km
+66   2025-11-08 16:33 YL7X          21.016    CW         337   599 599 |TS-480|<strong>Latvia</strong>|997km
+67   2025-11-08 16:34 I4IKW         21.016    CW          53   599 599 |TS-480|<strong>Italy</strong>|923km
+68   2025-11-08 16:34 K8PK          21.016    CW          14   599 599 |TS-480|<strong>United States</strong>|7223km
+69   2025-11-08 16:36 N2GM          21.016    CW          70   599 599 |TS-480|<strong>United States</strong>|7223km
+70   2025-11-08 16:37 AG3I          21.016    CW          34   599 599 |TS-480|<strong>United States</strong>|7223km
+71   2025-11-08 16:38 OK1HFM        21.016    CW         DRO   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+72   2025-11-08 17:12 YB3GEM        14.016    CW          36   599 599 |TS-480|<strong>Indonesia</strong>|10706km
+73   2025-11-08 17:12 OM5CM         14.016    CW         DST   599 599 |TS-480|<strong>Slovakia</strong>|296km
+74   2025-11-08 17:13 OK3C          14.016    CW         GTR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+75   2025-11-08 17:13 OK7O          14.016    CW         DPS   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+76   2025-11-08 17:14 EA1WH         14.016    CW         281   599 599 |TS-480|<strong>Spain</strong>|1772km
+77   2025-11-08 17:14 OL0A          14.016    CW         APF   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+78   2025-11-08 17:15 VA3TNG        14.016    CW         183   599 599 |TS-480|<strong>Canada</strong>|6615km
+79   2025-11-08 17:15 K3JO          14.016    CW         315   599 599 |TS-480|<strong>United States</strong>|7223km
+80   2025-11-08 17:16 K1ZZ          14.016    CW         354   599 599 |TS-480|<strong>United States</strong>|7223km
+81   2025-11-08 17:16 N4CW          14.016    CW         199   599 599 |TS-480|<strong>United States</strong>|7223km
+82   2025-11-08 17:16 W1FJ          14.016    CW         122   599 599 |TS-480|<strong>United States</strong>|7223km
+83   2025-11-08 17:18 LZ1ND         14.016    CW         321   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+84   2025-11-08 17:19 K1RO          14.016    CW         211   599 599 |TS-480|<strong>United States</strong>|7223km
+85   2025-11-08 17:20 OH2KW         14.016    CW          84   599 599 |TS-480|<strong>Finland</strong>|1305km
+86   2025-11-08 17:21 F5PHY         14.016    CW         210   599 599 |TS-480|<strong>France</strong>|885km
+87   2025-11-08 17:23 EI8X          14.016    CW         288   599 599 |TS-480|<strong>Ireland</strong>|1464km
+88   2025-11-08 17:24 OL3Z          14.016    CW         APD   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+89   2025-11-08 17:26 F5MMX         14.016    CW         115   599 599 |TS-480|<strong>France</strong>|885km
+90   2025-11-08 17:26 F5MUX         14.016    CW         115   599 599 |TS-480|<strong>France</strong>|885km
+91   2025-11-08 17:26 HG5HD         14.016    CW         407   599 599 |TS-480|<strong>Hungary</strong>|449km
+92   2025-11-08 17:27 F5SGI         14.016    CW         172   599 599 |TS-480|<strong>France</strong>|885km
+93   2025-11-08 17:35 W2QL          14.016    CW          14   599 599 |TS-480|<strong>United States</strong>|7223km
+94   2025-11-08 17:35 OL1T          14.016    CW         DPJ   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+95   2025-11-08 17:35 OK1HMP        14.016    CW         APF   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+96   2025-11-08 17:37 OL0W          14.016    CW         BBE   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+97   2025-11-08 17:37 LZ5Y          14.016    CW         287   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+98   2025-11-08 17:39 HA3NU         14.016    CW         121   599 599 |TS-480|<strong>Hungary</strong>|449km
+99   2025-11-08 17:41 KR2AA         14.016    CW         142   599 599 |TS-480|<strong>United States</strong>|7223km
+100  2025-11-08 17:43 AE1T          14.016    CW          55   599 599 |TS-480|<strong>United States</strong>|7223km
+101  2025-11-08 17:44 K3TS          14.016    CW          90   599 599 |TS-480|<strong>United States</strong>|7223km
+102  2025-11-08 17:47 EA7BEZ        14.016    CW         190   599 599 |TS-480|<strong>Spain</strong>|1772km
+103  2025-11-08 17:53 OK1FKD        14.016    CW         ECH   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+104  2025-11-08 17:54 N4HB          14.016    CW         198   599 599 |TS-480|<strong>United States</strong>|7223km
+105  2025-11-08 17:55 W1GD          14.016    CW          47   599 599 |TS-480|<strong>United States</strong>|7223km
+106  2025-11-08 17:56 M0BPQ         14.016    CW          30   599 599 |TS-480|<strong>England</strong>|1029km
+107  2025-11-08 17:59 F6KRK         14.016    CW          11   599 599 |TS-480|<strong>France</strong>|885km
+108  2025-11-08 17:59 EC6AAE        14.016    CW         301   599 599 |TS-480|<strong>Balearic Is.</strong>|1498km
+109  2025-11-08 18:03 VE2FK         14.016    CW         100   599 599 |TS-480|<strong>Canada</strong>|6615km
+110  2025-11-08 18:04 K1TR          14.016    CW          30   599 599 |TS-480|<strong>United States</strong>|7223km
+111  2025-11-08 18:05 LZ1ZJ         14.016    CW          92   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+112  2025-11-08 18:06 N1SOH         14.016    CW           1   599 599 |TS-480|<strong>United States</strong>|7223km
+113  2025-11-08 18:13 K9RS          14.016    CW           5   599 599 |TS-480|<strong>United States</strong>|7223km
+114  2025-11-08 18:13 OM2X          14.016    CW         MYJ   599 599 |TS-480|<strong>Slovakia</strong>|296km
+115  2025-11-08 18:14 OK1HFM        14.016    CW         DRO   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+116  2025-11-08 18:38 KW1Q          14.021    CW          35   599 599 |TS-480|<strong>United States</strong>|7223km
+117  2025-11-08 18:41 LZ6C          14.021    CW         165   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+118  2025-11-08 18:41 SV1ME         14.021    CW          21   599 599 |TS-480|<strong>Greece</strong>|1534km
+119  2025-11-08 22:30 HG1G           3.535    CW         719   599 599 |TS-480|<strong>Hungary</strong>|449km
+120  2025-11-08 22:30 YT1WA          3.535    CW         255   599 599 |TS-480|<strong>Serbia</strong>|737km
+121  2025-11-08 22:30 OK3C           3.535    CW         GTR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+122  2025-11-08 22:31 E77EA          3.535    CW         545   599 599 |TS-480|<strong>Bosnia-Herzegovina</strong>|791km
+123  2025-11-08 22:31 F5MUX          3.535    CW         128   599 599 |TS-480|<strong>France</strong>|885km
+124  2025-11-08 22:32 HB9BXE         3.535    CW         511   599 599 |TS-480|<strong>Switzerland</strong>|613km
+125  2025-11-08 22:32 IK1PMR         3.535    CW         402   599 599 |TS-480|<strong>Italy</strong>|923km
+126  2025-11-08 22:33 TM1X           3.535    CW         145   599 599 |TS-480|<strong>France</strong>|885km
+127  2025-11-08 22:34 LY2MM          3.535    CW         269   599 599 |TS-480|<strong>Lithuania</strong>|897km
+128  2025-11-08 22:34 LZ1ZJ          3.535    CW         260   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+129  2025-11-08 22:34 YO5AVN         3.535    CW         508   599 599 |TS-480|<strong>Romania</strong>|1085km
+130  2025-11-08 22:35 IK8UND         3.535    CW         415   599 599 |TS-480|<strong>Italy</strong>|923km
+131  2025-11-08 22:35 PA2TA          3.535    CW         141   599 599 |TS-480|<strong>Netherlands</strong>|708km
+132  2025-11-08 22:36 S51DX          3.535    CW         318   599 599 |TS-480|<strong>Slovenia</strong>|455km
+133  2025-11-08 22:36 F8KGW          3.535    CW          18   599 599 |TS-480|<strong>France</strong>|885km
+134  2025-11-08 22:37 YL2PJ          3.535    CW         301   599 599 |TS-480|<strong>Latvia</strong>|997km
+135  2025-11-08 22:37 SP2SMT         3.535    CW         112   599 599 |TS-480|<strong>Poland</strong>|515km
+136  2025-11-08 22:38 S54X           3.535    CW          80   599 599 |TS-480|<strong>Slovenia</strong>|455km
+137  2025-11-08 22:38 LZ3TL          3.535    CW          31   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+138  2025-11-08 22:39 OK2BRN         3.535    CW         GML   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+139  2025-11-08 22:40 OK1DX          3.535    CW         DKW   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+140  2025-11-08 22:41 I4IKW          3.535    CW         100   599 599 |TS-480|<strong>Italy</strong>|923km
+141  2025-11-08 22:41 OL3Z           3.535    CW         APD   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+142  2025-11-08 22:41 F5JRC          3.535    CW         101   599 599 |TS-480|<strong>France</strong>|885km
+143  2025-11-08 22:42 UX1VT          3.535    CW         181   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+144  2025-11-08 22:43 LY2XW          3.535    CW         547   599 599 |TS-480|<strong>Lithuania</strong>|897km
+145  2025-11-08 22:43 SM5CSS         3.535    CW          16   599 599 |TS-480|<strong>Sweden</strong>|1049km
+146  2025-11-08 22:44 UT1WW          3.535    CW          45   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+147  2025-11-08 22:44 OK7O           3.535    CW         DPS   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+148  2025-11-08 22:44 CR3DX          3.535    CW         870   599 599 |TS-480|<strong>Madeira Is.</strong>|3218km
+149  2025-11-08 22:45 SM0Q           3.535    CW         231   599 599 |TS-480|<strong>Sweden</strong>|1049km
+150  2025-11-08 22:45 LY2DX          3.535    CW          81   599 599 |TS-480|<strong>Lithuania</strong>|897km
+151  2025-11-08 22:46 OL5Y           3.535    CW         BKO   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+152  2025-11-08 22:47 TA2DA          3.535    CW         197   599 599 |TS-480|<strong>Turkey</strong>|1834km
+153  2025-11-08 22:47 IZ5AHB         3.535    CW         142   599 599 |TS-480|<strong>Italy</strong>|923km
+154  2025-11-08 22:48 YL7X           3.535    CW         813   599 599 |TS-480|<strong>Latvia</strong>|997km
+155  2025-11-08 22:48 E77F           3.535    CW         115   599 599 |TS-480|<strong>Bosnia-Herzegovina</strong>|791km
+156  2025-11-08 22:49 IZ3GNG         3.535    CW          97   599 599 |TS-480|<strong>Italy</strong>|923km
+157  2025-11-08 22:49 UR3QX          3.535    CW          54   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+158  2025-11-08 22:50 GM4CXM         3.535    CW          37   599 599 |TS-480|<strong>Scotland</strong>|1397km
+159  2025-11-08 22:50 UR7MZ          3.535    CW         309   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+160  2025-11-08 22:50 IK4DCX         3.535    CW         152   599 599 |TS-480|<strong>Italy</strong>|923km
+161  2025-11-08 22:51 EA4AOC         3.535    CW         641   599 599 |TS-480|<strong>Spain</strong>|1772km
+162  2025-11-08 22:51 LC5A           3.535    CW         275   599 599 |TS-480|<strong>Norway</strong>|1125km
+163  2025-11-08 22:52 HA5JI          3.535    CW         702   599 599 |TS-480|<strong>Hungary</strong>|449km
+164  2025-11-08 22:52 SV2DSJ         3.535    CW         132   599 599 |TS-480|<strong>Greece</strong>|1534km
+165  2025-11-08 22:52 HA4ZS          3.535    CW         307   599 599 |TS-480|<strong>Hungary</strong>|449km
+166  2025-11-08 22:53 M4T            3.535    CW         557   599 599 |TS-480|<strong>England</strong>|1029km
+167  2025-11-08 22:54 E74E           3.535    CW         130   599 599 |TS-480|<strong>Bosnia-Herzegovina</strong>|791km
+168  2025-11-08 22:54 IT9/DK6XZ      3.535    CW         170   599 599 |TS-480|<strong>Sicily</strong>|1401km
+169  2025-11-08 22:56 M4T            3.535    CW         559   599 599 |TS-480|<strong>England</strong>|1029km
+170  2025-11-08 22:56 S51W           3.535    CW         271   599 599 |TS-480|<strong>Slovenia</strong>|455km
+171  2025-11-08 22:57 OK1TN          3.535    CW         FJI   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+172  2025-11-08 23:01 YL7X           7.010    CW         126   599 599 |TS-480|<strong>Latvia</strong>|997km
+173  2025-11-08 23:01 OM0N           7.010    CW         LEV   599 599 |TS-480|<strong>Slovakia</strong>|296km
+174  2025-11-08 23:01 OK1Z           7.010    CW         KPI   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+175  2025-11-08 23:02 OK1KKI         7.010    CW         CJH   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+176  2025-11-08 23:03 LZ5R           7.010    CW         845   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+177  2025-11-08 23:04 OK3C           7.010    CW         GTR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+178  2025-11-08 23:05 YT1A           7.010    CW         389   599 599 |TS-480|<strong>Serbia</strong>|737km
+179  2025-11-08 23:07 K3JO           7.010    CW         482   599 599 |TS-480|<strong>United States</strong>|7223km
+180  2025-11-09 00:24 YT1A           7.022    CW         413   599 599 |TS-480|<strong>Serbia</strong>|737km
+181  2025-11-09 00:25 W2GD           7.022    CW           9   599 599 |TS-480|<strong>United States</strong>|7223km
+182  2025-11-09 00:25 OL3Z           7.022    CW         APD   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+183  2025-11-09 00:26 OK7O           7.022    CW         DPS   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+184  2025-11-09 00:28 OK6Y           3.534    CW         TXX   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+185  2025-11-09 00:29 M0NIE          3.534    CW         129   599 599 |TS-480|<strong>England</strong>|1029km
+186  2025-11-09 00:30 OK1DJS         3.534    CW         ALL   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+187  2025-11-09 00:31 OM0R           3.534    CW         LEV   599 599 |TS-480|<strong>Slovakia</strong>|296km
+188  2025-11-09 00:33 OK2M           3.534    CW         BRR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+189  2025-11-09 00:33 S57X           3.534    CW         106   599 599 |TS-480|<strong>Slovenia</strong>|455km
+190  2025-11-09 00:34 KC1XX          3.534    CW         793   599 599 |TS-480|<strong>United States</strong>|7223km
+191  2025-11-09 00:34 G0PZA          3.534    CW          59   599 599 |TS-480|<strong>England</strong>|1029km
+192  2025-11-09 00:35 YU1YV          3.534    CW         457   599 599 |TS-480|<strong>Serbia</strong>|737km
+193  2025-11-09 00:35 IT9IVU         3.534    CW         402   599 599 |TS-480|<strong>Sicily</strong>|1401km
+194  2025-11-09 00:36 Z31PM          3.534    CW         026   599 599 |TS-480|<strong>Macedonia</strong>|1068km
+195  2025-11-09 00:37 Z31PM          3.534    CW          27   599 599 |TS-480|<strong>Macedonia</strong>|1068km
+196  2025-11-09 00:38 OM4WM          3.534    CW         PAR   599 599 |TS-480|<strong>Slovakia</strong>|296km
+197  2025-11-09 00:42 ER1AA          3.534    CW         117   599 599 |TS-480|<strong>Moldova</strong>|1112km
+198  2025-11-09 00:44 VE3VN          3.534    CW         341   599 599 |TS-480|<strong>Canada</strong>|6615km
+199  2025-11-09 00:45 YO3GNF         3.534    CW          25   599 599 |TS-480|<strong>Romania</strong>|1085km
+200  2025-11-09 10:18 M0NIE         21.035    CW         196   599 599 |TS-480|<strong>England</strong>|1029km
+201  2025-11-09 10:19 OH3MZ         21.035    CW         157   599 599 |TS-480|<strong>Finland</strong>|1305km
+202  2025-11-09 10:19 M4T           21.035    CW         843   599 599 |TS-480|<strong>England</strong>|1029km
+203  2025-11-09 10:20 CT1ELZ        21.035    CW          52   599 599 |TS-480|<strong>Portugal</strong>|2247km
+204  2025-11-09 10:20 LZ8E          21.035    CW         751   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+205  2025-11-09 10:21 SV8SXF        21.035    CW         209   599 599 |TS-480|<strong>Greece</strong>|1534km
+206  2025-11-09 10:21 4X1VF         21.035    CW         222   599 599 |TS-480|<strong>Israel</strong>|2663km
+207  2025-11-09 10:22 YO5AVN        21.035    CW         751   599 599 |TS-480|<strong>Romania</strong>|1085km
+208  2025-11-09 10:23 TA2DA         21.035    CW         351   599 599 |TS-480|<strong>Turkey</strong>|1834km
+209  2025-11-09 10:24 OG3B          21.035    CW         682   599 599 |TS-480|<strong>Finland</strong>|1305km
+210  2025-11-09 10:24 2E0CVN        21.035    CW         225   599 599 |TS-480|<strong>England</strong>|1029km
+211  2025-11-09 10:25 UZ1U          21.035    CW         154   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+212  2025-11-09 10:26 OM5CM         21.035    CW         DST   599 599 |TS-480|<strong>Slovakia</strong>|296km
+213  2025-11-09 10:27 2E0LMI        21.035    CW          11   599 599 |TS-480|<strong>England</strong>|1029km
+214  2025-11-09 10:27 OK1KKI        21.035    CW         CJH   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+215  2025-11-09 10:28 SM6F          21.035    CW         379   599 599 |TS-480|<strong>Sweden</strong>|1049km
+216  2025-11-09 10:28 US7UC         21.035    CW         143   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+217  2025-11-09 10:28 HA4ZS         21.035    CW         479   599 599 |TS-480|<strong>Hungary</strong>|449km
+218  2025-11-09 10:29 OH1NA         21.035    CW         619   599 599 |TS-480|<strong>Finland</strong>|1305km
+219  2025-11-09 10:30 TM1X          21.035    CW          58   599 599 |TS-480|<strong>France</strong>|885km
+220  2025-11-09 10:30 OK2NMA        21.035    CW         GTR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+221  2025-11-09 10:31 OM0R          21.035    CW         HEV   599 599 |TS-480|<strong>Slovakia</strong>|296km
+222  2025-11-09 10:32 IT9IVU        21.035    CW         586   599 599 |TS-480|<strong>Sicily</strong>|1401km
+223  2025-11-09 10:33 SM6RPC        21.035    CW         369   599 599 |TS-480|<strong>Sweden</strong>|1049km
+224  2025-11-09 10:33 OK3C          21.035    CW         GTR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+225  2025-11-09 10:33 UR7MZ         21.035    CW         379   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+226  2025-11-09 10:34 IT9ORA        21.035    CW         110   599 599 |TS-480|<strong>Sicily</strong>|1401km
+227  2025-11-09 10:35 UR4LIN        21.035    CW          18   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+228  2025-11-09 10:36 S50ZFU        21.035    CW         605   599 599 |TS-480|<strong>Slovenia</strong>|455km
+229  2025-11-09 10:37 SV1ENG        21.035    CW         520   599 599 |TS-480|<strong>Greece</strong>|1534km
+230  2025-11-09 10:37 OH5MQ         21.035    CW         112   599 599 |TS-480|<strong>Finland</strong>|1305km
+231  2025-11-09 10:37 F5JU          21.035    CW         179   599 599 |TS-480|<strong>France</strong>|885km
+232  2025-11-09 10:38 ER1AA         21.035    CW         137   599 599 |TS-480|<strong>Moldova</strong>|1112km
+233  2025-11-09 10:38 G4RCG         21.035    CW         358   599 599 |TS-480|<strong>England</strong>|1029km
+234  2025-11-09 10:39 F4HGU         21.035    CW         628   599 599 |TS-480|<strong>France</strong>|885km
+235  2025-11-09 10:40 F5MUX         21.035    CW         547   599 599 |TS-480|<strong>France</strong>|885km
+236  2025-11-09 10:42 IC8AJU        21.035    CW         257   599 599 |TS-480|<strong>Italy</strong>|923km
+237  2025-11-09 10:46 EA4AOC        28.021    CW         981   599 599 |TS-480|<strong>Spain</strong>|1772km
+238  2025-11-09 10:46 OL1T          28.021    CW         DPJ   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+239  2025-11-09 10:47 SM5CSS        28.021    CW         305   599 599 |TS-480|<strong>Sweden</strong>|1049km
+240  2025-11-09 10:48 F5NBX         28.021    CW          86   599 599 |TS-480|<strong>France</strong>|885km
+241  2025-11-09 11:01 YL7X          14.029    CW        1225   599 599 |TS-480|<strong>Latvia</strong>|997km
+242  2025-11-09 11:02 SM6F          14.029    CW         394   599 599 |TS-480|<strong>Sweden</strong>|1049km
+243  2025-11-09 11:02 EA3NO         14.029    CW         202   599 599 |TS-480|<strong>Spain</strong>|1772km
+244  2025-11-09 11:03 G4RCG         14.029    CW         383   599 599 |TS-480|<strong>England</strong>|1029km
+245  2025-11-09 11:03 LZ8E          14.029    CW         689   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+246  2025-11-09 11:03 UR4CU         14.029    CW          59   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+247  2025-11-09 11:03 OK1KKI        14.029    CW         CJH   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+248  2025-11-09 11:04 LY2PX         14.029    CW         160   599 599 |TS-480|<strong>Lithuania</strong>|897km
+249  2025-11-09 11:04 IZ7FLP        14.029    CW         309   599 599 |TS-480|<strong>Italy</strong>|923km
+250  2025-11-09 11:05 I3FDZ         14.029    CW          54   599 599 |TS-480|<strong>Italy</strong>|923km
+251  2025-11-09 11:05 HA3DX         14.029    CW        1014   599 599 |TS-480|<strong>Hungary</strong>|449km
+252  2025-11-09 11:05 DK2FG         14.029    CW         304   599 599 |TS-480|<strong>Germany</strong>|326km
+253  2025-11-09 11:06 YR8R          14.029    CW         727   599 599 |TS-480|<strong>Romania</strong>|1085km
+254  2025-11-09 11:06 S53F          14.029    CW         196   599 599 |TS-480|<strong>Slovenia</strong>|455km
+255  2025-11-09 11:06 F4HGU         14.029    CW         647   599 599 |TS-480|<strong>France</strong>|885km
+256  2025-11-09 11:07 SV8SXF        14.029    CW         228   599 599 |TS-480|<strong>Greece</strong>|1534km
+257  2025-11-09 11:07 PA0RDT        14.029    CW         294   599 599 |TS-480|<strong>Netherlands</strong>|708km
+258  2025-11-09 11:08 LY3CY         14.029    CW         355   599 599 |TS-480|<strong>Lithuania</strong>|897km
+259  2025-11-09 11:08 EA5XA         14.029    CW         161   599 599 |TS-480|<strong>Spain</strong>|1772km
+260  2025-11-09 11:09 TM1X          14.029    CW         175   599 599 |TS-480|<strong>France</strong>|885km
+261  2025-11-09 11:09 PA1MUC        14.029    CW         111   599 599 |TS-480|<strong>Netherlands</strong>|708km
+262  2025-11-09 11:10 M0NIE         14.029    CW         222   599 599 |TS-480|<strong>England</strong>|1029km
+263  2025-11-09 11:10 YO8COR        14.029    CW         196   599 599 |TS-480|<strong>Romania</strong>|1085km
+264  2025-11-09 11:11 EI2IH         14.029    CW          25   599 599 |TS-480|<strong>Ireland</strong>|1464km
+265  2025-11-09 11:11 YO4AAC        14.029    CW         358   599 599 |TS-480|<strong>Romania</strong>|1085km
+266  2025-11-09 11:13 HG8K          14.029    CW         146   599 599 |TS-480|<strong>Hungary</strong>|449km
+267  2025-11-09 11:13 YO5AVN        14.029    CW         795   599 599 |TS-480|<strong>Romania</strong>|1085km
+268  2025-11-09 11:14 YU1XO         14.029    CW         450   599 599 |TS-480|<strong>Serbia</strong>|737km
+269  2025-11-09 11:14 HB9ARF        14.029    CW         620   599 599 |TS-480|<strong>Switzerland</strong>|613km
+270  2025-11-09 11:15 SV1ENG        14.029    CW         551   599 599 |TS-480|<strong>Greece</strong>|1534km
+271  2025-11-09 11:15 LZ2MP         14.029    CW         130   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+272  2025-11-09 11:15 UK3RT         14.029    CW          23   599 599 |TS-480|<strong>Uzbekistan</strong>|4278km
+273  2025-11-09 11:16 YU3M          14.029    CW         349   599 599 |TS-480|<strong>Serbia</strong>|737km
+274  2025-11-09 11:16 IT9ORA        14.029    CW         143   599 599 |TS-480|<strong>Sicily</strong>|1401km
+275  2025-11-09 11:16 IK8UND        14.029    CW         619   599 599 |TS-480|<strong>Italy</strong>|923km
+276  2025-11-09 11:17 NB1N          14.029    CW          69   599 599 |TS-480|<strong>United States</strong>|7223km
+277  2025-11-09 11:17 HA4ZS         14.029    CW         498   599 599 |TS-480|<strong>Hungary</strong>|449km
+278  2025-11-09 11:17 ET9KCD        14.029    CW         253   599 599 |TS-480|<strong>Ethiopia</strong>|5090km
+279  2025-11-09 11:18 IZ8GUQ        14.029    CW         267   599 599 |TS-480|<strong>Italy</strong>|923km
+280  2025-11-09 11:18 OM8FR         14.029    CW         KEZ   599 599 |TS-480|<strong>Slovakia</strong>|296km
+281  2025-11-09 11:19 F6AUS         14.029    CW         298   599 599 |TS-480|<strong>France</strong>|885km
+282  2025-11-09 11:19 OM3KFY        14.029    CW         BAB   599 599 |TS-480|<strong>Slovakia</strong>|296km
+283  2025-11-09 11:19 IU8RIA        14.029    CW         673   599 599 |TS-480|<strong>Italy</strong>|923km
+284  2025-11-09 11:20 IU1JG         14.029    CW         572   599 599 |TS-480|<strong>Italy</strong>|923km
+285  2025-11-09 11:20 Z31PM         14.029    CW         109   599 599 |TS-480|<strong>Macedonia</strong>|1068km
+286  2025-11-09 11:20 EA1X          14.029    CW         599   599 599 |TS-480|<strong>Spain</strong>|1772km
+287  2025-11-09 11:21 G0JO          14.029    CW          22   599 599 |TS-480|<strong>England</strong>|1029km
+288  2025-11-09 11:22 UZ1P          14.029    CW         125   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+289  2025-11-09 11:22 IZ6BTN        14.029    CW          35   599 599 |TS-480|<strong>Italy</strong>|923km
+290  2025-11-09 11:23 ES2QD         14.029    CW           4   599 599 |TS-480|<strong>Estonia</strong>|1227km
+291  2025-11-09 11:23 OG3B          14.029    CW         745   599 599 |TS-480|<strong>Finland</strong>|1305km
+292  2025-11-09 11:24 DK1FY         14.029    CW         162   599 599 |TS-480|<strong>Germany</strong>|326km
+293  2025-11-09 11:24 UZ1U          14.029    CW         182   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+294  2025-11-09 11:25 IK4RUX        14.029    CW          50   599 599 |TS-480|<strong>Italy</strong>|923km
+295  2025-11-09 11:26 OH3KAV        14.029    CW         187   599 599 |TS-480|<strong>Finland</strong>|1305km
+296  2025-11-09 11:26 EA5OH         14.029    CW         388   599 599 |TS-480|<strong>Spain</strong>|1772km
+297  2025-11-09 11:26 PG7R          14.029    CW          16   599 599 |TS-480|<strong>Netherlands</strong>|708km
+298  2025-11-09 11:27 SP3VT         14.029    CW         705   599 599 |TS-480|<strong>Poland</strong>|515km
+299  2025-11-09 11:27 SM0Q          14.029    CW         305   599 599 |TS-480|<strong>Sweden</strong>|1049km
+300  2025-11-09 11:28 HB9HDV        14.029    CW         045   599 599 |TS-480|<strong>Switzerland</strong>|613km
+301  2025-11-09 11:28 G3RTU         14.029    CW          47   599 599 |TS-480|<strong>England</strong>|1029km
+302  2025-11-09 11:28 OK6RA         14.029    CW         BKD   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+303  2025-11-09 11:28 CT1DAB        14.029    CW         451   599 599 |TS-480|<strong>Portugal</strong>|2247km
+304  2025-11-09 11:29 CT1DRB        14.029    CW          22   599 599 |TS-480|<strong>Portugal</strong>|2247km
+305  2025-11-09 11:29 S54X          14.029    CW         527   599 599 |TS-480|<strong>Slovenia</strong>|455km
+306  2025-11-09 11:30 OK2BFN        14.029    CW         GZL   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+307  2025-11-09 11:30 YO4LHR        14.029    CW         132   599 599 |TS-480|<strong>Romania</strong>|1085km
+308  2025-11-09 11:30 S52W          14.029    CW         775   599 599 |TS-480|<strong>Slovenia</strong>|455km
+309  2025-11-09 11:31 UN8PT         14.029    CW         355   599 599 |TS-480|<strong>Kazakhstan</strong>|4683km
+310  2025-11-09 11:32 DD7NT         14.029    CW         19N   599 599 |TS-480|<strong>Germany</strong>|326km
+311  2025-11-09 11:32 SK0QO         14.029    CW         308   599 599 |TS-480|<strong>Sweden</strong>|1049km
+312  2025-11-09 11:33 LY2A          14.029    CW         270   599 599 |TS-480|<strong>Lithuania</strong>|897km
+313  2025-11-09 11:33 IT9PPG        14.029    CW          80   599 599 |TS-480|<strong>Sicily</strong>|1401km
+314  2025-11-09 11:33 N3RD          14.029    CW          25   599 599 |TS-480|<strong>United States</strong>|7223km
+315  2025-11-09 11:34 ER1AA         14.029    CW         160   599 599 |TS-480|<strong>Moldova</strong>|1112km
+316  2025-11-09 11:36 LZ2PS         14.029    CW         321   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+317  2025-11-09 11:36 PA3AAV        14.029    CW         801   599 599 |TS-480|<strong>Netherlands</strong>|708km
+318  2025-11-09 11:36 KC1XX         14.029    CW        1058   599 599 |TS-480|<strong>United States</strong>|7223km
+319  2025-11-09 11:37 YU5T          14.029    CW         442   599 599 |TS-480|<strong>Serbia</strong>|737km
+320  2025-11-09 11:38 DL2NBY        14.029    CW         524   599 599 |TS-480|<strong>Germany</strong>|326km
+321  2025-11-09 11:38 OK1DMP        14.029    CW         BPV   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+322  2025-11-09 11:39 OK7T          14.029    CW         ECL   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+323  2025-11-09 11:41 SN5J          14.029    CW         226   599 599 |TS-480|<strong>Poland</strong>|515km
+324  2025-11-09 11:42 PC1PM         14.029    CW         220   599 599 |TS-480|<strong>Netherlands</strong>|708km
+325  2025-11-09 11:42 YO/IK5MEP     14.029    CW          50   599 599 |TS-480|<strong>Romania</strong>|1085km
+326  2025-11-09 11:42 LC5A          14.029    CW         467   599 599 |TS-480|<strong>Norway</strong>|1125km
+327  2025-11-09 11:43 LA8OM         14.029    CW         569   599 599 |TS-480|<strong>Norway</strong>|1125km
+328  2025-11-09 11:44 HG6O          14.029    CW         234   599 599 |TS-480|<strong>Hungary</strong>|449km
+329  2025-11-09 11:44 IW7BIM        14.029    CW          28   599 599 |TS-480|<strong>Italy</strong>|923km
+330  2025-11-09 11:45 LY4Q          14.029    CW         036   599 599 |TS-480|<strong>Lithuania</strong>|897km
+331  2025-11-09 11:45 OK3AF         14.029    CW         GZS   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+332  2025-11-09 11:46 OK2NO         14.029    CW         SBR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+333  2025-11-09 11:47 OK2NMA        14.029    CW         GTR   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+334  2025-11-09 11:49 DK8ZB         14.029    CW         539   599 599 |TS-480|<strong>Germany</strong>|326km
+335  2025-11-09 11:49 HG1G          14.029    CW        1073   599 599 |TS-480|<strong>Hungary</strong>|449km
+336  2025-11-09 11:50 SO5WD         14.029    CW         222   599 599 |TS-480|<strong>Poland</strong>|515km
+337  2025-11-09 11:51 S50ZFU        14.029    CW         659   599 599 |TS-480|<strong>Slovenia</strong>|455km
+338  2025-11-09 11:51 MM2T          14.029    CW         540   599 599 |TS-480|<strong>Scotland</strong>|1397km
+339  2025-11-09 11:52 OK2BRJ        14.029    CW         SFM   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+340  2025-11-09 11:52 HA6NL         14.029    CW         798   599 599 |TS-480|<strong>Hungary</strong>|449km
+341  2025-11-09 11:53 EZ8EYP        14.029    CW          59   599 599 |TS-480|<strong>Turkmenistan</strong>|3701km
+342  2025-11-09 11:54 EA2AZ         14.029    CW         645   599 599 |TS-480|<strong>Spain</strong>|1772km
+343  2025-11-09 11:54 MM/LY3X/P     14.029    CW         132   599 599 |TS-480|<strong>Scotland</strong>|1397km
+344  2025-11-09 11:56 G4RQI         14.029    CW          93   599 599 |TS-480|<strong>England</strong>|1029km
+345  2025-11-09 11:56 DF3SM         14.029    CW         100   599 599 |TS-480|<strong>Germany</strong>|326km
+346  2025-11-09 11:56 OK6Y          14.029    CW         GVY   599 599 |TS-480|<strong>Czech Republic</strong>|0km
+347  2025-11-09 11:57 DL1NKS        14.029    CW         355   599 599 |TS-480|<strong>Germany</strong>|326km
+348  2025-11-09 11:58 OH5ZA         14.029    CW         150   599 599 |TS-480|<strong>Finland</strong>|1305km
+349  2025-11-09 11:58 M1X           14.029    CW         498   599 599 |TS-480|<strong>England</strong>|1029km
+350  2025-11-09 11:59 EB5A          14.029    CW         297   599 599 |TS-480|<strong>Spain</strong>|1772km

@@ -564,3 +564,69 @@
 564  2025-04-08 19:03 HA100I         7.021    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
 565  2025-04-08 19:15 WP4TZ         21.031    CW         539   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
 566  2025-04-08 19:37 NQ1F          21.050    CW          54   599 599 |IC-705|<strong>United States</strong>|7223km
+567  2025-04-17 18:33 CT9/HA7GN     28.016    CW         599   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
+568  2025-04-22 20:57 VP9KF         14.023    CW         599   599 599 |IC-705|<strong>Bermuda</strong>|6579km
+569  2025-04-22 21:09 SZ100IARU     10.114    CW         599   599 599 |IC-705|<strong>Greece</strong>|1534km
+570  2025-04-22 22:02 AO2IARU       10.112    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+571  2025-04-24 18:11 AO7IARU       21.022    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+572  2025-04-24 18:28 TM35REF       14.005    CW         599   599 599 |IC-705|<strong>France</strong>|885km
+573  2025-04-24 18:33 Z3100IARU     14.022    CW         599   599 599 |IC-705|<strong>Macedonia</strong>|1068km
+574  2025-04-24 18:53 VP2VI         28.025    CW         599   599 599 |IC-705|<strong>British Virgin Is.</strong>|7672km
+575  2025-05-04 18:32 TM74REF       10.117    CW         599   599 599 |IC-705|<strong>France</strong>|885km
+576  2025-05-04 18:39 K2EAG         21.047    CW         579   599 599 |IC-705|<strong>United States</strong>|7223km
+577  2025-05-04 19:07 XQ3WD         28.021    CW         559   599 599 |IC-705|<strong>Chile</strong>|12481km
+578  2025-05-05 18:37 AO1100WS      14.037    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+579  2025-05-05 21:25 FM5BH         21.014    CW         599   599 599 |IC-705|<strong>Martinique</strong>|7730km
+580  2025-05-06 21:54 K2HVN         14.065    CW         559   599 599 |IC-705|<strong>United States</strong>|7223km
+581  2025-05-06 22:56 K4NYM         14.058    CW         599   599 599 |IC-705|<strong>United States</strong>|7223km
+582  2025-05-13 21:40 CT7/VE3MA     14.060    CW         559   599 599 |IC-705|<strong>Portugal</strong>|2247km
+583  2025-05-13 22:07 WI1ZRD        14.057    CW         339   599 599 |IC-705|<strong>United States</strong>|7223km
+584  2025-05-20 20:35 CT1ILT        14.025    CW         599   599 599 |IC-705|<strong>Portugal</strong>|2247km
+585  2025-05-20 21:34 K1TH          14.053    CW      559 ME   599 599 |IC-705|<strong>United States</strong>|7223km
+586  2025-05-24 19:24 ZP6WX         28.009    CW          01   599 599 |IC-705|<strong>Paraguay</strong>|10964km
+587  2025-05-24 19:31 LU3WC         28.046    CW          02   599 599 |IC-705|<strong>Argentina</strong>|11812km
+588  2025-05-24 19:34 FY5KE         28.049    CW          03   599 599 |IC-705|<strong>French Guiana</strong>|7943km
+589  2025-05-24 19:36 XQ3WD         28.050    CW          04   599 599 |IC-705|<strong>Chile</strong>|12481km
+590  2025-05-24 19:55 AB2A          21.003    CW          05   599 599 |IC-705|<strong>United States</strong>|7223km
+591  2025-05-24 19:56 K3LR          21.002    CW          06   599 599 |IC-705|<strong>United States</strong>|7223km
+592  2025-07-05 21:05 DK5PD        144.088   CW   21 JN39VV  435km 271°   599 599 |IC-705|<strong>Germany</strong>|326km
+593  2025-07-05 21:08 DL7AFB       144.073   CW  207 JO62JA  235km 342°   599 599 |IC-705|<strong>Germany</strong>|326km
+594  2025-07-05 21:19 OM3FW        144.108   CW  356 JN98AS  332km 113°   599 599 |IC-705|<strong>Slovakia</strong>|296km
+595  2025-07-05 21:39 OK4C         144.151   CW  388 JN79BU   26km 136°   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+596  2025-07-05 21:44 HG6Z         144.085   CW  191 JN97WV  498km 116°   599 599 |IC-705|<strong>Hungary</strong>|449km
+597  2025-07-11 19:10 P44W          21.035    CW         599   599 599 |IC-705|<strong>Aruba</strong>|8547km
+598  2025-07-12 14:19 UP2L          21.026    CW          20   599 599 |IC-705|<strong>Kazakhstan</strong>|4683km
+599  2025-07-15 20:28 HQ9HC         14.050    CW         599   599 599 |IC-705|<strong>Honduras</strong>|9613km
+600  2025-07-26 20:31 OG3C          10.108    CW         599   599 599 |IC-705|<strong>Finland</strong>|1305km
+601  2025-07-26 20:41 KP2M          28.025    CW         599   599 599 |IC-705|<strong>Virgin Is.</strong>|7702km
+602  2025-08-21 22:23 VE3OS         14.061    CW         559   599 599 |IC-705|<strong>Canada</strong>|6615km
+603  2025-08-21 22:24 VE3OSR        14.061    CW         559   599 599 |IC-705|<strong>Canada</strong>|6615km
+604  2025-09-06 19:33 DL0STO       144.060   CW  107 JO70IT  106km  34°   599 599 |IC-705|<strong>Germany</strong>|326km
+605  2025-09-06 19:40 DK3QZ/P      144.072   CW  184 JO30IK  512km 278°   599 599 |IC-705|<strong>Germany</strong>|326km
+606  2025-09-06 19:44 OM3FW        144.087   CW  336 JN98AS  332km 113°   599 599 |IC-705|<strong>Slovakia</strong>|296km
+607  2025-09-06 19:52 DQ8N         144.102   CW  138 JO50RK  178km 286°   599 599 |IC-705|<strong>Germany</strong>|326km
+608  2025-09-06 21:07 DP5A         144.075   CW   90 JO60PO   77km 328°   599 599 |IC-705|<strong>Germany</strong>|326km
+609  2025-09-06 21:15 HA2R         144.091   CW  245 JN87UE  423km 137°   599 599 |IC-705|<strong>Hungary</strong>|449km
+610  2025-09-06 21:17 OM3W         144.133   CW  390 JN99CH  322km 103°   599 599 |IC-705|<strong>Slovakia</strong>|296km
+611  2025-09-06 21:20 E73O         144.112   CW  164 JN95CA  644km 148°   599 599 |IC-705|<strong>Bosnia-Herzegovina</strong>|791km
+612  2025-10-14 16:47 K2LT          21.064    CW         439   599 599 |IC-705|<strong>United States</strong>|7223km
+613  2025-10-14 16:55 K5OHY         28.044    CW         439   599 599 |IC-705|<strong>United States</strong>|7223km
+614  2025-10-17 15:54 K2UPD         21.057    CW         579   599 599 |IC-705|<strong>United States</strong>|7223km
+615  2025-10-17 16:26 WW4D          28.061    CW         559   599 599 |IC-705|<strong>United States</strong>|7223km
+616  2025-10-17 16:38 WI5D          28.049    CW         559   599 599 |IC-705|<strong>United States</strong>|7223km
+617  2025-10-17 17:29 KG8CO         21.044    CW         599   599 599 |IC-705|<strong>United States</strong>|7223km
+618  2025-10-24 16:21 WB0POH        28.046    CW      559 VA   599 599 |IC-705|<strong>United States</strong>|7223km
+619  2025-10-25 18:03 CN3A           7.100   SSB          33    59 59 |TS-480|<strong>Morocco</strong>|2561km
+620  2025-10-25 18:07 CN3A           3.706   SSB          33    59 59 |TS-480|<strong>Morocco</strong>|2561km
+621  2025-10-25 18:12 IZ8FFZ        28.402   SSB          15    59 59 |TS-480|<strong>Italy</strong>|923km
+622  2025-10-25 18:15 LZ9W          28.386   SSB          20    59 59 |TS-480|<strong>Bulgaria</strong>|1067km
+623  2025-10-25 18:17 KW8N          28.357   SSB           4    59 59 |TS-480|<strong>United States</strong>|7223km
+624  2025-10-25 18:19 CQ9A          28.329   SSB          33    59 59 |TS-480|<strong>Madeira Is.</strong>|3218km
+625  2025-10-25 18:37 CN3A          21.270   SSB          15    59 59 |IC-746|<strong>Morocco</strong>|2561km
+626  2025-10-25 18:48 CN3A          14.260   SSB          33    59 59 |IC-746|<strong>Morocco</strong>|2561km
+627  2025-10-26 07:33 CN3A          28.484   SSB          33    59 59 |IC-746|<strong>Morocco</strong>|2561km
+628  2025-11-21 15:52 W1AW          21.034    CW         439   599 599 |IC-705|<strong>United States</strong>|7223km
+629  2025-11-21 17:06 KU1CW         21.008    CW         599   599 599 |IC-705|<strong>United States</strong>|7223km
+630  2025-11-21 21:03 HA39EUDXF      3.522    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
+631  2025-11-25 22:32 EA8/N6MJ       7.008    CW         599   599 599 |IC-705|<strong>Canary Is.</strong>|3473km
+632  2025-11-25 22:39 WP3C           7.018    CW         599   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km

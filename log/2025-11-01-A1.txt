@@ -1,0 +1,52 @@
+1    2025-11-01 16:33 HA6W         144.092   CW      JN08FB 1000km 263°   599 599 |IC-746|<strong>Hungary</strong>|449km
+2    2025-11-01 17:08 IS3OPQ       144.092   CW      JN75RX  465km 165°   599 599 |IC-746|<strong>Sardinia</strong>|1281km
+3    2025-11-01 17:13 OE5D         144.092   CW   28 JN68PC  217km 191°   599 599 |IC-746|<strong>Austria</strong>|252km
+4    2025-11-01 17:17 OK1RAR       144.092   CW   48 JO70DB   30km  81°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+5    2025-11-01 17:18 OK1VSJ       144.092   CW   31 JN69IS   88km 252°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+6    2025-11-01 17:19 OK1PGS       144.092   CW   58 JN69RS   41km 227°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+7    2025-11-01 17:20 OK1BM        144.092   CW   47 JO70OP  117km  53°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+8    2025-11-01 17:21 OK5T         144.092   CW   58 JO70BK   50km  21°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+9    2025-11-01 17:25 OK1DGR       144.092   CW   45 JO70AE   22km  33°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+10   2025-11-01 17:26 OL5W         144.092   CW    3 JN69WO   46km 180°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+11   2025-11-01 17:26 OK4C         144.092   CW    7 JN69WO   46km 180°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+12   2025-11-01 17:27 OK1KNG       144.092   CW    4 JN69WO   46km 180°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+13   2025-11-01 17:27 OK1IC        144.092   CW    9 JN69WO   46km 180°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+14   2025-11-01 17:28 OK1DX        144.092   CW   52 JN69SD  100km 194°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+15   2025-11-01 17:29 DM3W         144.092   CW   31 JO30XE  422km 275°   599 599 |IC-746|<strong>Germany</strong>|326km
+16   2025-11-01 17:30 OK1VWK       144.092   CW   39 JO70AE   22km  33°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+17   2025-11-01 17:35 DL3IAE       144.092   CW   19 JN49NP  343km 265°   599 599 |IC-746|<strong>Germany</strong>|326km
+18   2025-11-01 17:36 OK5WA        144.092   CW   94 JN89AO  162km 106°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+19   2025-11-01 17:38 OK1RDO       144.092   CW   69 JN69KL   94km 230°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+20   2025-11-01 17:39 IL1SMA       144.092   CW   26 JN48JC  427km 242°   599 599 |IC-746|<strong>Italy</strong>|923km
+21   2025-11-01 17:41 OK2AF        144.092   CW   86 JN89AR  159km 101°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+22   2025-11-01 17:42 DL7UIO       144.092   CW   37 JN38EX  554km 261°   599 599 |IC-746|<strong>Germany</strong>|326km
+23   2025-11-01 17:44 DQ8N         144.092   CW   52 JO50RK  178km 286°   599 599 |IC-746|<strong>Germany</strong>|326km
+24   2025-11-01 17:50 DL1JHR       144.092   CW   45 JO60LN   89km 313°   599 599 |IC-746|<strong>Germany</strong>|326km
+25   2025-11-01 17:53 DL1YAW       144.092   CW   33 JO41DX  447km 301°   599 599 |IC-746|<strong>Germany</strong>|326km
+26   2025-11-01 17:56 DF1HF        144.092   CW    6 JO43WJ  465km 325°   599 599 |IC-746|<strong>Germany</strong>|326km
+27   2025-11-01 17:58 DK8MM        144.092   CW    7 JO53CL  460km 328°   599 599 |IC-746|<strong>Germany</strong>|326km
+28   2025-11-01 17:59 DL2LSM       144.092   CW    8 JO61GH  172km 327°   599 599 |IC-746|<strong>Germany</strong>|326km
+29   2025-11-01 18:01 DF4XG        144.092   CW   44 JO43WI  462km 325°   599 599 |IC-746|<strong>Germany</strong>|326km
+30   2025-11-01 18:01 DJ2XY        144.092   CW   28 JO43WI  462km 325°   599 599 |IC-746|<strong>Germany</strong>|326km
+31   2025-11-01 18:06 OK8KM        144.092   CW   23 JN89CX  167km  91°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+32   2025-11-01 18:08 OK3A         144.092   CW   80 JO70PO  120km  57°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+33   2025-11-01 18:09 DL6SH        144.092   CW  120 JN48SW  335km 251°   599 599 |IC-746|<strong>Germany</strong>|326km
+34   2025-11-01 18:10 OK2W         144.092   CW  118 JN99AJ  308km 101°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+35   2025-11-01 19:17 IQ3LX        144.092   CW   86 JN65GL  515km 192°   599 599 |IC-746|<strong>Italy</strong>|923km
+36   2025-11-01 19:18 OK1KCB       144.092   CW  119 JN79GB  117km 155°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+37   2025-11-01 19:23 OK1CT        144.092   CW   41 JN69QQ   52km 224°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+38   2025-11-01 19:34 OK1CZ        144.092   CW   65 JO70EC   37km  75°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+39   2025-11-01 19:40 OK2KRT       144.092   CW  117 JN99BK  312km 100°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+40   2025-11-01 19:43 OK1KKD       144.092   CW  118 JO70BT   90km  11°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+41   2025-11-01 19:46 OL1B         144.092   CW   86 JO80ID  203km  85°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+42   2025-11-01 19:47 OK2CVH       144.092   CW   28 JN89VJ  290km 102°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+43   2025-11-01 19:48 OK1DJS       144.092   CW   12 JO70FB   42km  83°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+44   2025-11-01 19:50 OK1DUG       144.092   CW   17 JO60WP   69km   0°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+45   2025-11-01 21:52 OK1KMU       144.092   CW   90 JN69IS   88km 252°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+46   2025-11-02 09:25 DL2DXA       144.092   CW   10 JO61VC  121km 357°   599 599 |IC-746|<strong>Germany</strong>|326km
+47   2025-11-02 09:26 DL0STO       144.092   CW  211 JO70IT  106km  34°   599 599 |IC-746|<strong>Germany</strong>|326km
+48   2025-11-02 09:27 OK5W         144.092   CW  206 JO60OK   66km 315°   599 599 |IC-746|<strong>Czech Republic</strong>|0km
+49   2025-11-02 09:27 DK0NA        144.092   CW  423 JO50TI  164km 284°   599 599 |IC-746|<strong>Germany</strong>|326km
+50   2025-11-02 09:35 DL2CC        144.092   CW  228 JN48WM  335km 242°   599 599 |IC-746|<strong>Germany</strong>|326km
+51   2025-11-02 09:37 OM3RBS       144.092   CW  261 JN98KJ  406km 115°   599 599 |IC-746|<strong>Slovakia</strong>|296km
+52   2025-11-02 09:38 OK1DWF       144.092   CW   71 JO70QA  107km  89°   599 599 |IC-746|<strong>Czech Republic</strong>|0km

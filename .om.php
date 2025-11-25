@@ -11,9 +11,9 @@
 $locator   = 'JO60WA';		// QTH for 2m and up sending MSG
 $IP1        = '192.168.1.52';	// CAT/UDP TRX interface - find IP with 'ping ic705.local'
 $trx1name   = 'IC-705';
-$IP2        = '192.168.1.50';	// CAT/UDP TRX interface
+$IP2        = '192.168.1.34';	// CAT/UDP TRX interface
 $trx2name   = 'TS-480';
-$IP3        = '192.168.1.50';	// CAT/UDP TRX interface
+$IP3        = '192.168.1.34';	// CAT/UDP TRX interface
 $trx3name   = 'IC-746';
 
 // default

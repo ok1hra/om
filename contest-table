@@ -1,4 +1,22 @@
 <tr>
+	<td>2025-11-08-OK-OM-DX</td>
+	<td>OK1HRA</td>
+	<td class="center">BRA</td>
+	<td><a href="log/2025-11-08-OK-OM-DX.txt">.txt</a></td>
+	<td><a href="log/2025-11-08-OK-OM-DX.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2025-11-08-OK-OM-DX.txt")) { echo qso("log/2025-11-08-OK-OM-DX.txt"); $sumqso=$sumqso+qso("log/2025-11-08-OK-OM-DX.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2025-11-08-OK-OM-DX&call=OK1HRA&exch=BRA" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
+	<td>2025-11-01-A1</td>
+	<td>OK1HRA</td>
+	<td class="center">NR</td>
+	<td><a href="log/2025-11-01-A1.txt">.txt</a></td>
+	<td><a href="log/2025-11-01-A1.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2025-11-01-A1.txt")) { echo qso("log/2025-11-01-A1.txt"); $sumqso=$sumqso+qso("log/2025-11-01-A1.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2025-11-01-A1&call=OK1HRA&exch=NR" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
 	<td>2025-02-15-ARRL-CW</td>
 	<td>OK1HRA</td>
 	<td class="center">2TT</td>
