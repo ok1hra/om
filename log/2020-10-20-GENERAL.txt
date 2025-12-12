@@ -631,3 +631,5 @@
 631  2025-11-25 22:32 EA8/N6MJ       7.008    CW         599   599 599 |IC-705|<strong>Canary Is.</strong>|3473km
 632  2025-11-25 22:39 WP3C           7.018    CW         599   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
 633  2025-11-28 17:29 CT9/DL7UGN    21.015    CW         599   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
+634  2025-12-09 19:45 VK3NX         10.105    CW         549   599 599 |IC-705|<strong>Australia</strong>|14029km
+635  2025-12-12 13:46 OI6S          21.010    CW         599   599 599 |IC-705|<strong>Finland</strong>|1305km
