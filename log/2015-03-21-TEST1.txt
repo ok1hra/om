@@ -141,3 +141,6 @@
 141  2025-02-10 19:50 K3EA          14.025    CW           C   599 599 |IC-705|<strong>United States</strong>|7223km
 142  2025-02-10 19:52 K4EA          14.025    CW           D   599 599 |IC-705|<strong>United States</strong>|7223km
 143  2025-02-10 19:58 K5EA          14.022    CW           E   599 599 |IC-705|<strong>United States</strong>|7223km
+144  2025-12-13 23:13 OK4DC          3.511    CW          73   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+145  2025-12-13 23:14 OK1MND         3.511    CW          88   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+146  2025-12-13 23:16 OL5Q           3.511    CW         999   599 599 |IC-705|<strong>Czech Republic</strong>|0km

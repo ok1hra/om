@@ -24,7 +24,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '2025-02-10';
+$REV = '2025-12-14';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -46,6 +46,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
+	2025-12 - fix autofocus
 	2025-02 - manual QSO number decrease (start at 001 in exist log) via ?nr=xx in url
 	2024-11 - Three button for switch between three TRX
 	2024-01 - Add FM mode, add two TRX switch, TRX name and log it
@@ -863,16 +864,33 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 						udpsocket($IP, port(), $CQ );
 						$mhz = number_format(round(freq($rigip)/1000000, 3), 3);
 						$show = $CQ.' <span class="'.$style.'">('.$mhz.' Mhz) | Occupant detected!</span>' ;
+
+						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$callr = '';
+						$preset = $callr;
+						$af1 = 'autofocus="autofocus"';
+						$af2 = '';
 					} else {
 						udpsocket($IP, port(), $TXEXCH);
 					//	$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
 							txfile('/tmp/callr', $callr);  // save call for test, if change
 						$show = $TXEXCH ;
+
+						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$preset = $callr;
+						$af1 = '';
+						$af2 = 'autofocus="autofocus"';
 					}
 
 				}elseif ($conteststyle == 'sp'){
 					if (preg_match('*(Russia|Kaliningrad)*', GetDxcc($callr))) {
 						$show = 'Occupant detected! ' ;
+
+						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$callr = '';
+						$preset = $callr;
+						$af1 = 'autofocus="autofocus"';
+						$af2 = '';
 					} else {
 						if ($mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 							udpsocket($IP, port(), ' '.$call.' '.$call.' ' );	// DE call call RTTY
@@ -882,13 +900,18 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 					//	$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
 						$mhz =number_format( round(freq($rigip)/1000000, 3), 3);
 						$show = $call.' <span class="'.$style.'">('.$mhz.' Mhz)</span>' ;
+						
+						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$preset = $callr;
+						$af1 = '';
+						$af2 = 'autofocus="autofocus"';			
 					}
 				}
 			}
-			$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
-			$preset = $callr;
-			$af1 = '';
-			$af2 = 'autofocus="autofocus"';
+//			$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+//			$preset = $callr;
+//			$af1 = '';
+//			$af2 = 'autofocus="autofocus"';
 		}elseif (isset($callr) && isset($qsonrr)){  // if call and nr writed, run TU
 			if ($mode == 'CW' || $mode == 'CWR' || $mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 				if ($conteststyle == 'run'){
