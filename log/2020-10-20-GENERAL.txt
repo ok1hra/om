@@ -633,3 +633,4 @@
 633  2025-11-28 17:29 CT9/DL7UGN    21.015    CW         599   599 599 |IC-705|<strong>Madeira Is.</strong>|3218km
 634  2025-12-09 19:45 VK3NX         10.105    CW         549   599 599 |IC-705|<strong>Australia</strong>|14029km
 635  2025-12-12 13:46 OI6S          21.010    CW         599   599 599 |IC-705|<strong>Finland</strong>|1305km
+636  2025-12-12 17:24 VC9A          14.015    CW         599   599 599 |IC-705|<strong>Canada</strong>|6615km
