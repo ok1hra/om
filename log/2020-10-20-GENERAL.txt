@@ -634,3 +634,6 @@
 634  2025-12-09 19:45 VK3NX         10.105    CW         549   599 599 |IC-705|<strong>Australia</strong>|14029km
 635  2025-12-12 13:46 OI6S          21.010    CW         599   599 599 |IC-705|<strong>Finland</strong>|1305km
 636  2025-12-12 17:24 VC9A          14.015    CW         599   599 599 |IC-705|<strong>Canada</strong>|6615km
+637  2025-12-21 09:37 OK3KW        144.199  USB59 005 JO60LJ   77km 303°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
+638  2025-12-22 14:14 KH7XS         21.030    CW         599   599 599 |IC-705|<strong>Hawaii</strong>|12039km
+639  2025-12-22 14:53 KU1CW         28.024    CW          59   599 599 |IC-705|<strong>United States</strong>|7223km

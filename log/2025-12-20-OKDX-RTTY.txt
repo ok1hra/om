@@ -1,0 +1,61 @@
+1    2025-12-20 04:52 OL7K           3.580   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+2    2025-12-20 05:08 OK1DO          3.582   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+3    2025-12-20 05:11 US1VM          3.583   FSK          16   599 599 |IC-705|<strong>Ukraine</strong>|1142km
+4    2025-12-20 05:13 OL1C           3.583   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+5    2025-12-20 05:16 HG100UD        3.585   FSK          15   599 599 |IC-705|<strong>Hungary</strong>|449km
+6    2025-12-20 05:18 OK2SFP         3.585   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+7    2025-12-20 05:19 OK1FLC         3.586   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+8    2025-12-20 05:22 OK1DEZ         3.587   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+9    2025-12-20 05:23 OK1PI          3.588   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+10   2025-12-20 05:25 LY7Z           3.588   FSK          15   599 599 |IC-705|<strong>Lithuania</strong>|897km
+11   2025-12-20 05:34 EN60NK         3.589   FSK          16   599 599 |IC-705|<strong>Ukraine</strong>|1142km
+12   2025-12-20 14:31 UT4LW         14.090  RTTY          16   599 599 |TS-480|<strong>Ukraine</strong>|1142km
+13   2025-12-20 14:32 OG2P          14.090  RTTY          15   599 599 |TS-480|<strong>Finland</strong>|1305km
+14   2025-12-20 14:33 M5L           14.090  RTTY          14   599 599 |TS-480|<strong>England</strong>|1029km
+15   2025-12-20 14:33 DP7D          14.090  RTTY          14   599 599 |TS-480|<strong>Germany</strong>|326km
+16   2025-12-20 14:35 ON6FC         14.090  RTTY          14   599 599 |TS-480|<strong>Belgium</strong>|712km
+17   2025-12-20 14:37 EC9C          14.090  RTTY          14   599 599 |TS-480|<strong>Ceuta and Melilla</strong>|2136km
+18   2025-12-20 14:38 4Z4DX         14.090  RTTY          20   599 599 |TS-480|<strong>Israel</strong>|2663km
+19   2025-12-20 14:39 4Z4DX         14.090  RTTY          20   599 599 |TS-480|<strong>Israel</strong>|2663km
+20   2025-12-20 14:40 EA4FME        14.090  RTTY          14   599 599 |TS-480|<strong>Spain</strong>|1772km
+21   2025-12-20 14:41 G4EBY         14.090  RTTY          14   599 599 |TS-480|<strong>England</strong>|1029km
+22   2025-12-20 14:42 EA4GOY        14.090  RTTY          14   599 599 |TS-480|<strong>Spain</strong>|1772km
+23   2025-12-20 14:43 G0LDK         14.090  RTTY          14   599 599 |TS-480|<strong>England</strong>|1029km
+24   2025-12-20 14:44 LZ2MP         14.090  RTTY          20   599 599 |TS-480|<strong>Bulgaria</strong>|1067km
+25   2025-12-20 14:44 EA5DO         14.090  RTTY          14   599 599 |TS-480|<strong>Spain</strong>|1772km
+26   2025-12-20 14:45 M2O           14.090  RTTY          14   599 599 |TS-480|<strong>England</strong>|1029km
+27   2025-12-20 14:45 M0TQR         14.090  RTTY          14   599 599 |TS-480|<strong>England</strong>|1029km
+28   2025-12-20 14:46 OH6LUW        14.090  RTTY          15   599 599 |TS-480|<strong>Finland</strong>|1305km
+29   2025-12-20 14:48 M5LMG         14.090  RTTY          14   599 599 |TS-480|<strong>England</strong>|1029km
+30   2025-12-20 14:52 F4FDR         14.090  RTTY          14   599 599 |TS-480|<strong>France</strong>|885km
+31   2025-12-20 14:53 OH8KU         14.090  RTTY          15   599 599 |TS-480|<strong>Finland</strong>|1305km
+32   2025-12-20 14:54 GW4W          14.090  RTTY          14   599 599 |TS-480|<strong>Wales</strong>|1243km
+33   2025-12-20 14:55 K1DC          14.090  RTTY           5   599 599 |TS-480|<strong>United States</strong>|7223km
+34   2025-12-20 14:56 EA1AS         14.090  RTTY          14   599 599 |TS-480|<strong>Spain</strong>|1772km
+35   2025-12-20 14:59 G0FGI         14.090  RTTY          14   599 599 |TS-480|<strong>England</strong>|1029km
+36   2025-12-20 14:59 IT9VCE        14.090  RTTY          15   599 599 |TS-480|<strong>Sicily</strong>|1401km
+37   2025-12-20 17:43 KR9U          14.089  RTTY           4   599 599 |TS-480|<strong>United States</strong>|7223km
+38   2025-12-20 17:43 W3LL          14.089  RTTY           5   599 599 |TS-480|<strong>United States</strong>|7223km
+39   2025-12-20 17:46 F5GKW         14.089  RTTY          14   599 599 |TS-480|<strong>France</strong>|885km
+40   2025-12-20 17:56 EA7/HA3NZ     14.089  RTTY          14   599 599 |TS-480|<strong>Spain</strong>|1772km
+41   2025-12-20 17:58 KT9L          14.089  RTTY           5   599 599 |TS-480|<strong>United States</strong>|7223km
+42   2025-12-20 17:59 AI9T          14.089  RTTY           4   599 599 |TS-480|<strong>United States</strong>|7223km
+43   2025-12-20 18:03 K1MK          14.089  RTTY           5   599 599 |TS-480|<strong>United States</strong>|7223km
+44   2025-12-20 21:03 DQ9Y           3.589   FSK          14   599 599 |IC-705|<strong>Germany</strong>|326km
+45   2025-12-20 21:04 LY4K           3.589   FSK          15   599 599 |IC-705|<strong>Lithuania</strong>|897km
+46   2025-12-20 21:05 IW3SSD         3.589   FSK          15   599 599 |IC-705|<strong>Italy</strong>|923km
+47   2025-12-20 21:06 LY6A           3.589   FSK          15   599 599 |IC-705|<strong>Lithuania</strong>|897km
+48   2025-12-20 21:06 OG2P           3.589   FSK          15   599 599 |IC-705|<strong>Finland</strong>|1305km
+49   2025-12-20 21:07 F6BQG          3.589   FSK          14   599 599 |IC-705|<strong>France</strong>|885km
+50   2025-12-20 21:07 ON4FI          3.589   FSK          14   599 599 |IC-705|<strong>Belgium</strong>|712km
+51   2025-12-20 21:09 OK1KKI         3.589   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+52   2025-12-20 21:09 OL1T           3.589   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+53   2025-12-20 21:10 F5BEG          3.589   FSK          14   599 599 |IC-705|<strong>France</strong>|885km
+54   2025-12-20 21:11 SN8Z           3.589   FSK          15   599 599 |IC-705|<strong>Poland</strong>|515km
+55   2025-12-20 21:11 OK2SG          3.589   FSK          15   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+56   2025-12-20 21:12 I3PXN          3.589   FSK          15   599 599 |IC-705|<strong>Italy</strong>|923km
+57   2025-12-20 21:13 PA3DUU         3.589   FSK          14   599 599 |IC-705|<strong>Netherlands</strong>|708km
+58   2025-12-20 21:13 DP7D           3.589   FSK          14   599 599 |IC-705|<strong>Germany</strong>|326km
+59   2025-12-20 21:13 IV3IPS         3.589   FSK          15   599 599 |IC-705|<strong>Italy</strong>|923km
+60   2025-12-20 21:14 IW1CBG         3.589   FSK          15   599 599 |IC-705|<strong>Italy</strong>|923km
+61   2025-12-20 21:15 OH8KA          3.589   FSK          15   599 599 |IC-705|<strong>Finland</strong>|1305km
