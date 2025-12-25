@@ -637,3 +637,8 @@
 637  2025-12-21 09:37 OK3KW        144.199  USB59 005 JO60LJ   77km 303°    59 59 |IC-705|<strong>Czech Republic</strong>|0km
 638  2025-12-22 14:14 KH7XS         21.030    CW         599   599 599 |IC-705|<strong>Hawaii</strong>|12039km
 639  2025-12-22 14:53 KU1CW         28.024    CW          59   599 599 |IC-705|<strong>United States</strong>|7223km
+640  2025-12-25 11:53 4X25A         21.035    CW         599   599 599 |IC-705|<strong>Israel</strong>|2663km
+641  2025-12-25 12:44 TA3OPS        14.044    CW         599   599 599 |IC-705|<strong>Turkey</strong>|1834km
+642  2025-12-25 16:17 KU1CW         28.021    CW         599   599 599 |IC-705|<strong>United States</strong>|7223km
+643  2025-12-25 21:31 DL50OHM        3.533    CW         599   599 599 |IC-705|<strong>Germany</strong>|326km
+644  2025-12-25 21:33 HA6YOTA        3.531    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
