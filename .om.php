@@ -14,7 +14,7 @@ $trx1name   = 'IC-705';
 $IP2        = '192.168.1.44';	// CAT/UDP TRX interface
 $trx2name   = 'TS-480';
 $IP3        = '192.168.1.44';	// CAT/UDP TRX interface
-$trx3name   = 'IC-746';
+$trx3name   = 'IC-7610';
 
 // default
 $cwcliport  = '89';		// UDP port for CW message

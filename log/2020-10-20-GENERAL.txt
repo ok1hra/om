@@ -642,3 +642,22 @@
 642  2025-12-25 16:17 KU1CW         28.021    CW         599   599 599 |IC-705|<strong>United States</strong>|7223km
 643  2025-12-25 21:31 DL50OHM        3.533    CW         599   599 599 |IC-705|<strong>Germany</strong>|326km
 644  2025-12-25 21:33 HA6YOTA        3.531    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
+645  2025-12-27 23:37 KH7XS          7.027    CW         569   599 599 |IC-705|<strong>Hawaii</strong>|12039km
+646  2026-01-01 14:33 EG3WWA        21.018    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+647  2026-01-01 18:11 N1W           21.028    CW         599   599 599 |IC-705|<strong>United States</strong>|7223km
+648  2026-01-01 18:48 PZ5OZ         21.020    CW         599   599 599 |IC-705|<strong>Suriname</strong>|8066km
+649  2026-01-03 15:17 SX0W          21.017    CW         599   599 599 |IC-705|<strong>Greece</strong>|1534km
+650  2026-01-06 19:06 OP0WWA        14.029    CW         599   599 599 |IC-705|<strong>Belgium</strong>|712km
+651  2026-01-06 19:55 II2WWA        10.109    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+652  2026-01-23 17:48 CR6WWA        14.029    CW         599   599 599 |IC-705|<strong>Portugal</strong>|2247km
+653  2026-01-30 18:38 CQ7WWA        10.111    CW         599   599 599 |IC-705|<strong>Portugal</strong>|2247km
+654  2026-01-31 15:09 W1AW/1        28.033    CW          ME   599 599 |IC-705|<strong>United States</strong>|7223km
+655  2026-01-31 15:13 GB2WWA        14.013    CW         599   599 599 |IC-705|<strong>England</strong>|1029km
+656  2026-01-31 18:24 EG3WWA        14.150    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+657  2026-01-31 19:03 GB2WWA         7.029    CW         599   599 599 |IC-705|<strong>England</strong>|1029km
+658  2026-02-17 15:47 W1AW/4        28.024    CW         599   599 599 |IC-705|<strong>United States</strong>|7223km
+659  2026-02-17 19:49 W1AW/1        14.035    CW          MA   599 599 |IC-705|<strong>United States</strong>|7223km
+660  2026-02-17 20:39 IS0JXO         7.010    CW         599   599 599 |IC-705|<strong>Sardinia</strong>|1281km
+661  2026-02-17 20:51 HG80RADAR      3.519    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
+662  2026-02-20 18:08 K1LZ          21.007    CW          ME   599 599 |IC-746|<strong>United States</strong>|7223km
+663  2026-02-20 18:34 9A3XX         14.020    CW         599   599 599 |IC-746|<strong>Croatia</strong>|519km
