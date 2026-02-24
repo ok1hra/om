@@ -661,3 +661,11 @@
 661  2026-02-17 20:51 HG80RADAR      3.519    CW         599   599 599 |IC-705|<strong>Hungary</strong>|449km
 662  2026-02-20 18:08 K1LZ          21.007    CW          ME   599 599 |IC-746|<strong>United States</strong>|7223km
 663  2026-02-20 18:34 9A3XX         14.020    CW         599   599 599 |IC-746|<strong>Croatia</strong>|519km
+664  2026-02-24 16:33 AN46MA        21.029    CW         599   599 599 |IC-7610|<strong>Spain</strong>|1772km
+665  2026-02-24 16:35 AN46JA        21.023    CW         599   599 599 |IC-7610|<strong>Spain</strong>|1772km
+666  2026-02-24 16:42 YR150CB       14.025    CW         599   599 599 |IC-7610|<strong>Romania</strong>|1085km
+667  2026-02-24 16:43 AN46HU        14.014    CW         599   599 599 |IC-7610|<strong>Spain</strong>|1772km
+668  2026-02-24 16:45 HG80EME       14.014    CW         599   599 599 |IC-7610|<strong>Hungary</strong>|449km
+669  2026-02-24 17:23 ZV5PR         28.012    CW         599   599 599 |IC-7610|<strong>Brazil</strong>|9901km
+670  2026-02-24 17:32 J51A          21.027    CW         599   599 599 |IC-7610|<strong>Guinea-Bissau</strong>|5051km
+671  2026-02-24 17:41 ZV2SP         21.009    CW         599   599 599 |IC-7610|<strong>Brazil</strong>|9901km
