@@ -678,3 +678,8 @@
 678  2026-03-06 17:40 WI5D          28.049    CW      MO 559   599 599 |IC-7610|<strong>United States</strong>|7223km
 679  2026-03-06 18:06 K2JB          28.062    CW         539   599 599 |IC-7610|<strong>United States</strong>|7223km
 680  2026-03-06 18:19 8Q7ZW         21.007    CW         599   599 599 |IC-7610|<strong>Maldives</strong>|7467km
+681  2026-03-06 18:29 WC1D          21.057    CW         579   599 599 |IC-7610|<strong>United States</strong>|7223km
+682  2026-03-06 18:33 AC3IE         21.058    CW      PA 529   599 599 |IC-7610|<strong>United States</strong>|7223km
+683  2026-03-06 18:34 KG1A          21.056    CW      FL 559   599 599 |IC-7610|<strong>United States</strong>|7223km
+684  2026-03-08 20:19 N8JMS         14.054    CW         229   599 599 |IC-7610|<strong>United States</strong>|7223km
+685  2026-03-08 20:36 N1BS          14.057    CW         559   599 599 |IC-7610|<strong>United States</strong>|7223km
