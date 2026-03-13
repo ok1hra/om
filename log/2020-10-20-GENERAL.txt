@@ -687,3 +687,5 @@
 687  2026-03-10 21:21 K1NW          14.056    CW         599   599 599 |IC-7610|<strong>United States</strong>|7223km
 688  2026-03-12 19:56 W1AW/4        21.035    CW          VA   599 599 |IC-7610|<strong>United States</strong>|7223km
 689  2026-03-12 20:01 N2KW/VP9      21.025    CW         599   599 599 |IC-7610|<strong>United States</strong>|7223km
+690  2026-03-13 17:03 J51A          28.007    CW         599   599 599 |IC-7610|<strong>Guinea-Bissau</strong>|5051km
+691  2026-03-13 17:15 WB2FUV        21.063    CW      NY 589   599 599 |IC-7610|<strong>United States</strong>|7223km

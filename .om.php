@@ -24,7 +24,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '2025-12-14';
+$REV = '2026-03-13';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -46,6 +46,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
+	2026-03 - new NRUTC exchange for BARTG HF RTTY Contest (##-HHMM)
 	2025-12 - fix autofocus
 	2025-02 - manual QSO number decrease (start at 001 in exist log) via ?nr=xx in url
 	2024-11 - Three button for switch between three TRX
@@ -769,7 +770,13 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 	/////////////////// RTTY MEMORY ////////////////////////////
 	if ($mode == 'FSK' || $mode == 'RTTY' || $mode == 'RTTYR'){
 		$CQ = "\r\n ".$call.' '.$call.' '.$call.' TEST ';
-		if (strtoupper($exch) == 'NR'){
+		if (strtoupper($exch) == 'NRUTC'){
+			// BARTG HF RTTY Contest
+			$time = gmdate("Hi"); // gmdate=UTC, H=00-23, i=00-59
+			$TXEXCH = "\r\n ".$callr.' '.$callr.' 599-'.$qsonrs.'-'.$time.' 599-'.$qsonrs.'-'.$time.' ';    // $cwtwxt = call in input form, $qsonrs = QSO nr
+			$TXEXCHSP = "\r\n ".$callr.' '.$callr.' 599-'.$qsonrs.'-'.$time.' 599-'.$qsonrs.'-'.$time.' ';
+			$TXEXCHSP2 = "\r\n ".$callr.' '.$callr.' 599-'.($qsonrs-1).'-'.$time.' 599-'.($qsonrs-1).'-'.$time.' ';     // Exchange previous QSO
+		}else if (strtoupper($exch) == 'NR'){
 			$TXEXCH = "\r\n ".$callr.' '.$callr.' 599-'.$qsonrs.' 599-'.$qsonrs.' ';    // $cwtwxt = call in input form, $qsonrs = QSO nr
 			$TXEXCHSP = "\r\n ".$callr.' '.$callr.' 599-'.$qsonrs.' 599-'.$qsonrs.' ';
 			$TXEXCHSP2 = "\r\n ".$callr.' '.$callr.' 599-'.($qsonrs-1).' 599-'.($qsonrs-1).' ';     // Exchange previous QSO
