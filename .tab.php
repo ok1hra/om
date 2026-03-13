@@ -1097,7 +1097,7 @@ $date = date('Y-m-d-', time());
 	<input type="text" name="name" id="name" size="8" maxlength="30"/>
 	<label for="call">Callsign:</label>
 	<input type="text" name="call" id="call" size="8" maxlength="30"/>
-	<label for="exch">Exchange (NR for number):</label>
+	<label for="exch">Exchange | NR for number | NRUTC for number+utc (rtty only):</label>
 	<input type="text" name="exch" id="exch" size="8" maxlength="30"/>
 	<input type="submit" value="Create log">
 </form><?
