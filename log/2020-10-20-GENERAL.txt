@@ -690,3 +690,6 @@
 690  2026-03-13 17:03 J51A          28.007    CW         599   599 599 |IC-7610|<strong>Guinea-Bissau</strong>|5051km
 691  2026-03-13 17:15 WB2FUV        21.063    CW      NY 589   599 599 |IC-7610|<strong>United States</strong>|7223km
 692  2026-03-17 18:48 N2EI          14.054    CW      NJ 559   599 599 |IC-7610|<strong>United States</strong>|7223km
+693  2026-04-05 10:47 OK3KW        144.275   USB   12 JO60LJ    59  59 |IC-705|<strong>Czech Republic</strong>|77km
+694  2026-04-05 19:55 N3CU          14.042    CW          FL   599 599 |IC-705|<strong>United States</strong>|7223km
+695  2026-04-05 20:09 KD2MZH        14.066    CW      MA 559   599 599 |IC-705|<strong>United States</strong>|7223km
