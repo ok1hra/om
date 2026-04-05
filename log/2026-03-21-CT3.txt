@@ -1,0 +1,41 @@
+1    2026-04-01 17:58 OK1MGW        14.053    CW         539   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+2    2026-04-01 18:00 DK7TI         14.053    CW         599   599 599 |IC-705|<strong>Germany</strong>|326km
+3    2026-04-01 18:01 F6GCP         14.053    CW         599   599 599 |IC-705|<strong>France</strong>|885km
+4    2026-04-01 18:03 YL3JD         14.053    CW         559   599 599 |IC-705|<strong>Latvia</strong>|997km
+5    2026-04-01 18:14 OK1IC         14.053    CW         559   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+6    2026-04-01 18:17 DL6OCH        14.053    CW         529   599 599 |IC-705|<strong>Germany</strong>|326km
+7    2026-04-01 18:17 US5KX         14.053    CW         599   599 599 |IC-705|<strong>Ukraine</strong>|1142km
+8    2026-04-01 18:20 EA5QQ         14.053    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+9    2026-04-01 18:21 EA1TX         14.053    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+10   2026-04-01 18:22 OV5O          14.053    CW         599   599 599 |IC-705|<strong>Denmark</strong>|634km
+11   2026-04-01 18:22 E72U          14.053    CW         599   599 599 |IC-705|<strong>Bosnia-Herzegovina</strong>|791km
+12   2026-04-01 18:24 TF4WD         14.053    CW         559   599 599 |IC-705|<strong>Iceland</strong>|2635km
+13   2026-04-01 18:25 S51W          14.053    CW         599   599 599 |IC-705|<strong>Slovenia</strong>|455km
+14   2026-04-01 18:27 SO5CW         14.053    CW         599   599 599 |IC-705|<strong>Poland</strong>|515km
+15   2026-04-01 18:28 OK2CQR        14.053    CW         599   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+16   2026-04-01 18:29 OK1FRG        14.053    CW         599   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+17   2026-04-01 18:30 DL1SKB        14.053    CW         599   599 599 |IC-705|<strong>Germany</strong>|326km
+18   2026-04-01 18:30 IK4RQF        14.053    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+19   2026-04-01 18:31 OK4RQ         14.053    CW         599   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+20   2026-04-01 18:31 OK2PVG        14.053    CW         599   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+21   2026-04-01 18:31 F5LCI         14.053    CW         589   599 599 |IC-705|<strong>France</strong>|885km
+22   2026-04-01 18:32 OZ/DK4NX      14.053    CW         599   599 599 |IC-705|<strong>Denmark</strong>|634km
+23   2026-04-01 18:33 PD1RDY        14.053    CW         599   599 599 |IC-705|<strong>Netherlands</strong>|708km
+24   2026-04-01 18:33 SM4UEF        14.053    CW         599   599 599 |IC-705|<strong>Sweden</strong>|1049km
+25   2026-04-01 18:34 F5MAI         14.053    CW         599   599 599 |IC-705|<strong>France</strong>|885km
+26   2026-04-01 18:38 OE1CIW        14.053    CW         599   599 599 |IC-705|<strong>Austria</strong>|252km
+27   2026-04-01 18:41 OK1MHZ        14.053    CW     559 MIU   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+28   2026-04-01 18:41 DF1ZY         14.053    CW         599   599 599 |IC-705|<strong>Germany</strong>|326km
+29   2026-04-01 18:42 PA3BUD        14.053    CW         599   599 599 |IC-705|<strong>Netherlands</strong>|708km
+30   2026-04-01 18:43 DL3YM         14.053    CW         599   599 599 |IC-705|<strong>Germany</strong>|326km
+31   2026-04-01 18:44 IZ2DLV        14.053    CW         599   599 599 |IC-705|<strong>Italy</strong>|923km
+32   2026-04-01 18:45 M9MAA         14.053    CW         599   599 599 |IC-705|<strong>England</strong>|1029km
+33   2026-04-01 18:46 SP4TKA        14.053    CW         599   599 599 |IC-705|<strong>Poland</strong>|515km
+34   2026-04-01 18:48 DF4IY         14.053    CW         599   599 599 |IC-705|<strong>Germany</strong>|326km
+35   2026-04-01 18:49 G4GIR         14.053    CW         599   599 599 |IC-705|<strong>England</strong>|1029km
+36   2026-04-01 18:51 EA8RM         14.053    CW         599   599 599 |IC-705|<strong>Canary Is.</strong>|3473km
+37   2026-04-01 18:53 WP3Y          14.053    CW         599   599 599 |IC-705|<strong>Puerto Rico</strong>|7778km
+38   2026-04-01 18:56 PE2K          14.053    CW         599   599 599 |IC-705|<strong>Netherlands</strong>|708km
+39   2026-04-01 18:56 UT2UB         14.053    CW         599   599 599 |IC-705|<strong>Ukraine</strong>|1142km
+40   2026-04-01 19:03 OH9VL         14.053    CW         579   599 599 |IC-705|<strong>Finland</strong>|1305km
+41   2026-04-01 19:04 G4LPP         14.053    CW         599   599 599 |IC-705|<strong>England</strong>|1029km

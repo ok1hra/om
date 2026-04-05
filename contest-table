@@ -1,4 +1,13 @@
 <tr>
+	<td>2026-03-21-CT3</td>
+	<td>CT3/OK1HRA</td>
+	<td class="center">TU</td>
+	<td><a href="log/2026-03-21-CT3.txt">.txt</a></td>
+	<td><a href="log/2026-03-21-CT3.adif">.adif</a></td>
+	<td class="center"><? if (file_exists("log/2026-03-21-CT3.txt")) { echo qso("log/2026-03-21-CT3.txt"); $sumqso=$sumqso+qso("log/2026-03-21-CT3.txt");} else { echo "-";}?></td>
+	<td class="center"><a href=".om.php?s=run&log=2026-03-21-CT3&call=CT3/OK1HRA&exch=TU" onclick="window.open( this.href, this.href, 'width=550,height=300,left=0,top=0,menubar=no,location=no,status=no' ); return false;"  title="SCL"><img src="split.png" alt="split window"></a></td>
+</tr>
+<tr>
 	<td>2026-02-21-ARRL-CW</td>
 	<td>OK1HRA</td>
 	<td class="center">1TT</td>
