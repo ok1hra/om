@@ -144,3 +144,7 @@
 144  2025-12-13 23:13 OK4DC          3.511    CW          73   599 599 |IC-705|<strong>Czech Republic</strong>|0km
 145  2025-12-13 23:14 OK1MND         3.511    CW          88   599 599 |IC-705|<strong>Czech Republic</strong>|0km
 146  2025-12-13 23:16 OL5Q           3.511    CW         999   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+147  2026-04-08 01:35 OK1AZK         7.015    CW          73   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+148  2026-04-08 01:35 OK1AZK         7.015    CW         332   599 599 |IC-705|<strong>Czech Republic</strong>|0km
+149  2026-04-08 01:35 DL1YD          7.015    CW         322   599 599 |IC-705|<strong>Germany</strong>|326km
+150  2026-04-08 01:36 DL3PH          7.015    CW        OLEG   599 599 |IC-705|<strong>Germany</strong>|326km

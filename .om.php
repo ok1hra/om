@@ -24,7 +24,7 @@ $catcmdport = '90';		// UDP command trasfer to cat | FE FE A4 E0 <command> FD
 $CAT        = '1';		// 1 = http CAT (default), 0 = hamlib (obsolete)
 //-----------------------------------------------------------------------------
 
-$REV = '2026-03-13';
+$REV = '2026-04-08';
 $rigip     = '127.0.0.1';	// (obsolete) TRX IP - hamlib(rigctld) / OpenInterface3
 $path = '';
 $log = $_GET['log'];
@@ -46,6 +46,7 @@ global $preset2;
   see http://remoteqth.com/wiki/index.php?page=PHP+contest+Log
 
 	Changelog
+	2026-04 - fix search bug if / in call
 	2026-03 - new NRUTC exchange for BARTG HF RTTY Contest (##-HHMM)
 	2025-12 - fix autofocus
 	2025-02 - manual QSO number decrease (start at 001 in exist log) via ?nr=xx in url
@@ -817,7 +818,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		udpsocket($IP, port(), $callr.'?' );    // TX cw text
 		$show = $callr.'?' ;                    // Show cw text
 		$preset = $callr;                       // call insert back in form field
-		$search = preg_grep("/$callr/", file("$logpath.txt"));
+		//$search = preg_grep("/$callr/", file("$logpath.txt"));
+		$search = array_filter(file("$logpath.txt"), function($line) use ($callr) {
+    			return stripos($line, $callr) !== false;
+		});
 	//	$preset2 = $qsonrr;                     // exch insert back in form field
 		$af1 = 'autofocus="autofocus"';         // cursor in first field (call)
 		$af2 = '';                              //            second      (nr)
@@ -842,7 +846,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 		$af2 = '';
 		$prevexch='<input type="submit" name="send" value="previous exchange" class="qso"><input type="submit" name="send" value="Check" class="qso">';
 	}elseif ($_POST['send'] == 'Check' && isset($callr)){
-		$search = preg_grep("/ $callr /", file("$logpath.txt"));
+		//$search = preg_grep("/ $callr /", file("$logpath.txt"));
+		$search = array_filter(file("$logpath.txt"), function($line) use ($callr) {
+    			return stripos($line, $callr) !== false;
+		});
 		$preset = $callr;
 		$preset2 = $qsonrr;
 		$af1 = 'autofocus="autofocus"';
@@ -872,7 +879,11 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 						$mhz = number_format(round(freq($rigip)/1000000, 3), 3);
 						$show = $CQ.' <span class="'.$style.'">('.$mhz.' Mhz) | Occupant detected!</span>' ;
 
-						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						//$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$search = array_filter(file("$logpath.txt"), function($line) use ($callr) {
+				    			return stripos($line, $callr) !== false;
+						});
+
 						$callr = '';
 						$preset = $callr;
 						$af1 = 'autofocus="autofocus"';
@@ -883,7 +894,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 							txfile('/tmp/callr', $callr);  // save call for test, if change
 						$show = $TXEXCH ;
 
-						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						//$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$search = array_filter(file("$logpath.txt"), function($line) use ($callr) {
+				    			return stripos($line, $callr) !== false;
+						});
 						$preset = $callr;
 						$af1 = '';
 						$af2 = 'autofocus="autofocus"';
@@ -893,7 +907,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 					if (preg_match('*(Russia|Kaliningrad)*', GetDxcc($callr))) {
 						$show = 'Occupant detected! ' ;
 
-						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						//$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$search = array_filter(file("$logpath.txt"), function($line) use ($callr) {
+				    			return stripos($line, $callr) !== false;
+						});
 						$callr = '';
 						$preset = $callr;
 						$af1 = 'autofocus="autofocus"';
@@ -908,7 +925,10 @@ if ($mode == 'CW' || $mode == 'CWR' || $mode == 'SSB'  || $mode == 'LSB' || $mod
 						$mhz =number_format( round(freq($rigip)/1000000, 3), 3);
 						$show = $call.' <span class="'.$style.'">('.$mhz.' Mhz)</span>' ;
 						
-						$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						//$search = preg_grep("/ $callr /", file("$logpath.txt"));  // Check call in log
+						$search = array_filter(file("$logpath.txt"), function($line) use ($callr) {
+				    			return stripos($line, $callr) !== false;
+						});
 						$preset = $callr;
 						$af1 = '';
 						$af2 = 'autofocus="autofocus"';			

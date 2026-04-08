@@ -693,3 +693,6 @@
 693  2026-04-05 10:47 OK3KW        144.275   USB   12 JO60LJ    59  59 |IC-705|<strong>Czech Republic</strong>|77km
 694  2026-04-05 19:55 N3CU          14.042    CW          FL   599 599 |IC-705|<strong>United States</strong>|7223km
 695  2026-04-05 20:09 KD2MZH        14.066    CW      MA 559   599 599 |IC-705|<strong>United States</strong>|7223km
+696  2026-04-05 21:53 W1AW/4        14.027    CW          NC   599 599 |IC-705|<strong>United States</strong>|7223km
+697  2026-04-05 22:28 W1AW/5        14.038    CW          MS   599 599 |IC-705|<strong>United States</strong>|7223km
+698  2026-04-07 15:54 W1AW/4        21.027    CW          NC   599 599 |IC-705|<strong>United States</strong>|7223km
