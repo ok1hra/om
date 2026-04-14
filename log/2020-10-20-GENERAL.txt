@@ -696,3 +696,11 @@
 696  2026-04-05 21:53 W1AW/4        14.027    CW          NC   599 599 |IC-705|<strong>United States</strong>|7223km
 697  2026-04-05 22:28 W1AW/5        14.038    CW          MS   599 599 |IC-705|<strong>United States</strong>|7223km
 698  2026-04-07 15:54 W1AW/4        21.027    CW          NC   599 599 |IC-705|<strong>United States</strong>|7223km
+699  2026-04-09 18:00 EA2WX/P       21.058    CW         599   599 599 |IC-705|<strong>Spain</strong>|1772km
+700  2026-04-09 18:59 W4DHW         14.059    CW         239   599 599 |IC-705|<strong>United States</strong>|7223km
+701  2026-04-09 19:15 AJ1SK         14.051    CW          NH   599 599 |IC-705|<strong>United States</strong>|7223km
+702  2026-04-09 19:23 9V1DE         14.050    CW         559   599 599 |IC-705|<strong>Singapore</strong>|9853km
+703  2026-04-10 20:46 W3JPH         14.067    CW      329 GA   599 599 |IC-705|<strong>United States</strong>|7223km
+704  2026-04-12 12:18 JA1BJI        21.020    CW          11   599 599 |IC-7610|<strong>Japan</strong>|9074km
+705  2026-04-12 20:09 K7SVR         14.063    CW      589 WY   599 599 |IC-7610|<strong>United States</strong>|7223km
+706  2026-04-12 20:13 VE2ZDX        14.056    CW         589   599 599 |IC-7610|<strong>Canada</strong>|6615km
