@@ -704,3 +704,6 @@
 704  2026-04-12 12:18 JA1BJI        21.020    CW          11   599 599 |IC-7610|<strong>Japan</strong>|9074km
 705  2026-04-12 20:09 K7SVR         14.063    CW      589 WY   599 599 |IC-7610|<strong>United States</strong>|7223km
 706  2026-04-12 20:13 VE2ZDX        14.056    CW         589   599 599 |IC-7610|<strong>Canada</strong>|6615km
+707  2026-05-02 19:53 HG6N         144.120   CW  001 JN98VD  479km 114°   599 599 |IC-705|<strong>Hungary</strong>|449km
+708  2026-05-05 15:39 LZ100LZ       14.013    CW         599   599 599 |IC-7610|<strong>Bulgaria</strong>|1067km
+709  2026-05-06 17:11 EH90ALL       14.021    CW         599   599 599 |IC-705|<strong>Ceuta and Melilla</strong>|2136km
